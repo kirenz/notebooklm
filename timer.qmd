@@ -1,0 +1,16 @@
+---
+title: "Countdown-Test"
+format: revealjs
+---
+
+## Setup
+```{r setup, include=FALSE}
+library(countdown)
+```
+
+
+
+```{r}
+countdown(minutes = 1, play_sound = TRUE)
+
+```

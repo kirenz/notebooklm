@@ -1,0 +1,342 @@
+---
+title: "NotebookLM"
+subtitle: "Introduction"
+author: "Jan Kirenz"
+execute:
+  eval: true
+  echo: false
+highlight-style: github-dark
+format:
+  revealjs:
+    reference-location: document
+    toc: false
+    toc-depth: 1
+    embed-resources: false
+    theme: [default, custom.scss] # Assuming a custom.scss file for specific styles
+    incremental: true
+    transition: fade
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: false
+    smaller: false
+    scrollable: true
+    slide-number: c
+    preview-links: auto
+    chalkboard:
+      buttons: false
+    logo: images/logo.png # Optional: Add path to your logo
+    footer: "Jan Kirenz | NotebookLM Workshop" 
+    template-partials:
+      - title-slide.html
+---
+
+
+
+
+# Your First Notebook {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+A notebook is simply a collection   
+of sources for a specific project.
+
+
+## Notes on Slide Structure
+
+Most slides follow the structure shown in this slide
+
+
+:::: {.columns}
+
+::: {.column width="60%" .fragment .fade-up}
+![](images/notebooklm/screenshot.png)
+:::
+
+::: {.column width="40%"  .fragment .fade-left }
+
+<br>
+
+Here you see your instructions.
+
+Follow the steps shown here. 
+
+:::
+
+::::
+
+. . .
+
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+This part gives you only additional context or tips
+
+:::
+
+:::
+::::
+
+
+
+## Open NotebookLM
+
+
+:::: {.columns}
+
+::: {.column width="60%" .fragment .fade-up}
+![](images/notebooklm/notebooklm-open.png)
+:::
+
+::: {.column width="40%"  .fragment .fade-left .custom-small}
+
+<br>
+
+On your device: 
+
+[🔗 Open NotebookLM](https://notebooklm.google/)
+
+
+
+
+:::
+
+::::
+
+. . .
+
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+NotebookLM cannot delete or edit your original files in Google Drive
+
+:::
+
+:::
+::::
+
+
+
+## Create a New Notebook 
+
+
+:::: {.columns}
+
+::: {.column width="60%" .fragment .fade-up}
+![](images/notebooklm/nlm-00.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+To create a new notebook, select: 
+
+**+ New**
+:::
+
+::::
+
+
+## Add Your Sources  
+
+
+:::: {.columns}
+
+::: {.column width="60%" .fragment .fade-up}
+![](images/notebooklm/nlm-000.png)
+:::
+
+::: {.column width="40%"  .fragment .fade-left .custom-small}
+
+<br>
+
+Select a document you want to explore 
+
+
+:::{.small-text}
+I'm using the [EU AI Act](images/notebooklm/EU-AI-ACT.pdf) as an example
+:::
+
+Add the document 
+
+:::
+
+::::
+
+. . .
+
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+You can add up to 300 sources: **(1)** PDF, PPT, Excel, Audio, Images **(2)** Google Docs or Google Slides 
+**(3)** Website or YouTube **(4)** Copied text **(5)** Search the web
+:::
+
+:::
+::::
+
+
+
+## Three Core Areas 
+
+:::: {.columns}
+::: {.column width="80%" .fragment .fade-up}
+
+![](images/notebooklm/nlm-0000.png){width="80%"}
+:::
+
+::: {.column width="20%" }
+
+:::
+
+::::
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="20%" .tiny-text }
+**Sources Section**: Upload and manage documents.   
+
+:::
+
+::: {.column width="30%" .tiny-text }
+**Chat Section**: Ask questions and get answers based on your documents.  
+:::
+
+
+::: {.column width="30%" .tiny-text }
+**Studio Section**: Generate and save outputs like summaries, study guides, and notes.  
+:::
+
+::::
+
+
+## Automatically Generated Summary 
+
+:::: {.columns}
+
+::: {.column width="60%" }
+
+![](images/notebooklm/nlm-01.png)
+:::
+
+::: {.column width="40%"}
+
+<br>
+
+
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+The summary is automatically generated
+
+:::
+
+:::
+::::
+
+
+
+
+
+## Save Summary as Note 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-08.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+**1** In the **Chat Section**: 
+
+Select **Save to note**
+
+
+:::
+
+::::
+
+
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+**2** The note appears in the "Notebook" within the **Studio Section**
+
+:::
+
+:::
+::::
+
+
+
+
+## Open the Note 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-09.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+Click on the note in the **Studio Section**
+
+(it will open in a new window)
+
+:::
+
+::::
+
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+:::{.callout-note .fragment .fade-up}
+
+Saved answer notes are not editable
+
+:::
+
+:::
+::::
+
+
+# To the Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+[Workshop Website](https://kirenz.github.io/notebooklm-de/)

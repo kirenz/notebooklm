@@ -1,0 +1,195 @@
+# Use Cases
+
+
+Choose one of the following use cases to practice:
+
+:::{.callout-tip title="Example Use Cases" collapse="true"}
+
+- **A. Presentation Preparation**: Transform reports into compelling presentation content.
+
+- **B. Competitive Analysis**: Analyze multiple competitor documents simultaneously
+
+- **C. Training Accelerator**: Transform manuals into engaging content
+
+- **D. Precise Communication**: Communicate precisely – clearly, understandably, and effectively.
+
+- **E. Department-Specific Use Case**: Explore specialized applications for your department
+
+:::
+
+---
+
+## A: Presentation Preparation
+
+**Challenge:** Presentation due Friday
+
+**Goal:** Transform reports into compelling presentation content.
+
+**What you need:** 
+
+- Real data/reports from your work
+- A new NotebookLM notebook
+
+**Steps:**
+
+1. Open [NotebookLM](https://notebooklm.google.com) 
+2. Select **Create new**
+3. Upload your report or data documents
+4. Use this prompt in the chat (replace target audience and length):
+
+::: {.callout-important title="Prompt" collapse="true"}
+```markdown
+Create a presentation outline with
+- 5 compelling discussion points
+- Supporting data for each point
+- 3 key insights for executives
+- 10 potential Q&A use cases
+
+Target audience: "Board of directors"
+Presentation length: "30 minutes"
+```
+:::
+
+5. Save the result as a **Note**
+6. Create an **Audio Summary** to practice your presentation
+7. Create a **Mindmap** for a visual overview
+
+---
+
+## B: Competitive Analysis
+
+**Challenge:** Understanding the competitive landscape
+
+**Goal:** Analyze multiple competitor materials simultaneously.
+
+**What you need:**
+
+- Multiple competitor documents (reports, brochures, presentations)
+- A new NotebookLM notebook
+
+**Steps:**
+
+1. Open [NotebookLM](https://notebooklm.google.com) 
+2. Select **Create new**
+3. Upload multiple competitor materials
+4. Use this prompt in the chat:
+
+::: {.callout-important title="Prompt" collapse="true"}
+```markdown
+Compare these competitor documents and identify:
+- Their main advantages
+- Gaps in their offerings
+- Opportunities for our company
+- Price/positioning differences
+Create a strategic summary.
+```
+:::
+
+5. Save the result as a **Note**
+6. Ask follow-up questions about specific competitors
+7. Create a **Mindmap** to visualize the competitive landscape
+
+---
+
+## C: Training Accelerator
+
+**Challenge:** Making technical content engaging
+
+**Goal:** Transform technical manuals into engaging training content.
+
+**What you need:**
+
+- Technical manuals or training materials
+- A new NotebookLM notebook
+
+**Steps:**
+
+1. Open [NotebookLM](https://notebooklm.google.com) 
+2. Select **Create new**
+3. Upload your technical training materials
+4. Use this prompt in the chat (replace the placeholder):
+
+::: {.callout-important title="Prompt" collapse="true"}
+```markdown
+Transform this technical manual into
+- 10 practical use cases/examples
+- Interactive Q&A for self-review
+- Checklist with key points
+- Common mistakes to avoid
+Make it engaging for [TARGET AUDIENCE].
+
+[TARGET AUDIENCE] = "Project managers"
+```
+:::
+
+5. Save the result as a **Note**
+6. Create an **Audio Summary** for auditory learning
+7. Ask for specific scenarios or case studies
+
+---
+
+## D: Communication Clarity
+
+**Challenge:** Perfecting professional communication
+
+**Goal:** Communicate precisely – clearly, understandably, and effectively.
+
+**What you need:**
+
+- Documents related to your communication topic
+- A new NotebookLM notebook
+
+**Steps:**
+
+1. Open [NotebookLM](https://notebooklm.google.com) 
+2. Select **Create new**
+3. Upload relevant documents for context
+4. Use this prompt in the chat (replace the placeholder):
+
+::: {.callout-important title="Prompt" collapse="true"}
+```markdown
+Write a [TEXT] based on these documents that:
+- Clearly outlines the situation
+- Provides necessary context
+- Recommends specific actions
+- Includes next steps and a timeline
+The tone should be [TONE]
+
+PLACEHOLDERS:
+[TEXT] = "Email"
+[TONE] = "friendly"
+```
+Examples for placeholders:
+
+[TEXT] = "Email" or "Update" or "Proposal", ...   
+[TONE] = "professional" or "casual" or "urgent", ...
+
+
+:::
+
+5. Save the result as a **Note**
+
+
+---
+
+## E: Department-Specific Use Cases
+
+**Challenge:** Department-specific usage
+
+**Goal:** Explore specialized applications for your department.
+
+- [Overview of department-specific use cases](/use-cases-domains.qmd)
+
+**What you need:**
+
+- Department-specific documents
+- A new NotebookLM notebook
+
+**Steps:**
+
+1. Open [NotebookLM](https://notebooklm.google.com) 
+2. Select **Create new**
+3. Upload relevant documents for context
+4. Use a specific prompt in the chat
+
+

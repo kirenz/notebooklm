@@ -1,0 +1,64 @@
+<section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
+  <h1 class="title">$title$</h1>
+  <div class="subtitle-container">
+    <span class="subtitle-button">$subtitle$</span>
+  </div>
+  <div class="image-container">
+    <img src="images/logo.png" alt="Logo" />
+  </div>
+  <!-- <p class="author">$author$</p> -->
+
+  <svg class="geometric-background" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <!-- Horizontale Linien -->
+    <path class="geo-line light" d="M0,125 L1000,125"/>
+    <path class="geo-line light" d="M0,250 L1000,250"/>
+    <path class="geo-line light" d="M0,375 L1000,375"/>
+    <path class="geo-line light" d="M0,500 L1000,500"/>
+    <path class="geo-line light" d="M0,625 L1000,625"/>
+    <path class="geo-line light" d="M0,750 L1000,750"/>
+    <path class="geo-line light" d="M0,875 L1000,875"/>
+    
+    <!-- Vertikale Linien -->
+    <path class="geo-line light" d="M125,0 L125,1000"/>
+    <path class="geo-line light" d="M250,0 L250,1000"/>
+    <path class="geo-line light" d="M375,0 L375,1000"/>
+    <path class="geo-line light" d="M500,0 L500,1000"/>
+    <path class="geo-line light" d="M625,0 L625,1000"/>
+    <path class="geo-line light" d="M750,0 L750,1000"/>
+    <path class="geo-line light" d="M875,0 L875,1000"/>
+    
+    <!-- Diagonale Linien, die sich in der Mitte treffen -->
+    <path class="geo-line dark" d="M0,0 L500,500"/>
+    <path class="geo-line dark" d="M1000,0 L500,500"/>
+    <path class="geo-line dark" d="M0,1000 L500,500"/>
+    <path class="geo-line dark" d="M1000,1000 L500,500"/>
+  </svg>
+
+  <style>
+    .geometric-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+    .image-container img {
+      max-width: 200px;  /* Control the maximum width of the image */
+      height: auto;      /* Maintain aspect ratio */
+    }
+    .geo-line {
+      fill: none;
+      stroke-width: 1;
+    }
+    .geo-line.light {
+      stroke: #bbdefb;
+      opacity: 0.5;
+    }
+    .geo-line.dark {
+      stroke: #2196f3;
+      opacity: 0.7;
+    }
+  </style>
+</section>
+

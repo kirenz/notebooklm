@@ -1,0 +1,1010 @@
+/*-- scss:defaults --*/
+// Kärcher uses Arial font family
+$font-family-sans-serif: "Arial", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+
+// Kärcher Brand Colors
+$karcher-yellow: #FFDE00;
+$karcher-black: #000000;
+$karcher-dark-gray: #333333;
+$karcher-light-gray: #F5F5F5;
+$karcher-white: #ffffff;
+
+// Primary colors adapted for Kärcher branding
+$primary: $karcher-yellow;
+$secondary: $karcher-dark-gray;
+$accent: $karcher-black;
+$dark: $karcher-black;
+$darker: #1a1a1a;
+$light: $karcher-light-gray;
+$lighter: $karcher-white;
+$text-primary: $karcher-black;
+$text-secondary: $karcher-dark-gray;
+$text-light: #e5e7eb;
+$border-color: #e5e7eb;
+$border-dark: #30363d;
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$font-weight-extrabold: 800;
+$line-height-base: 1.6;
+$letter-spacing: -0.02em;
+
+// Spacing
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer * 0.75,
+  4: $spacer,
+  5: $spacer * 1.25,
+  6: $spacer * 1.5,
+  7: $spacer * 2,
+  8: $spacer * 2.5,
+  9: $spacer * 3,
+  10: $spacer * 3.5,
+);
+
+// Radius
+$border-radius: 0.75rem;
+$border-radius-sm: 0.5rem;
+$border-radius-lg: 1rem;
+$border-radius-xl: 1.5rem;
+
+/*-- scss:rules --*/
+
+/* Root and body styling */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: $letter-spacing;
+  color: $text-primary;
+  background-color: $lighter;
+  font-weight: $font-weight-normal;
+  line-height: $line-height-base;
+}
+
+/* Modern header styling with Kärcher branding */
+.navbar {
+  background: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+  
+  .navbar-brand {
+    font-weight: $font-weight-bold;
+    font-size: 1.5rem;
+    color: $karcher-black !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .navbar-nav .nav-link {
+    font-weight: $font-weight-medium;
+    color: $karcher-dark-gray !important;
+    padding: 0.5rem 1rem !important;
+    border-radius: $border-radius-sm;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      color: $karcher-black !important;
+      background-color: rgba(255, 237, 0, 0.2);
+    }
+    
+    &.active {
+      color: $karcher-black !important;
+      background-color: rgba(255, 237, 0, 0.3);
+    }
+  }
+}
+
+/* Hero section styling with Kärcher branding */
+.hero {
+  background: linear-gradient(135deg, $karcher-yellow 0%, #FFDE00 100%);
+  color: $karcher-black;
+  padding: 4rem 0;
+  margin-bottom: 3rem;
+  border-radius: $border-radius-xl;
+  
+  h1 {
+    font-size: 3.5rem;
+    font-weight: $font-weight-extrabold;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: $karcher-black;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    font-weight: $font-weight-normal;
+    color: $karcher-dark-gray;
+    margin-bottom: 2rem;
+  }
+}
+
+/* Modern typography with Kärcher branding */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: $font-weight-bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: $karcher-black;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: $font-weight-extrabold;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: $font-weight-bold;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: $font-weight-semibold;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: $text-secondary;
+  margin-bottom: 1.5rem;
+}
+
+/* Link styling with Kärcher branding */
+a {
+  color: $karcher-black;
+  text-decoration: underline;
+  text-decoration-color: $karcher-yellow;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: $karcher-dark-gray;
+    text-decoration-color: $karcher-black;
+  }
+  
+  &:visited {
+    color: $karcher-dark-gray;
+  }
+}
+
+/* Modern buttons with Kärcher branding */
+.btn {
+  font-weight: $font-weight-medium;
+  padding: 0.75rem 1.5rem;
+  border-radius: $border-radius;
+  border: none;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  
+  &.btn-primary {
+    background: linear-gradient(135deg, $karcher-black 0%, #080808 100%);
+    color: $karcher-yellow;
+    box-shadow: 0 4px 14px rgba(255, 237, 0, 0.3);
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(255, 237, 0, 0.4);
+      background: linear-gradient(135deg, #FFDE00 0%, $karcher-dark-gray 100%);
+    }
+  }
+  
+  &.btn-secondary {
+    background: rgba(51, 51, 51, 0.1);
+    color: $karcher-dark-gray;
+    border: 1px solid $border-color;
+    
+    &:hover {
+      background: rgba(51, 51, 51, 0.15);
+      border-color: $karcher-dark-gray;
+      transform: translateY(-1px);
+    }
+  }
+}
+
+/* Features grid */
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 3rem 0;
+  
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+.feature {
+  background: white;
+  border: 1px solid $border-color;
+  border-radius: $border-radius-lg;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px #FFDE00;
+  
+  &:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    border-color: rgba(16, 163, 127, 0.3);
+  }
+  
+  .feature-icon {
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, $primary, $secondary);
+    border-radius: $border-radius;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    color: white;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+    font-weight: $font-weight-semibold;
+    margin-bottom: 1rem;
+    color: $text-primary;
+  }
+  
+  p {
+    color: $text-secondary;
+    margin-bottom: 0;
+    line-height: 1.6;
+  }
+  
+  img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: $border-radius;
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* Callouts - Kärcher brand style */
+.callout {
+  border: 2px solid $karcher-yellow;
+  border-radius: $border-radius-lg;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  background: rgba(252, 238, 79, 0.1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  
+  &.callout-note {
+    background: rgba(252, 238, 79, 0.08);
+    border-color: $karcher-yellow;
+    border-left: 4px solid $karcher-yellow;
+  }
+  
+  &.callout-warning {
+    background: rgba(255, 193, 7, 0.1);
+    border-color: #ffc107;
+    border-left: 4px solid #ffc107;
+  }
+  
+  &.callout-important {
+    background: rgba(51, 51, 51, 0.05);
+    border-color: $karcher-dark-gray;
+    border-left: 4px solid $karcher-dark-gray;
+  }
+  
+  .callout-header {
+    font-weight: $font-weight-bold;
+    margin-bottom: 0.75rem;
+    color: $karcher-black;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.9rem;
+  }
+  
+  .callout-body p:last-child {
+    margin-bottom: 0;
+    color: $karcher-dark-gray;
+  }
+}
+
+/* Cards */
+.card {
+  background: white;
+  border: 1px solid $border-color;
+  border-radius: $border-radius-lg;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  overflow: hidden;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+  
+  .card-header {
+    background: linear-gradient(135deg, $light, #f9fafb);
+    border-bottom: 1px solid $border-color;
+    padding: 1.5rem;
+    font-weight: $font-weight-semibold;
+  }
+  
+  .card-body {
+    padding: 1.5rem;
+  }
+}
+
+/* Code blocks */
+pre {
+  background: #ffffff !important;
+  border: 2px solid #e5e7eb !important;
+  border-radius: $border-radius !important;
+  padding: 1.5rem !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+  
+  code {
+    color: #1f2937 !important;
+    font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace !important;
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+  }
+}
+
+/* Inline code */
+code:not(pre code) {
+  background: #f3f4f6 !important;
+  color: #1f2937 !important;
+  padding: 0.2rem 0.4rem !important;
+  border-radius: 0.25rem !important;
+  font-size: 0.9em !important;
+  font-weight: $font-weight-medium !important;
+  border: 1px solid #e5e7eb !important;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  border-radius: $border-radius;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  
+  thead {
+    background: linear-gradient(135deg, $primary, #0f9571);
+    color: white;
+    
+    th {
+      padding: 1rem;
+      font-weight: $font-weight-semibold;
+      text-align: left;
+    }
+  }
+  
+  tbody {
+    tr {
+      border-bottom: 1px solid $border-color;
+      transition: background-color 0.2s ease;
+      
+      &:hover {
+        background-color: rgba(16, 163, 127, 0.05);
+      }
+      
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+    
+    td {
+      padding: 1rem;
+      color: $text-secondary;
+    }
+  }
+}
+
+/* Footer */
+.page-footer {
+  background: $dark;
+  color: $text-light;
+  padding: 2rem 0;
+  margin-top: 4rem;
+  border-radius: $border-radius-xl $border-radius-xl 0 0;
+  
+  a {
+    color: $primary;
+    text-decoration: none;
+    
+    &:hover {
+      color: $karcher-black;
+    }
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  
+  .navbar-collapse {
+    background: white;
+    border-radius: $border-radius;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .features {
+    margin: 2rem 0;
+  }
+  
+  .feature {
+    padding: 1.5rem;
+  }
+}
+
+/* Search */
+#quarto-search-results {
+  border-radius: $border-radius-lg;
+  border: 1px solid $border-color;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Smooth transitions for all interactive elements */
+* {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: $light;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, $primary, $secondary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #0f9571, #1557b0);
+}
+
+// ======================================================
+// == NEUE STILE FÜR DIE NOTEBOOKLM UI-DARSTELLUNG      ==
+// ======================================================
+
+/* Container für die gesamte NotebookLM UI-Darstellung */
+.nlm-ui-container {
+  display: flex;
+  gap: 1px; /* Minimaler Abstand wie im Original */
+  width: 100%;
+  height: 600px;
+  background-color: #ffffff;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+/* Basis-Stil für alle Panels */
+.nlm-panel {
+  background-color: #ffffff;
+  border-right: 1px solid #dadce0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.4s ease-in-out;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.nlm-panel:last-child {
+  border-right: none;
+}
+
+/* Spezifische Breiten für die Panels */
+.nlm-sources { flex: 0 0 280px; }
+.nlm-chat { flex: 1; }
+.nlm-studio { flex: 0 0 320px; }
+
+/* Panel-Header */
+.nlm-panel-header {
+  font-weight: 500;
+  font-size: 14px;
+  color: #3c4043;
+  padding: 16px 20px 12px 20px;
+  border-bottom: 1px solid #e8eaed;
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Sources Panel Styling */
+.nlm-sources {
+  background-color: #fafafa;
+}
+
+.nlm-sources-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  text-align: center;
+}
+
+.nlm-sources-icon {
+  font-size: 48px;
+  color: #9aa0a6;
+  margin-bottom: 16px;
+}
+
+.nlm-sources-text {
+  color: #5f6368;
+  font-size: 14px;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.nlm-sources-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.nlm-btn {
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: 1px solid #dadce0;
+  background: white;
+  color: #1a73e8;
+}
+
+.nlm-btn:hover {
+  background-color: #f8f9fa;
+}
+
+/* Chat Panel Styling */
+.nlm-chat {
+  display: flex;
+  flex-direction: column;
+}
+
+.nlm-chat-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  text-align: center;
+}
+
+.nlm-upload-icon {
+  font-size: 24px;
+  color: #4285f4;
+  margin-bottom: 16px;
+}
+
+.nlm-upload-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #3c4043;
+  margin-bottom: 20px;
+}
+
+.nlm-upload-btn {
+  padding: 12px 24px;
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 24px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.nlm-upload-btn:hover {
+  background-color: #3367d6;
+}
+
+.nlm-chat-bottom {
+  padding: 16px 20px;
+  border-top: 1px solid #e8eaed;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nlm-chat-input-field {
+  flex: 1;
+  padding: 12px 16px;
+  border: 1px solid #dadce0;
+  border-radius: 24px;
+  font-size: 14px;
+  color: #9aa0a6;
+  background-color: #fafafa;
+}
+
+.nlm-send-btn {
+  color: #4285f4;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+/* Studio Panel Styling */
+.nlm-studio {
+  background-color: #fafafa;
+}
+
+.nlm-studio-section {
+  padding: 20px;
+  border-bottom: 1px solid #e8eaed;
+}
+
+.nlm-studio-section:last-child {
+  border-bottom: none;
+  flex: 1;
+}
+
+.nlm-section-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #3c4043;
+  margin-bottom: 12px;
+}
+
+.nlm-audio-overview {
+  background: linear-gradient(135deg, #4285f4, #34a853);
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+
+.nlm-audio-text {
+  font-size: 13px;
+  line-height: 1.4;
+  margin-bottom: 12px;
+}
+
+.nlm-audio-subtitle {
+  font-size: 12px;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 16px;
+}
+
+.nlm-audio-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.nlm-audio-btn {
+  padding: 6px 12px;
+  border: 1px solid rgba(255,255,255,0.3);
+  background: rgba(255,255,255,0.1);
+  color: white;
+  border-radius: 16px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.nlm-audio-btn.primary {
+  background: rgba(255,255,255,0.2);
+  border-color: rgba(255,255,255,0.5);
+}
+
+.nlm-notes-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #5f6368;
+  padding: 20px 0;
+}
+
+.nlm-notes-icon {
+  font-size: 48px;
+  color: #9aa0a6;
+  margin-bottom: 12px;
+}
+
+.nlm-notes-text {
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.nlm-add-note-btn {
+  background: none;
+  border: none;
+  color: #1a73e8;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 8px 0;
+  margin-top: 16px;
+}
+
+/* Fragment-Animationen */
+.nlm-panel.fragment:not(.visible) {
+  opacity: 0.4;
+  transform: scale(0.98);
+}
+
+.nlm-panel.current-fragment {
+  opacity: 1 !important;
+  transform: scale(1) !important;
+  box-shadow: 0 0 0 2px #4285f4;
+  z-index: 10;
+}
+
+
+// SCREENSHOT BOX
+
+/* styles.scss */
+
+// Definieren Sie Ihre Highlight-Farbe als Variable für einfache Wiederverwendung
+$highlight-color: #FF4500; // Oranrot, wie im vorherigen Beispiel
+
+// Container für das Screenshot
+.screenshot-container {
+  position: relative;
+  display: inline-block; // Passt die Größe des Containers an das Bild an
+
+  // Die Highlight-Box ist innerhalb des Containers verschachtelt
+  .highlight-box {
+    position: absolute;
+    box-sizing: border-box; // Stellt sicher, dass der Rahmen innerhalb der Dimensionen bleibt
+
+    // Verwenden Sie die Variable für Rahmen und Hintergrund
+    border: 3px solid $highlight-color;
+    background-color: rgba($highlight-color, 0.4); // Die rgba()-Funktion kann Variablen verarbeiten!
+  }
+}
+
+/* Reveal.js specific styles */
+.reveal {
+  .citation {
+    font-size: 20%;  // Spezifisch für Zitationen
+  }
+  
+  .footnote {
+    font-size: 70%; // Verkleinert die Schriftgröße der Fußnote
+    color: $text-secondary;
+  }
+
+  .footnote-ref {
+    font-size: 80%; // Falls du die hochgestellten Referenzen ebenfalls anpassen möchtest
+  }
+}
+
+// =========================================
+// KÄRCHER BRAND STYLING FOR WEBSITE
+// =========================================
+
+/* Kärcher brand footer */
+.footer {
+  background-color: $karcher-black;
+  color: $karcher-white;
+  padding: 3rem 0 2rem;
+  
+  h5 {
+    color: $karcher-yellow;
+    text-transform: uppercase;
+    font-weight: $font-weight-bold;
+    margin-bottom: 1rem;
+    letter-spacing: 0.05em;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    
+    li {
+      margin-bottom: 0.5rem;
+      
+      a {
+        color: $karcher-light-gray;
+        text-decoration: none;
+        transition: color 0.2s ease;
+        
+        &:hover {
+          color: $karcher-yellow;
+        }
+      }
+    }
+  }
+}
+
+/* Kärcher brand cards */
+.card {
+  border: none;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  border-radius: $border-radius-lg;
+  overflow: hidden;
+  
+  .card-header {
+    background: linear-gradient(135deg, $karcher-yellow 0%, #F0D000 100%);
+    color: $karcher-black;
+    font-weight: $font-weight-bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: none;
+  }
+  
+  .card-body {
+    padding: 2rem;
+  }
+}
+
+/* Kärcher brand alerts */
+.alert {
+  border: none;
+  border-radius: $border-radius;
+  
+  &.alert-primary {
+    background-color: rgba(255, 237, 0, 0.1);
+    color: $karcher-black;
+    border-left: 4px solid $karcher-yellow;
+  }
+  
+  &.alert-secondary {
+    background-color: rgba(51, 51, 51, 0.1);
+    color: $karcher-dark-gray;
+    border-left: 4px solid $karcher-dark-gray;
+  }
+}
+
+/* Kärcher brand tables */
+.table {
+  th {
+    background-color: $karcher-yellow;
+    color: $karcher-black;
+    font-weight: $font-weight-bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border: none;
+  }
+  
+  td {
+    border-color: $karcher-light-gray;
+    color: $karcher-dark-gray;
+  }
+  
+  &.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(255, 237, 0, 0.05);
+  }
+}
+
+/* Kärcher brand forms */
+.form-control {
+  border: 2px solid $karcher-light-gray;
+  border-radius: $border-radius;
+  padding: 0.75rem;
+  
+  &:focus {
+    border-color: $karcher-yellow;
+    box-shadow: 0 0 0 0.2rem rgba(255, 237, 0, 0.25);
+  }
+}
+
+.form-label {
+  font-weight: $font-weight-medium;
+  color: $karcher-black;
+  margin-bottom: 0.5rem;
+}
+
+/* Kärcher brand badges */
+.badge {
+  font-weight: $font-weight-medium;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  
+  &.badge-primary {
+    background-color: $karcher-yellow;
+    color: $karcher-black;
+  }
+  
+  &.badge-secondary {
+    background-color: $karcher-dark-gray;
+    color: $karcher-white;
+  }
+}
+
+/* Kärcher brand progress bars */
+.progress {
+  background-color: $karcher-light-gray;
+  border-radius: $border-radius;
+  
+  .progress-bar {
+    background: linear-gradient(90deg, $karcher-yellow 0%, #F0D000 100%);
+  }
+}
+
+/* Kärcher brand navigation pills */
+.nav-pills {
+  .nav-link {
+    border-radius: $border-radius;
+    font-weight: $font-weight-medium;
+    color: $karcher-dark-gray;
+    
+    &.active {
+      background-color: $karcher-yellow;
+      color: $karcher-black;
+    }
+    
+    &:hover:not(.active) {
+      background-color: rgba(255, 237, 0, 0.1);
+    }
+  }
+}
+
+/* Kärcher brand dropdowns */
+.dropdown-menu {
+  border: none;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: $border-radius;
+  
+  .dropdown-item {
+    color: $karcher-dark-gray;
+    font-weight: $font-weight-medium;
+    
+    &:hover {
+      background-color: rgba(255, 237, 0, 0.1);
+      color: $karcher-black;
+    }
+    
+    &.active {
+      background-color: $karcher-yellow;
+      color: $karcher-black;
+    }
+  }
+}

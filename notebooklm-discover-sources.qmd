@@ -1,0 +1,99 @@
+---
+title: "NotebookLM"
+subtitle: "Discover Sources"
+author: "Jan Kirenz"
+execute:
+  eval: true
+  echo: false
+highlight-style: github-dark
+format:
+  revealjs:
+    reference-location: document
+    toc: false
+    toc-depth: 1
+    embed-resources: false
+    theme: [default, custom.scss] # Assuming a custom.scss file for specific styles
+    incremental: true
+    transition: fade
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: false
+    smaller: false
+    scrollable: true
+    slide-number: c
+    preview-links: auto
+    chalkboard:
+      buttons: false
+    logo: images/logo.png # Optional: Add path to your logo
+    footer: "Jan Kirenz | NotebookLM Workshop" 
+    template-partials:
+      - title-slide.html
+---
+
+
+# Discover Sources {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+Allows you to discover relevant sources from the web   
+and import them directly into your notebook
+
+## Discover New Sources 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-34.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+**Sources area**:  
+Click on **Discover**
+
+Enter any topic of interest (here we entered EU AI Act)
+
+:::
+
+::::
+
+
+## Select and Add Discovered Sources 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-35.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+Select the discovered sources you want to keep
+
+:::
+
+::::
+
+## Use New Sources 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-36.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+Select the sources you want to work with and create new content (like mindmaps, etc.)
+
+:::
+
+::::
+
+
+# Back to Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+[Workshop Website](https://kirenz.github.io/notebooklm-de/)

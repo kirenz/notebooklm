@@ -1,0 +1,183 @@
+---
+title: "NotebookLM"
+subtitle: "Audio"
+author: "Jan Kirenz"
+execute:
+  eval: true
+  echo: false
+highlight-style: github-dark
+format:
+  revealjs:
+    reference-location: document
+    toc: false
+    toc-depth: 1
+    embed-resources: false
+    theme: [default, custom.scss] # Assuming a custom.scss file for specific styles
+    incremental: true
+    transition: fade
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: false
+    smaller: false
+    scrollable: true
+    slide-number: c
+    preview-links: auto
+    chalkboard:
+      buttons: false
+    logo: images/logo.png # Optional: Add path to your logo
+    footer: "Jan Kirenz | NotebookLM Workshop" 
+    template-partials:
+      - title-slide.html
+---
+
+# Audio Overview {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+Audio overviews are audio discussions   
+between AI moderators that provide summaries   
+of the topics in your uploaded sources
+
+## Choose Output Language 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-settings.png)
+:::
+
+::: {.column width="40%"}
+<br>
+
+
+
+**1** Navigate to **Settings** **2** Select the **Output Language**
+
+:::
+
+::::
+
+You can create audio overviews in over 50 languages
+
+
+## Create an Audio Overview 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-1.png)
+:::
+
+::: {.column width="40%"}
+<br>
+
+
+**1** Navigate to the "Audio Overview" section in the **Studio area**
+
+**2** Under "Deep Dive Conversation" select **Generate**
+
+:::
+
+::::
+
+
+## Interact with an Audio Overview 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-interactive.png)
+:::
+
+::: {.column width="40%"}
+<br>
+
+Select **Interactive Mode** (BETA)
+
+Select **Play Audio**
+
+While listening, select **Join** and ask a question
+
+
+:::
+
+::::
+
+
+
+## Manage Your Audio Overview 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-options.png)
+:::
+
+::: {.column width="40%"}
+<br>
+
+Change speed, download your audio, or delete it
+
+
+Select "More" to:
+
+**1** Change the playback speed
+
+**2** Download the audio as mp3
+
+**3** Delete the audio overview
+
+
+:::
+
+::::
+
+## Customized Audio Overviews 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-custom.png)
+:::
+
+::: {.column width="40%"}
+
+*If you have already created an audio overview, you must delete it first*
+
+**1** Navigate to the "Audio Overview" section in the **Studio area**
+
+**2** Under "Deep Dive Conversation" select **Customize**
+
+Enter a custom prompt (max. 500 characters) 
+
+:::{.tiny-text}
+
+Example prompt (adapt the placeholders)
+
+```md
+Create an audio overview for [TARGET AUDIENCE] 
+with a [TONE] tone. 
+Focus on [FOCUS] and aim for [DURATION]. 
+Address key insights with concrete examples.
+
+PLACEHOLDERS
+
+[TARGET AUDIENCE] = Kärcher management
+[TONE] = professional
+[FOCUS] = practical insights  
+[DURATION] = 8-10 min.
+```
+:::
+
+:::
+
+::::
+
+# Back to Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+[Workshop Website](https://kirenz.github.io/notebooklm-de/)

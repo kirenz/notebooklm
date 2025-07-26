@@ -1,0 +1,312 @@
+/*-- scss:defaults --*/
+// Kärcher uses Arial font family
+$font-family-sans-serif: "Arial", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+
+$font-weight-normal: 400;
+$font-weight-bold: 600;
+$font-weight-extra-bold: 800;
+$line-height-base: 1.5;
+$letter-spacing: -0.015em;
+
+/*-- scss:rules --*/
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: $letter-spacing;
+}
+
+/* Features */
+.features {
+  padding-bottom: 2em;
+  
+  @media (min-width: 800px) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 0 0 -30px;
+    width: calc(100% + 30px);
+  }
+}
+
+.features .feature {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  background: linear-gradient(to bottom right, #FFDE00, #FFA500);
+  color: #333333;
+  width: calc(33% - 30px);
+  margin: 20px 0 0 30px;
+  transition: all 0.3s ease-in-out !important;
+  
+  &:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15) !important;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin: 1em;
+    padding: 0 10px;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+.feature-header {
+  text-align: center;
+  margin-bottom: 1em;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #333;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px 5px 0 0;
+}
+
+// =========================================
+// KÄRCHER BRAND STYLING
+// =========================================
+
+.reveal p {
+  font-size: 0.6em;
+}
+
+// All main headings (h1, h2) in CAPITAL LETTERS
+.reveal {
+  h1, h2, .title {
+    text-transform: uppercase;
+    font-weight: $font-weight-extra-bold;
+    letter-spacing: 0.05em;
+  }
+  
+  h1 {
+    font-size: 1.2em; // Reduced from 2.5em to match template
+    margin-bottom: 0.5em;
+  }
+  
+  h2 {
+    font-size: 1.1em; // Reduced from 2em to match template
+    margin-bottom: 0.8em;
+  }
+  
+  h3, h4, h5, h6 {
+    font-weight: $font-weight-bold;
+  }
+}
+
+// Footer and slide numbers - Multiple approaches to ensure it works
+.reveal .footer {
+  font-size: 0.4em !important;
+  text-align: left !important;
+  left: 240px !important;
+}
+
+// More specific targeting for Reveal.js footer
+.reveal div.footer {
+  font-size: 0.4em !important;
+  text-align: left !important;
+  left: 240px !important; // Adjusted to match the slide number position
+}
+
+// Even more specific
+.reveal .slides .footer,
+.reveal .progress + .footer {
+  font-size: 0.4em !important;
+  text-align: left !important;
+  left: 240px !important;
+}
+
+// Custom footer class approach
+.custom-footer {
+  position: fixed;
+  bottom: 10px;
+  left: 240px; // Moved more to the right
+  font-size: 0.3em;
+  color: #666;
+  z-index: 1000;
+  font-family: $font-family-sans-serif;
+}
+
+// Slide numbers in bottom left
+.reveal .slide-number {
+  position: fixed !important;
+  bottom: 15px !important;
+  left: 210px !important;
+  top: auto !important;
+  right: auto !important;
+  font-size: 0.3em !important;
+  color: #666 !important;
+  background-color: transparent !important;
+  font-family: $font-family-sans-serif !important;
+  z-index: 1000 !important;
+}
+
+// Additional specificity to override reveal.js defaults
+.reveal .slides section .slide-number {
+  position: fixed !important;
+  bottom: 15px !important;
+  left: 210px !important;
+  top: auto !important;
+  right: auto !important;
+}
+
+// Even more specific targeting
+.reveal .reveal .slide-number {
+  position: fixed !important;
+  bottom: 15px !important;
+  left: 210px !important;
+  top: auto !important;
+  right: auto !important;
+}
+
+// Footnotes
+
+// .reveal {
+//   .footnote {
+//     font-size: 70%; // Verkleinert die Schriftgröße der Fußnote
+//     color: gray;    // Optional: Farbe anpassen
+//   }
+
+//   .footnote-ref {
+//     font-size: 80%; // Falls du die hochgestellten Referenzen ebenfalls anpassen möchtest
+//   }
+// }
+
+
+// Citation
+
+.reveal {
+  .citation {
+    font-size: 20%;  // Spezifisch für Zitationen
+  }
+}
+
+// Neue Klasse für Text
+
+.tiny-text {
+  font-size: 0.6em;
+}
+
+
+.small-text {
+  font-size: 0.8em;
+}
+
+.small-text ul,
+.small-text ol,
+.small-text li {
+  font-size: 0.8em;
+}
+
+// Klasse für kleineren Text in Spalten
+.custom-small {
+  font-size: 0.7em;
+}
+
+.custom-small ul,
+.custom-small ol,
+.custom-small li {
+  font-size: 0.9em;
+}
+
+.custom-small p {
+  font-size: 0.7em;
+}
+
+// Table of Contents / Agenda styling
+.reveal .table-of-contents,
+.reveal #toc,
+.reveal .toc {
+  font-size: 0.6em !important;
+}
+
+.reveal .table-of-contents ul,
+.reveal #toc ul,
+.reveal .toc ul {
+  font-size: 0.6em !important;
+}
+
+.reveal .table-of-contents li,
+.reveal #toc li, 
+.reveal .toc li {
+  font-size: 0.6em !important;
+  margin-bottom: 0.3em;
+}
+
+.reveal .table-of-contents a,
+.reveal #toc a,
+.reveal .toc a {
+  font-size: 0.6em !important;
+}
+
+// Column content styling - only for columns with .custom-small class
+.reveal .columns .column.custom-small ul {
+  font-size: 0.7em !important;
+}
+
+.reveal .columns .column.custom-small ol {
+  font-size: 0.7em !important;
+}
+
+.reveal .columns .column.custom-small li {
+  font-size: 0.7em !important;
+  margin-bottom: 0.4em;
+}
+
+.reveal .columns .column.custom-small p {
+  font-size: 0.7em !important;
+}
+
+// Default column styling - slightly smaller but not too small
+.reveal .columns .column ul {
+  font-size: 0.7em;
+}
+
+.reveal .columns .column ol {
+  font-size: 0.7em;
+}
+
+.reveal .columns .column li {
+  font-size: 0.7em;
+  margin-bottom: 0.4em;
+}
+
+.reveal .columns .column p {
+  font-size: 0.7em;
+}
+
+// SCREENSHOT BOX
+
+/* styles.scss */
+
+// Definieren Sie Ihre Highlight-Farbe als Variable für einfache Wiederverwendung
+$highlight-color: #FFDE00; // Oranrot, wie im vorherigen Beispiel
+
+// Container für das Screenshot
+.screenshot-container {
+  position: relative;
+  display: inline-block; // Passt die Größe des Containers an das Bild an
+
+  // Die Highlight-Box ist innerhalb des Containers verschachtelt
+  .highlight-box {
+    position: absolute;
+    box-sizing: border-box; // Stellt sicher, dass der Rahmen innerhalb der Dimensionen bleibt
+
+    // Verwenden Sie die Variable für Rahmen und Hintergrund
+    border: 3px solid $highlight-color;
+    background-color: rgba($highlight-color, 0.4); // Die rgba()-Funktion kann Variablen verarbeiten!
+  }
+}

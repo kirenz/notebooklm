@@ -1,0 +1,135 @@
+# Features
+
+
+## Getting Started
+
+Master the fundamentals of NotebookLM and see how it transforms your daily workflow.
+
+::: {.callout-note}
+
+[Introduction to NotebookLM](https://kirenz.github.io/notebooklm-de/notebooklm-intro#/title-slide) 
+
+:::
+
+---
+
+
+## Chat 
+
+Ask questions about your documents in natural language and receive instant, precise, source-backed answers.
+
+::: {.callout-note}
+
+[Chat Functions & Techniques](https://kirenz.github.io/notebooklm-de/notebooklm-chat#/title-slide) 
+
+:::
+
+---
+
+## Mindmap
+
+Transform complex documents into visual mindmaps that show key topics and connections at a glance.
+
+::: {.callout-note}
+
+[Mindmap Creation](https://kirenz.github.io/notebooklm-de/notebooklm-mind-map#/title-slide) 
+
+:::
+
+---
+
+## Audio Overviews
+
+Convert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.
+
+::: {.callout-note}
+
+[Creating Audio Overviews](https://kirenz.github.io/notebooklm-de/notebooklm-audio-overview#/title-slide) 
+
+:::
+
+---
+
+## Study Guides
+
+Automatically create quiz questions, glossaries, and self-review materials from your documents.
+
+::: {.callout-note}
+
+[Creating Study Guides](https://kirenz.github.io/notebooklm-de/notebooklm-study-guide#/title-slide) 
+
+:::
+
+---
+
+## Briefings
+
+Create professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.
+
+::: {.callout-note}
+
+[Creating Briefing Documents](https://kirenz.github.io/notebooklm-de/notebooklm-briefing-document#/title-slide) 
+
+:::
+
+---
+
+## FAQ
+
+Automatically create comprehensive FAQ sections from your documentation for customer service and training purposes.
+
+::: {.callout-note}
+
+[FAQ Creation](https://kirenz.github.io/notebooklm-de/notebooklm-faq#/title-slide) 
+
+:::
+
+---
+
+## Timeline
+
+Extract chronological information from documents to create clear timelines for projects, events, or processes.
+
+::: {.callout-note}
+
+[Timeline Creation](https://kirenz.github.io/notebooklm-de/notebooklm-timeline#/title-slide) 
+
+:::
+
+---
+
+## Discover Sources
+
+Find and import relevant web sources directly into your notebook to expand your knowledge base.
+
+::: {.callout-note}
+
+[Source Discovery](https://kirenz.github.io/notebooklm-de/notebooklm-discover-sources#/title-slide) 
+
+:::
+
+---
+
+## Notes 
+
+Create, organize, and manage your insights while building a comprehensive knowledge archive.
+
+::: {.callout-note}
+
+[Notes Management](https://kirenz.github.io/notebooklm-de/notebooklm-notes#/title-slide) 
+
+:::
+
+---
+
+## Videos
+
+Upload YouTube videos, training materials, and multimedia content to extract transcripts and insights.
+
+::: {.callout-note}
+
+[Processing Video Sources](https://kirenz.github.io/notebooklm-de/notebooklm-video#/title-slide) 
+
+:::
+
+---
