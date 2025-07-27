@@ -1,0 +1,75 @@
+---
+title: "NotebookLM Workshop"
+subtitle: "Conclusion"
+author: "Jan Kirenz" 
+execute:
+  eval: true
+  echo: false
+highlight-style: github-dark
+format:
+  revealjs: 
+    reference-location: document
+    toc: false
+    toc-depth: 1
+    embed-resources: false 
+    theme: [default, custom.scss] # Assumes custom.scss
+    incremental: true
+    transition: none
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: false
+    smaller: false
+    scrollable: true
+    slide-number: c 
+    preview-links: auto
+    chalkboard: 
+      buttons: false
+      theme: whiteboard
+    logo: images/logo.png # Replace with your logo
+    footer: "Jan Kirenz | [Back to Gemini Workshop Website](https://kirenz.github.io/notebooklm/)" 
+    template-partials:
+      - title-slide.html # Assumes this partial exists
+---
+
+
+
+# Conclusion {background-color="#FFED00"}
+
+
+# The Implementation Plan {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+
+- [Plan in Google Docs](https://docs.google.com/document/d/1GSjr45Vh1WCf4CChuKMB1SokMw_cDluUJqVm9jmDzN0/edit?usp=sharing)
+
+
+:::: {.columns}
+
+::: {.column width="56%" }
+
+::: {.callout-note .fragment .fade-up}
+
+**Follow-up survey in 2 weeks:** Time to share success stories!
+
+:::
+
+:::
+::::
+
+
+
+# Questions? {background-color="#FFED00"}
+
+![](images/karcher-1.png)
+
+
+My other seminar: Prompt like a Pro - Gemini Deep Dive 
+
+
+
+# Thank You! {background-color="#FFED00"}
+
+Jan Kirenz   
+[kirenz@hdm-stuttgart.de](mailto:kirenz@hdm-stuttgart.de)
+

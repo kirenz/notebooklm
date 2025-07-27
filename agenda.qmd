@@ -7,12 +7,13 @@ number-sections: false
 
 | Module | Section |  Content |
 |-------|--------------|-------------------|
-| 1 | [Introduction](/features.qmd) | NotebookLM and its features / [Google Forms Survey](https://forms.gle/b4Yw9FD9LSaSv2Yc7) |
+| 1 | [Introduction](/features.qmd) | NotebookLM and its features |
 | 2 | [Exercises](/exercises.qmd) | NotebookLM exercises |
 | 3 | [Use Cases](/use-cases.qmd) | General use cases and [department-specific examples](/use-cases-domains.qmd) |
-| 4 | Implementation | [Concrete plan in Docs](https://docs.google.com/document/d/1YqZlxx7XClfPxRytOi3qVODlh49KGmt11Z952422F3Q/edit?usp=sharing) for sustainable integration |
-| 5 | Conclusion  | Conclusion and next steps |
+| 4 | [Conclusion](/conclusion.qmd) | [Concrete plan in Docs](https://docs.google.com/document/d/1GSjr45Vh1WCf4CChuKMB1SokMw_cDluUJqVm9jmDzN0/edit?usp=sharing) for sustainable integration |
 
+
+[Short survey](https://docs.google.com/forms/d/e/1FAIpQLSe0apQGbXqASCdkEAi7bdkt3mo8WM_0LXLuzBK3pWxoKEbMXA/viewform?usp=sharing&ouid=107811604787432825206)
 
 ::: {.callout-note}
 **Follow-up survey in 2 weeks:** I look forward to feedback on experiences and success stories
