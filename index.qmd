@@ -6,7 +6,10 @@ toc: false
 
 ### Real-World Use Cases
 
-Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.:: {.hero .text-center}
+Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.
+
+::: {.hero .text-center}
+
 # NotebookLM Workshop
 
 <p style="color: black;"> 
