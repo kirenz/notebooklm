@@ -104,4 +104,4 @@ Example Kärcher video:
 # Explore More Resources{background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
 
-[Continue on the Workshop Website](https://kirenz.github.io/notebooklm-de/)
+[Continue on the Workshop Website](https://kirenz.github.io/notebooklm/)

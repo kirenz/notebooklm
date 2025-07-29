@@ -96,4 +96,4 @@ Select the sources you want to work with and create new content (like mindmaps, 
 # Back to Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
 
-[Workshop Website](https://kirenz.github.io/notebooklm-de/)
+[Workshop Website](https://kirenz.github.io/notebooklm/)

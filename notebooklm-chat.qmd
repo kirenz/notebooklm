@@ -256,4 +256,4 @@ You can change the conversation style and response length
 # To the Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
 
-[Workshop Website](https://kirenz.github.io/notebooklm-de/)
+[Workshop Website](https://kirenz.github.io/notebooklm/)
