@@ -39,9 +39,9 @@ The workshop demonstrates how to use helpful NotebookLM features, which saves va
 🎯
 :::
 
-### Reale Anwendungsfälle
+### Real-World Use Cases
 
-Typische Aufgaben im Berufsalltag lassen sich effizienter lösen – z. B. bei der Vorbereitung von Meetings, dem Erstellen von Präsentationen oder der E-Mail-Korrespondenz.
+Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.
 
 :::
 
