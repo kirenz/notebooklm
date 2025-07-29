@@ -30,13 +30,6 @@ format:
 ---
 
 
-<!-- 
-```{r setup}
-library(countdown)
-```
- -->
-
-
 
 ## Welcome to the Workshop! {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
@@ -624,13 +617,6 @@ Up to 300 sources can be added: **(1)** PDF, PPT, Excel, Audio, Images **(2)** G
 ::::
 
 
-<!-- 
-. . .
-
-```{r}
-countdown(minutes = 5)
-```
- -->
 
 
 ## Three Main Areas 
@@ -1607,11 +1593,7 @@ Make it conversational, as if a colleague were briefing me over coffee.
 
 ::::
 
-<!-- 
-```{r}
-countdown(minutes = 10)
-```
- -->
+
 
 ## Meeting Preparation 2
 
@@ -1652,12 +1634,7 @@ and potential impacts on [AREA].
 ::::
 
 
-<!-- . . .
 
-```{r}
-countdown(minutes = 5, warn = TRUE)
-```
- -->
 
 
 ## Invitation to Share Experiences
@@ -1721,14 +1698,6 @@ Summarize this email thread as
 ::::
 
 
-<!-- . . .
-
-```{r}
-countdown(minutes = 10, warn = TRUE)
-``` 
--->
-
-
 ## Customized Audio Summary
 
 :::: {.columns}
@@ -1765,15 +1734,6 @@ Focus on what's actionable and immediately useful.
 :::
 
 ::::
-
-<!-- . . .
-
-```{r}
-countdown(minutes = 10, warn = TRUE)
-```
- -->
-
-
 
 ## Extracting Insights from Videos
 
@@ -1818,14 +1778,6 @@ Provide step-by-step instructions for using the Kärcher window vacuum for strea
 ::::
 
 
-<!-- 
-. . .
-
-```{r}
-countdown(minutes = 5, warn = TRUE)
-```
-
- -->
 
 
 
