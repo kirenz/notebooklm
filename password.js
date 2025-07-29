@@ -4,11 +4,11 @@
 function protectContent() {
     // Check if the user has already entered the correct password
     if (!localStorage.getItem('accessGranted')) {
-        const password = prompt('Bitte Passwort eingeben:');
+        const password = prompt('Please enter password:');
         if (password === 'notebooklm-workshop-25') {
             localStorage.setItem('accessGranted', true);
         } else {
-            document.body.innerHTML = 'Falsches Passwort';
+            document.body.innerHTML = 'Wrong Password. Access Denied.';
         }
     }
 }
