@@ -7,7 +7,7 @@ Master the fundamentals of NotebookLM and see how it transforms your daily workf
 
 ::: {.callout-note}
 
-[Introduction to NotebookLM](https://kirenz.github.io/notebooklm-de/notebooklm-intro#/title-slide) 
+[Introduction to NotebookLM](https://kirenz.github.io/notebooklm/notebooklm-intro#/title-slide) 
 
 :::
 
@@ -20,7 +20,7 @@ Ask questions about your documents in natural language and receive instant, prec
 
 ::: {.callout-note}
 
-[Chat Functions & Techniques](https://kirenz.github.io/notebooklm-de/notebooklm-chat#/title-slide) 
+[Chat Functions & Techniques](https://kirenz.github.io/notebooklm/notebooklm-chat#/title-slide) 
 
 :::
 
@@ -32,7 +32,7 @@ Transform complex documents into visual mindmaps that show key topics and connec
 
 ::: {.callout-note}
 
-[Mindmap Creation](https://kirenz.github.io/notebooklm-de/notebooklm-mind-map#/title-slide) 
+[Mindmap Creation](https://kirenz.github.io/notebooklm/notebooklm-mind-map#/title-slide) 
 
 :::
 
@@ -44,7 +44,7 @@ Convert any document into natural podcast-style conversations that you can liste
 
 ::: {.callout-note}
 
-[Creating Audio Overviews](https://kirenz.github.io/notebooklm-de/notebooklm-audio-overview#/title-slide) 
+[Creating Audio Overviews](https://kirenz.github.io/notebooklm/notebooklm-audio-overview#/title-slide) 
 
 :::
 
@@ -56,7 +56,7 @@ Automatically create quiz questions, glossaries, and self-review materials from 
 
 ::: {.callout-note}
 
-[Creating Study Guides](https://kirenz.github.io/notebooklm-de/notebooklm-study-guide#/title-slide) 
+[Creating Study Guides](https://kirenz.github.io/notebooklm/notebooklm-study-guide#/title-slide) 
 
 :::
 
@@ -68,7 +68,7 @@ Create professional briefing documents that summarize key topics, timelines, and
 
 ::: {.callout-note}
 
-[Creating Briefing Documents](https://kirenz.github.io/notebooklm-de/notebooklm-briefing-document#/title-slide) 
+[Creating Briefing Documents](https://kirenz.github.io/notebooklm/notebooklm-briefing-document#/title-slide) 
 
 :::
 
@@ -80,7 +80,7 @@ Automatically create comprehensive FAQ sections from your documentation for cust
 
 ::: {.callout-note}
 
-[FAQ Creation](https://kirenz.github.io/notebooklm-de/notebooklm-faq#/title-slide) 
+[FAQ Creation](https://kirenz.github.io/notebooklm/notebooklm-faq#/title-slide) 
 
 :::
 
@@ -92,7 +92,7 @@ Extract chronological information from documents to create clear timelines for p
 
 ::: {.callout-note}
 
-[Timeline Creation](https://kirenz.github.io/notebooklm-de/notebooklm-timeline#/title-slide) 
+[Timeline Creation](https://kirenz.github.io/notebooklm/notebooklm-timeline#/title-slide) 
 
 :::
 
@@ -104,7 +104,7 @@ Find and import relevant web sources directly into your notebook to expand your 
 
 ::: {.callout-note}
 
-[Source Discovery](https://kirenz.github.io/notebooklm-de/notebooklm-discover-sources#/title-slide) 
+[Source Discovery](https://kirenz.github.io/notebooklm/notebooklm-discover-sources#/title-slide) 
 
 :::
 
@@ -116,7 +116,7 @@ Create, organize, and manage your insights while building a comprehensive knowle
 
 ::: {.callout-note}
 
-[Notes Management](https://kirenz.github.io/notebooklm-de/notebooklm-notes#/title-slide) 
+[Notes Management](https://kirenz.github.io/notebooklm/notebooklm-notes#/title-slide) 
 
 :::
 
@@ -128,7 +128,7 @@ Upload YouTube videos, training materials, and multimedia content to extract tra
 
 ::: {.callout-note}
 
-[Processing Video Sources](https://kirenz.github.io/notebooklm-de/notebooklm-video#/title-slide) 
+[Processing Video Sources](https://kirenz.github.io/notebooklm/notebooklm-video#/title-slide) 
 
 :::
 
