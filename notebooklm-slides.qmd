@@ -590,7 +590,7 @@ To create a new notebook, select:
 Select your own document (ideally PDF or Google Slides)
 
 :::{.small-text}
-The [EU AI Act](images/notebooklm/EU-AI-ACT.pdf) (PDF) is used as an example here
+The [EU AI Act](https://drive.google.com/file/d/1_zs-IJMv00eTlDntZxuf0DQMhyNFKh6c/view?usp=drive_link) (PDF) is used as an example here
 :::
 
 Add the document.
