@@ -7,6 +7,20 @@
     "text": "Setup\n\n\n\n−+\n01:00"
   },
   {
+    "objectID": "notebooklm-faq.html#create-faqs",
+    "href": "notebooklm-faq.html#create-faqs",
+    "title": "NotebookLM",
+    "section": "Create FAQs",
+    "text": "Create FAQs\n\n\n\n\n\nStudio area:\nClick on FAQ\n\nCreates a “question-answer” pair format"
+  },
+  {
+    "objectID": "notebooklm-faq.html#open-faq",
+    "href": "notebooklm-faq.html#open-faq",
+    "title": "NotebookLM",
+    "section": "Open FAQ",
+    "text": "Open FAQ\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the FAQ"
+  },
+  {
     "objectID": "notebooklm-notes.html#create-add-notes",
     "href": "notebooklm-notes.html#create-add-notes",
     "title": "NotebookLM",
@@ -21,46 +35,88 @@
     "text": "Convert Notes to Sources\n\n\n\n\n\nStudio area:\nOpen the note\nSelect Convert to Source\n\n\nTo convert all notes to sources: Click on More in the Notes section in the Studio area.\nSelect Convert All Notes to Sources\n\n\n\nYou can add your notes to your sources"
   },
   {
-    "objectID": "notebooklm-timeline.html#create-timeline",
-    "href": "notebooklm-timeline.html#create-timeline",
-    "title": "NotebookLM",
-    "section": "Create Timeline",
-    "text": "Create Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline\n\nTimeline and character directory based on the provided sources."
+    "objectID": "features.html",
+    "href": "features.html",
+    "title": "Features",
+    "section": "",
+    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation\n\n\n\n\n\n\n\nConvert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews\n\n\n\n\n\n\n\nAutomatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides\n\n\n\n\n\n\n\nCreate professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents\n\n\n\n\n\n\n\nAutomatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation\n\n\n\n\n\n\n\nExtract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation\n\n\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery\n\n\n\n\n\n\n\nCreate, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management\n\n\n\n\n\n\n\nUpload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
   },
   {
-    "objectID": "notebooklm-timeline.html#open-timeline",
-    "href": "notebooklm-timeline.html#open-timeline",
-    "title": "NotebookLM",
-    "section": "Open Timeline",
-    "text": "Open Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the timeline"
+    "objectID": "features.html#getting-started",
+    "href": "features.html#getting-started",
+    "title": "Features",
+    "section": "",
+    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
   },
   {
-    "objectID": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
-    "href": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
-    "title": "NotebookLM",
-    "section": "Create an Overview of Key Topics",
-    "text": "Create an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing Doc."
+    "objectID": "features.html#chat",
+    "href": "features.html#chat",
+    "title": "Features",
+    "section": "",
+    "text": "Ask questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques"
   },
   {
-    "objectID": "notebooklm-briefing-document.html#open-briefing-document",
-    "href": "notebooklm-briefing-document.html#open-briefing-document",
-    "title": "NotebookLM",
-    "section": "Open Briefing Document",
-    "text": "Open Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the briefing document"
+    "objectID": "features.html#mindmap",
+    "href": "features.html#mindmap",
+    "title": "Features",
+    "section": "",
+    "text": "Transform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation"
   },
   {
-    "objectID": "notebooklm-study-guide.html#quiz-questions-and-glossary",
-    "href": "notebooklm-study-guide.html#quiz-questions-and-glossary",
-    "title": "NotebookLM",
-    "section": "Quiz Questions and Glossary",
-    "text": "Quiz Questions and Glossary\n\n\n\n\n\nStudio area:\nClick on Study Guide\n\nCreates a self-review quiz and glossary with key terms"
+    "objectID": "features.html#audio-overviews",
+    "href": "features.html#audio-overviews",
+    "title": "Features",
+    "section": "",
+    "text": "Convert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews"
   },
   {
-    "objectID": "notebooklm-study-guide.html#open-the-study-guide-note",
-    "href": "notebooklm-study-guide.html#open-the-study-guide-note",
-    "title": "NotebookLM",
-    "section": "Open the Study Guide Note",
-    "text": "Open the Study Guide Note\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the questions, answer key, and glossary"
+    "objectID": "features.html#study-guides",
+    "href": "features.html#study-guides",
+    "title": "Features",
+    "section": "",
+    "text": "Automatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides"
+  },
+  {
+    "objectID": "features.html#briefings",
+    "href": "features.html#briefings",
+    "title": "Features",
+    "section": "",
+    "text": "Create professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents"
+  },
+  {
+    "objectID": "features.html#faq",
+    "href": "features.html#faq",
+    "title": "Features",
+    "section": "",
+    "text": "Automatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation"
+  },
+  {
+    "objectID": "features.html#timeline",
+    "href": "features.html#timeline",
+    "title": "Features",
+    "section": "",
+    "text": "Extract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation"
+  },
+  {
+    "objectID": "features.html#discover-sources",
+    "href": "features.html#discover-sources",
+    "title": "Features",
+    "section": "",
+    "text": "Find and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery"
+  },
+  {
+    "objectID": "features.html#notes",
+    "href": "features.html#notes",
+    "title": "Features",
+    "section": "",
+    "text": "Create, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management"
+  },
+  {
+    "objectID": "features.html#videos",
+    "href": "features.html#videos",
+    "title": "Features",
+    "section": "",
+    "text": "Upload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
   },
   {
     "objectID": "notebooklm-slides.html#welcome-to-the-workshop",
@@ -560,6 +616,27 @@
     "text": "Conversation Style: Custom\n\n\n\n\n\n\nCustom: Best for choosing a specific role\nResponse Length: You can also choose the response length: Default, Longer and Shorter"
   },
   {
+    "objectID": "notebooklm-mind-map.html#create-a-mindmap",
+    "href": "notebooklm-mind-map.html#create-a-mindmap",
+    "title": "NotebookLM",
+    "section": "Create a Mindmap",
+    "text": "Create a Mindmap\n\n\n\n\n\n1 Select the mindmap chip in the Chat area\n2 The mindmap appears in the Studio area"
+  },
+  {
+    "objectID": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
+    "href": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
+    "title": "NotebookLM",
+    "section": "How to Interact with a Mindmap",
+    "text": "How to Interact with a Mindmap\n\n\n\n\n\nOpen the mindmap in the Studio area\nExpand or collapse branches with &gt;\nChange view, download, or exit (top right corner)"
+  },
+  {
+    "objectID": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
+    "href": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
+    "title": "NotebookLM",
+    "section": "Select Nodes to Ask Questions",
+    "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about that specific topic"
+  },
+  {
     "objectID": "notebooklm-video.html#youtube-video-window-cleaner",
     "href": "notebooklm-video.html#youtube-video-window-cleaner",
     "title": "NotebookLM",
@@ -579,90 +656,6 @@
     "title": "NotebookLM",
     "section": "Add Your YouTube Video",
     "text": "Add Your YouTube Video\n\n\n\n\n\nTo add a video:\n3 Click on YouTube\nEnter a link to a video.\n\nExample Kärcher video:\n[https://www.youtube.com/watch?v=3gWb3LNfX28]"
-  },
-  {
-    "objectID": "features.html",
-    "href": "features.html",
-    "title": "Features",
-    "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation\n\n\n\n\n\n\n\nConvert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews\n\n\n\n\n\n\n\nAutomatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides\n\n\n\n\n\n\n\nCreate professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents\n\n\n\n\n\n\n\nAutomatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation\n\n\n\n\n\n\n\nExtract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation\n\n\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery\n\n\n\n\n\n\n\nCreate, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management\n\n\n\n\n\n\n\nUpload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
-  },
-  {
-    "objectID": "features.html#getting-started",
-    "href": "features.html#getting-started",
-    "title": "Features",
-    "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
-  },
-  {
-    "objectID": "features.html#chat",
-    "href": "features.html#chat",
-    "title": "Features",
-    "section": "",
-    "text": "Ask questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques"
-  },
-  {
-    "objectID": "features.html#mindmap",
-    "href": "features.html#mindmap",
-    "title": "Features",
-    "section": "",
-    "text": "Transform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation"
-  },
-  {
-    "objectID": "features.html#audio-overviews",
-    "href": "features.html#audio-overviews",
-    "title": "Features",
-    "section": "",
-    "text": "Convert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews"
-  },
-  {
-    "objectID": "features.html#study-guides",
-    "href": "features.html#study-guides",
-    "title": "Features",
-    "section": "",
-    "text": "Automatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides"
-  },
-  {
-    "objectID": "features.html#briefings",
-    "href": "features.html#briefings",
-    "title": "Features",
-    "section": "",
-    "text": "Create professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents"
-  },
-  {
-    "objectID": "features.html#faq",
-    "href": "features.html#faq",
-    "title": "Features",
-    "section": "",
-    "text": "Automatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation"
-  },
-  {
-    "objectID": "features.html#timeline",
-    "href": "features.html#timeline",
-    "title": "Features",
-    "section": "",
-    "text": "Extract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation"
-  },
-  {
-    "objectID": "features.html#discover-sources",
-    "href": "features.html#discover-sources",
-    "title": "Features",
-    "section": "",
-    "text": "Find and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery"
-  },
-  {
-    "objectID": "features.html#notes",
-    "href": "features.html#notes",
-    "title": "Features",
-    "section": "",
-    "text": "Create, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management"
-  },
-  {
-    "objectID": "features.html#videos",
-    "href": "features.html#videos",
-    "title": "Features",
-    "section": "",
-    "text": "Upload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
   },
   {
     "objectID": "notebooklm-intro.html#notes-on-slide-structure",
@@ -721,6 +714,41 @@
     "text": "Open the Note\n\n\n\n\n\nClick on the note in the Studio Section\n(it will open in a new window)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSaved answer notes are not editable"
   },
   {
+    "objectID": "notebooklm-discover-sources.html#discover-new-sources",
+    "href": "notebooklm-discover-sources.html#discover-new-sources",
+    "title": "NotebookLM",
+    "section": "Discover New Sources",
+    "text": "Discover New Sources\n\n\n\n\n\nSources area:\nClick on Discover\nEnter any topic of interest (here we entered EU AI Act)"
+  },
+  {
+    "objectID": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
+    "href": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
+    "title": "NotebookLM",
+    "section": "Select and Add Discovered Sources",
+    "text": "Select and Add Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep"
+  },
+  {
+    "objectID": "notebooklm-discover-sources.html#use-new-sources",
+    "href": "notebooklm-discover-sources.html#use-new-sources",
+    "title": "NotebookLM",
+    "section": "Use New Sources",
+    "text": "Use New Sources\n\n\n\n\n\nSelect the sources you want to work with and create new content (like mindmaps, etc.)"
+  },
+  {
+    "objectID": "notebooklm-timeline.html#create-timeline",
+    "href": "notebooklm-timeline.html#create-timeline",
+    "title": "NotebookLM",
+    "section": "Create Timeline",
+    "text": "Create Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline\n\nTimeline and character directory based on the provided sources."
+  },
+  {
+    "objectID": "notebooklm-timeline.html#open-timeline",
+    "href": "notebooklm-timeline.html#open-timeline",
+    "title": "NotebookLM",
+    "section": "Open Timeline",
+    "text": "Open Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the timeline"
+  },
+  {
     "objectID": "exercises.html",
     "href": "exercises.html",
     "title": "Exercises",
@@ -761,139 +789,6 @@
     "title": "Exercises",
     "section": "Extracting Insights from Videos",
     "text": "Extracting Insights from Videos\nWe want to gain insights from a video about how to use the Kärcher window vacuum to achieve streak-free windows:\n\nStart a new notebook (click on the black icon in the top left)\nClick + Create new to start a new notebook.\nTo add the video, click on YouTube and enter a link to a video. For example:\n\nhttps://www.youtube.com/watch?v=3gWb3LNfX28\n\nUse the Mind Map feature to get an overview of the structure and main points of the video.\nUse prompts to extract useful information, e.g.:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nProvide a step-by-step guide for using the Kärcher window vacuum for streak-free window cleaning, from assembly to maintenance."
-  },
-  {
-    "objectID": "notebooklm-audio-overview.html#choose-output-language",
-    "href": "notebooklm-audio-overview.html#choose-output-language",
-    "title": "NotebookLM",
-    "section": "Choose Output Language",
-    "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings 2 Select the Output Language\n\nYou can create audio overviews in over 50 languages"
-  },
-  {
-    "objectID": "notebooklm-audio-overview.html#create-an-audio-overview",
-    "href": "notebooklm-audio-overview.html#create-an-audio-overview",
-    "title": "NotebookLM",
-    "section": "Create an Audio Overview",
-    "text": "Create an Audio Overview\n\n\n\n\n\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Generate"
-  },
-  {
-    "objectID": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
-    "href": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
-    "title": "NotebookLM",
-    "section": "Interact with an Audio Overview",
-    "text": "Interact with an Audio Overview\n\n\n\n\n\nSelect Interactive Mode (BETA)\nSelect Play Audio\nWhile listening, select Join and ask a question"
-  },
-  {
-    "objectID": "notebooklm-audio-overview.html#manage-your-audio-overview",
-    "href": "notebooklm-audio-overview.html#manage-your-audio-overview",
-    "title": "NotebookLM",
-    "section": "Manage Your Audio Overview",
-    "text": "Manage Your Audio Overview\n\n\n\n\n\nChange speed, download your audio, or delete it\nSelect “More” to:\n1 Change the playback speed\n2 Download the audio as mp3\n3 Delete the audio overview"
-  },
-  {
-    "objectID": "notebooklm-audio-overview.html#customized-audio-overviews",
-    "href": "notebooklm-audio-overview.html#customized-audio-overviews",
-    "title": "NotebookLM",
-    "section": "Customized Audio Overviews",
-    "text": "Customized Audio Overviews\n\n\n\n\nIf you have already created an audio overview, you must delete it first\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Customize\nEnter a custom prompt (max. 500 characters)\n\nExample prompt (adapt the placeholders)\nCreate an audio overview for [TARGET AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nAddress key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#create-a-mindmap",
-    "href": "notebooklm-mind-map.html#create-a-mindmap",
-    "title": "NotebookLM",
-    "section": "Create a Mindmap",
-    "text": "Create a Mindmap\n\n\n\n\n\n1 Select the mindmap chip in the Chat area\n2 The mindmap appears in the Studio area"
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
-    "href": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
-    "title": "NotebookLM",
-    "section": "How to Interact with a Mindmap",
-    "text": "How to Interact with a Mindmap\n\n\n\n\n\nOpen the mindmap in the Studio area\nExpand or collapse branches with &gt;\nChange view, download, or exit (top right corner)"
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
-    "href": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
-    "title": "NotebookLM",
-    "section": "Select Nodes to Ask Questions",
-    "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about that specific topic"
-  },
-  {
-    "objectID": "use-cases.html",
-    "href": "use-cases.html",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Choose one of the following use cases to practice:\n\n\n\n\n\n\nExample Use Cases\n\n\n\n\n\n\nA. Presentation Preparation: Transform reports into compelling presentation content.\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Precise Communication: Communicate precisely – clearly, understandably, and effectively.\nE. Department-Specific Use Case: Explore specialized applications for your department\n\n\n\n\n\n\n\nChallenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview\n\n\n\n\n\nChallenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape\n\n\n\n\n\nChallenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies\n\n\n\n\n\nChallenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note\n\n\n\n\n\nChallenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
-  },
-  {
-    "objectID": "use-cases.html#a-presentation-preparation",
-    "href": "use-cases.html#a-presentation-preparation",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview"
-  },
-  {
-    "objectID": "use-cases.html#b-competitive-analysis",
-    "href": "use-cases.html#b-competitive-analysis",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape"
-  },
-  {
-    "objectID": "use-cases.html#c-training-accelerator",
-    "href": "use-cases.html#c-training-accelerator",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies"
-  },
-  {
-    "objectID": "use-cases.html#d-communication-clarity",
-    "href": "use-cases.html#d-communication-clarity",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note"
-  },
-  {
-    "objectID": "use-cases.html#e-department-specific-use-cases",
-    "href": "use-cases.html#e-department-specific-use-cases",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NotebookLM Workshop",
-    "section": "",
-    "text": "Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence."
-  },
-  {
-    "objectID": "index.html#workshop-objectives",
-    "href": "index.html#workshop-objectives",
-    "title": "NotebookLM Workshop",
-    "section": "Workshop Objectives",
-    "text": "Workshop Objectives\n\n\n\n⚡\n\n\nGetting Started with NotebookLM\nThe workshop demonstrates how to use helpful NotebookLM features, which saves valuable time in daily work.\n\n\n\n\n🎯\n\n\nReal-World Use Cases\nTypical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.\n\n\n\n\n🚀\n\n\nDepartment-Specific\nNotebookLM supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation."
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#discover-new-sources",
-    "href": "notebooklm-discover-sources.html#discover-new-sources",
-    "title": "NotebookLM",
-    "section": "Discover New Sources",
-    "text": "Discover New Sources\n\n\n\n\n\nSources area:\nClick on Discover\nEnter any topic of interest (here we entered EU AI Act)"
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
-    "href": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
-    "title": "NotebookLM",
-    "section": "Select and Add Discovered Sources",
-    "text": "Select and Add Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep"
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#use-new-sources",
-    "href": "notebooklm-discover-sources.html#use-new-sources",
-    "title": "NotebookLM",
-    "section": "Use New Sources",
-    "text": "Use New Sources\n\n\n\n\n\nSelect the sources you want to work with and create new content (like mindmaps, etc.)"
   },
   {
     "objectID": "use-cases-domains.html",
@@ -966,24 +861,129 @@
     "text": "NotebookLM can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nUser Manual Creation\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nRegulatory Documentation\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
   },
   {
+    "objectID": "notebooklm-audio-overview.html#choose-output-language",
+    "href": "notebooklm-audio-overview.html#choose-output-language",
+    "title": "NotebookLM",
+    "section": "Choose Output Language",
+    "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings 2 Select the Output Language\n\nYou can create audio overviews in over 50 languages"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#create-an-audio-overview",
+    "href": "notebooklm-audio-overview.html#create-an-audio-overview",
+    "title": "NotebookLM",
+    "section": "Create an Audio Overview",
+    "text": "Create an Audio Overview\n\n\n\n\n\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Generate"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
+    "href": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
+    "title": "NotebookLM",
+    "section": "Interact with an Audio Overview",
+    "text": "Interact with an Audio Overview\n\n\n\n\n\nSelect Interactive Mode (BETA)\nSelect Play Audio\nWhile listening, select Join and ask a question"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#manage-your-audio-overview",
+    "href": "notebooklm-audio-overview.html#manage-your-audio-overview",
+    "title": "NotebookLM",
+    "section": "Manage Your Audio Overview",
+    "text": "Manage Your Audio Overview\n\n\n\n\n\nChange speed, download your audio, or delete it\nSelect “More” to:\n1 Change the playback speed\n2 Download the audio as mp3\n3 Delete the audio overview"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#customized-audio-overviews",
+    "href": "notebooklm-audio-overview.html#customized-audio-overviews",
+    "title": "NotebookLM",
+    "section": "Customized Audio Overviews",
+    "text": "Customized Audio Overviews\n\n\n\n\nIf you have already created an audio overview, you must delete it first\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Customize\nEnter a custom prompt (max. 500 characters)\n\nExample prompt (adapt the placeholders)\nCreate an audio overview for [TARGET AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nAddress key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
+  },
+  {
+    "objectID": "notebooklm-study-guide.html#quiz-questions-and-glossary",
+    "href": "notebooklm-study-guide.html#quiz-questions-and-glossary",
+    "title": "NotebookLM",
+    "section": "Quiz Questions and Glossary",
+    "text": "Quiz Questions and Glossary\n\n\n\n\n\nStudio area:\nClick on Study Guide\n\nCreates a self-review quiz and glossary with key terms"
+  },
+  {
+    "objectID": "notebooklm-study-guide.html#open-the-study-guide-note",
+    "href": "notebooklm-study-guide.html#open-the-study-guide-note",
+    "title": "NotebookLM",
+    "section": "Open the Study Guide Note",
+    "text": "Open the Study Guide Note\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the questions, answer key, and glossary"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NotebookLM Workshop",
+    "section": "",
+    "text": "Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence."
+  },
+  {
+    "objectID": "index.html#workshop-objectives",
+    "href": "index.html#workshop-objectives",
+    "title": "NotebookLM Workshop",
+    "section": "Workshop Objectives",
+    "text": "Workshop Objectives\n\n\n\n⚡\n\n\nGetting Started with NotebookLM\nThe workshop demonstrates how to use helpful NotebookLM features, which saves valuable time in daily work.\n\n\n\n\n🎯\n\n\nReal-World Use Cases\nTypical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.\n\n\n\n\n🚀\n\n\nDepartment-Specific\nNotebookLM supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation."
+  },
+  {
+    "objectID": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
+    "href": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
+    "title": "NotebookLM",
+    "section": "Create an Overview of Key Topics",
+    "text": "Create an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing Doc."
+  },
+  {
+    "objectID": "notebooklm-briefing-document.html#open-briefing-document",
+    "href": "notebooklm-briefing-document.html#open-briefing-document",
+    "title": "NotebookLM",
+    "section": "Open Briefing Document",
+    "text": "Open Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the briefing document"
+  },
+  {
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Choose one of the following use cases to practice:\n\n\n\n\n\n\nExample Use Cases\n\n\n\n\n\n\nA. Presentation Preparation: Transform reports into compelling presentation content.\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Precise Communication: Communicate precisely – clearly, understandably, and effectively.\nE. Department-Specific Use Case: Explore specialized applications for your department\n\n\n\n\n\n\n\nChallenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview\n\n\n\n\n\nChallenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape\n\n\n\n\n\nChallenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies\n\n\n\n\n\nChallenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note\n\n\n\n\n\nChallenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
+  },
+  {
+    "objectID": "use-cases.html#a-presentation-preparation",
+    "href": "use-cases.html#a-presentation-preparation",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Challenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview"
+  },
+  {
+    "objectID": "use-cases.html#b-competitive-analysis",
+    "href": "use-cases.html#b-competitive-analysis",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Challenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape"
+  },
+  {
+    "objectID": "use-cases.html#c-training-accelerator",
+    "href": "use-cases.html#c-training-accelerator",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Challenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies"
+  },
+  {
+    "objectID": "use-cases.html#d-communication-clarity",
+    "href": "use-cases.html#d-communication-clarity",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Challenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note"
+  },
+  {
+    "objectID": "use-cases.html#e-department-specific-use-cases",
+    "href": "use-cases.html#e-department-specific-use-cases",
+    "title": "Use Cases",
+    "section": "",
+    "text": "Challenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
+  },
+  {
     "objectID": "agenda.html",
     "href": "agenda.html",
     "title": "Agenda",
     "section": "",
     "text": "Module\nSection\nContent\n\n\n\n\n1\nIntroduction\nNotebookLM and its features\n\n\n2\nExercises\nNotebookLM exercises\n\n\n3\nUse Cases\nGeneral use cases and department-specific examples\n\n\n4\nConclusion\nConcrete plan in Docs for sustainable integration\n\n\n\nShort survey\n\n\n\n\n\n\nFollow-up survey in 2 weeks: I look forward to feedback on experiences and success stories"
-  },
-  {
-    "objectID": "notebooklm-faq.html#create-faqs",
-    "href": "notebooklm-faq.html#create-faqs",
-    "title": "NotebookLM",
-    "section": "Create FAQs",
-    "text": "Create FAQs\n\n\n\n\n\nStudio area:\nClick on FAQ\n\nCreates a “question-answer” pair format"
-  },
-  {
-    "objectID": "notebooklm-faq.html#open-faq",
-    "href": "notebooklm-faq.html#open-faq",
-    "title": "NotebookLM",
-    "section": "Open FAQ",
-    "text": "Open FAQ\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the FAQ"
   }
 ]
