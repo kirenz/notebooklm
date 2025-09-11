@@ -155,7 +155,7 @@ Find and import relevant web sources directly into your notebook to expand your 
 :::
 
 ---
-
+<!-- 
 ## Notes 
 
 Create, organize, and manage your insights while building a comprehensive knowledge archive.
@@ -166,7 +166,7 @@ Create, organize, and manage your insights while building a comprehensive knowle
 
 :::
 
----
+--- -->
 <!-- 
 ## Videos
 
