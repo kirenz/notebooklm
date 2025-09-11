@@ -1,0 +1,99 @@
+---
+title: "NotebookLM"
+subtitle: "Report"
+author: "Jan Kirenz"
+execute:
+  eval: true
+  echo: false
+highlight-style: github-dark
+format:
+  revealjs:
+    reference-location: document
+    toc: false
+    toc-depth: 1
+    embed-resources: false
+    theme: [default, custom.scss] # Assuming a custom.scss file for specific styles
+    incremental: true
+    transition: fade
+    background-transition: fade
+    transition-speed: slow
+    code-copy: true
+    code-line-numbers: false
+    smaller: false
+    scrollable: true
+    slide-number: c
+    preview-links: auto
+    chalkboard:
+      buttons: false
+    logo: images/logo.png # Optional: Add path to your logo
+    footer: "Jan Kirenz | NotebookLM Workshop" 
+    template-partials:
+      - title-slide.html
+---
+
+
+
+# Reports {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+Automates the process of identifying key vocabulary   
+and formulating relevant quiz questions
+
+
+## Report
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-report-1.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+
+**Studio area**:  
+Click on **Report**
+
+:::
+
+::::
+
+This Opens a new window with more options
+
+
+## Check the Report Options
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-report-2.png)
+:::
+
+::: {.column width="40%" .fragment .fade-left}
+<br>
+
+:::{.tiny-text}
+
+**Create your own**: Craft reports your way by specifying structure, style, tone and more
+
+**Briefing doc**: Overview of your sources featuring key insights and quotes
+
+**Study guide**: Short-answer quiz, suggested essay questions and glossary of key terms
+
+**Blog post**: Insightful takeaways distilled into a highly readable article
+
+**Suggested formats**: More options to choose from
+
+
+:::
+
+:::
+
+::::
+
+# Back to Website {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+
+
+[Workshop Website](https://kirenz.github.io/notebooklm/)

@@ -33,7 +33,7 @@ format:
 
 
 
-# Study Guide {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
+# Study-Guide {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
 Automates the process of identifying key vocabulary   
 and formulating relevant quiz questions

@@ -146,7 +146,7 @@ You can hover over any citation to get the full quoted text
 ::: {.column width="40%" .fragment .fade-left}
 <br>
 
-To delete the chat history, select **Refresh**
+To delete the chat history, select **Refresh** (on the top)
 
 :::
 
@@ -177,79 +177,19 @@ Navigate to **Configure notebook** in the chat area
 You can change the conversation style and response length
 
 
-## Conversation Style: Default 
+## Conversation Styles
 
 
-:::: {.columns}
-
-::: {.column width="60%"}
 ![](images/notebooklm/nlm-04.png)
-:::
 
-::: {.column width="40%" .fragment .fade-left}
-<br>
-
-:::
-
-::::
 
 **Default**: Best for general research and brainstorming tasks.
 
-
-## Conversation Style: Analyst 
-
-
-:::: {.columns}
-
-::: {.column width="60%"}
-![](images/notebooklm/nlm-05.png)
-:::
-
-::: {.column width="40%"}
-
-:::
-
-::::
-
 **Analyst**: Best for business-oriented strategy and decision making.
-
-
-## Conversation Style: Guide 
-
-:::: {.columns}
-
-::: {.column width="60%"}
-![](images/notebooklm/nlm-06.png)
-:::
-
-::: {.column width="40%"}
-
-
-:::
-
-::::
 
 **Guide**: Use your notebook as a knowledge base or help center
 
-## Conversation Style: Custom 
-
-
-:::: {.columns}
-
-::: {.column width="60%"}
-![](images/notebooklm/nlm-07.png)
-:::
-
-::: {.column width="40%" .fragment .fade-left}
-
-
-:::
-
-::::
-
-
 **Custom**: Best for choosing a specific role
-
 
 **Response Length**: You can also choose the response length: *Default*, *Longer* and *Shorter*
 

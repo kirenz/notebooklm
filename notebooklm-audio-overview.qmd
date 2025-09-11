@@ -73,9 +73,85 @@ You can create audio overviews in over 50 languages
 <br>
 
 
+**1** Navigate to the "Studio Panel" 
+
+**2** Click on "Audio Overview" to generate the audio file
+
+:::
+
+::::
+
+
+
+
+## Customise Audio Overviews 
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-custom.png)
+:::
+
+::: {.column width="40%"}
+
+
 **1** Navigate to the "Audio Overview" section in the **Studio area**
 
-**2** Under "Deep Dive Conversation" select **Generate**
+**2** In the top right corner of "Audio Overview" select the pencil symbol 
+
+**3** Choose the format, language and length
+
+:::{.tiny-text}
+
+Format options:
+
+**Deep dive**: A lively conversation between two hosts, unpacking and connecting topics in your sources
+
+**Brief**: A bite-sized overview to help you grasp the core ideas from your sources quickly
+
+**Critique**: An expert review of your sources, offering constructive feedback to help you improve your material
+
+**Debate**: A thoughtful debate between two hosts, illuminating different perspectives on your sources
+:::
+
+:::
+
+::::
+
+
+
+## Customise Audio Overviews with Prompts
+
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/notebooklm/nlm-audio-custom.png)
+:::
+
+::: {.column width="40%"}
+
+
+
+:::{.tiny-text}
+
+Example prompt (adapt the placeholders)
+
+```md
+Create an audio overview for [TARGET AUDIENCE] 
+with a [TONE] tone. 
+Focus on [FOCUS] and aim for [DURATION]. 
+Address key insights with concrete examples.
+
+PLACEHOLDERS
+
+[TARGET AUDIENCE] = Kärcher management
+[TONE] = professional
+[FOCUS] = practical insights  
+[DURATION] = 8-10 min.
+```
+:::
 
 :::
 
@@ -130,48 +206,6 @@ Select "More" to:
 
 **3** Delete the audio overview
 
-
-:::
-
-::::
-
-## Customized Audio Overviews 
-
-
-:::: {.columns}
-
-::: {.column width="60%"}
-![](images/notebooklm/nlm-audio-custom.png)
-:::
-
-::: {.column width="40%"}
-
-*If you have already created an audio overview, you must delete it first*
-
-**1** Navigate to the "Audio Overview" section in the **Studio area**
-
-**2** Under "Deep Dive Conversation" select **Customize**
-
-Enter a custom prompt (max. 500 characters) 
-
-:::{.tiny-text}
-
-Example prompt (adapt the placeholders)
-
-```md
-Create an audio overview for [TARGET AUDIENCE] 
-with a [TONE] tone. 
-Focus on [FOCUS] and aim for [DURATION]. 
-Address key insights with concrete examples.
-
-PLACEHOLDERS
-
-[TARGET AUDIENCE] = Kärcher management
-[TONE] = professional
-[FOCUS] = practical insights  
-[DURATION] = 8-10 min.
-```
-:::
 
 :::
 
