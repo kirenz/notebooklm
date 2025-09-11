@@ -16,5 +16,5 @@ number-sections: false
 [Short survey](https://docs.google.com/forms/d/e/1FAIpQLSe0apQGbXqASCdkEAi7bdkt3mo8WM_0LXLuzBK3pWxoKEbMXA/viewform?usp=sharing&ouid=107811604787432825206)
 
 ::: {.callout-note}
-**Follow-up survey in 2 weeks:** I look forward to feedback on experiences and success stories
+**Follow-up survey in a couple of weeks:** I look forward to feedback on experiences and success stories
 :::
