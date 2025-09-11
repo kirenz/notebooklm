@@ -7,8 +7,8 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d329e753491efaeac79c98c4b193a686.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-8dcd8563ea6803ab7cbb3d71ca5772e1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.34">
 
   <meta name="author" content="Jan Kirenz">
   <title>NotebookLM</title>
@@ -285,8 +285,48 @@ of the topics in your uploaded sources</p>
 <p><img data-src="images/notebooklm/nlm-audio-1.png"></p>
 </div><div class="column" style="width:40%;">
 <p><br></p>
+<p><strong>1</strong> Navigate to the “Studio Panel”</p>
+<p><strong>2</strong> Click on “Audio Overview” to generate the audio file</p>
+</div></div>
+</section>
+<section id="customise-audio-overviews" class="slide level2">
+<h2>Customise Audio Overviews</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><img data-src="images/notebooklm/nlm-audio-custom.png"></p>
+</div><div class="column" style="width:40%;">
 <p><strong>1</strong> Navigate to the “Audio Overview” section in the <strong>Studio area</strong></p>
-<p><strong>2</strong> Under “Deep Dive Conversation” select <strong>Generate</strong></p>
+<p><strong>2</strong> In the top right corner of “Audio Overview” select the pencil symbol</p>
+<p><strong>3</strong> Choose the format, language and length</p>
+<div class="tiny-text">
+<p>Format options:</p>
+<p><strong>Deep dive</strong>: A lively conversation between two hosts, unpacking and connecting topics in your sources</p>
+<p><strong>Brief</strong>: A bite-sized overview to help you grasp the core ideas from your sources quickly</p>
+<p><strong>Critique</strong>: An expert review of your sources, offering constructive feedback to help you improve your material</p>
+<p><strong>Debate</strong>: A thoughtful debate between two hosts, illuminating different perspectives on your sources</p>
+</div>
+</div></div>
+</section>
+<section id="customise-audio-overviews-with-prompts" class="slide level2">
+<h2>Customise Audio Overviews with Prompts</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><img data-src="images/notebooklm/nlm-audio-custom.png"></p>
+</div><div class="column" style="width:40%;">
+<div class="tiny-text">
+<p>Example prompt (adapt the placeholders)</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode md code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a aria-hidden="true" tabindex="-1"></a>Create an audio overview for <span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> </span>
+<span id="cb1-2"><a aria-hidden="true" tabindex="-1"></a>with a <span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> tone. </span>
+<span id="cb1-3"><a aria-hidden="true" tabindex="-1"></a>Focus on <span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> and aim for <span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span>. </span>
+<span id="cb1-4"><a aria-hidden="true" tabindex="-1"></a>Address key insights with concrete examples.</span>
+<span id="cb1-5"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a aria-hidden="true" tabindex="-1"></a>PLACEHOLDERS</span>
+<span id="cb1-7"><a aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> = Kärcher management</span>
+<span id="cb1-9"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> = professional</span>
+<span id="cb1-10"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> = practical insights  </span>
+<span id="cb1-11"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span> = 8-10 min.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </div></div>
 </section>
 <section id="interact-with-an-audio-overview" class="slide level2">
@@ -313,32 +353,6 @@ of the topics in your uploaded sources</p>
 <p><strong>1</strong> Change the playback speed</p>
 <p><strong>2</strong> Download the audio as mp3</p>
 <p><strong>3</strong> Delete the audio overview</p>
-</div></div>
-</section>
-<section id="customized-audio-overviews" class="slide level2">
-<h2>Customized Audio Overviews</h2>
-<div class="columns">
-<div class="column" style="width:60%;">
-<p><img data-src="images/notebooklm/nlm-audio-custom.png"></p>
-</div><div class="column" style="width:40%;">
-<p><em>If you have already created an audio overview, you must delete it first</em></p>
-<p><strong>1</strong> Navigate to the “Audio Overview” section in the <strong>Studio area</strong></p>
-<p><strong>2</strong> Under “Deep Dive Conversation” select <strong>Customize</strong></p>
-<p>Enter a custom prompt (max. 500 characters)</p>
-<div class="tiny-text">
-<p>Example prompt (adapt the placeholders)</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode md code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a aria-hidden="true" tabindex="-1"></a>Create an audio overview for <span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> </span>
-<span id="cb1-2"><a aria-hidden="true" tabindex="-1"></a>with a <span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> tone. </span>
-<span id="cb1-3"><a aria-hidden="true" tabindex="-1"></a>Focus on <span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> and aim for <span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span>. </span>
-<span id="cb1-4"><a aria-hidden="true" tabindex="-1"></a>Address key insights with concrete examples.</span>
-<span id="cb1-5"><a aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a aria-hidden="true" tabindex="-1"></a>PLACEHOLDERS</span>
-<span id="cb1-7"><a aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> = Kärcher management</span>
-<span id="cb1-9"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> = professional</span>
-<span id="cb1-10"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> = practical insights  </span>
-<span id="cb1-11"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span> = 8-10 min.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
 </div></div>
 </section></section>
 <section id="back-to-website" class="title-slide slide level1 center" data-background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)">

@@ -1,10 +1,80 @@
 [
   {
-    "objectID": "timer.html#setup",
-    "href": "timer.html#setup",
-    "title": "Countdown-Test",
-    "section": "Setup",
-    "text": "Setup\n\n\n\n−+\n01:00"
+    "objectID": "notebooklm-audio-overview.html#choose-output-language",
+    "href": "notebooklm-audio-overview.html#choose-output-language",
+    "title": "NotebookLM",
+    "section": "Choose Output Language",
+    "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings 2 Select the Output Language\n\nYou can create audio overviews in over 50 languages"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#create-an-audio-overview",
+    "href": "notebooklm-audio-overview.html#create-an-audio-overview",
+    "title": "NotebookLM",
+    "section": "Create an Audio Overview",
+    "text": "Create an Audio Overview\n\n\n\n\n\n1 Navigate to the “Studio Panel”\n2 Click on “Audio Overview” to generate the audio file"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#customise-audio-overviews",
+    "href": "notebooklm-audio-overview.html#customise-audio-overviews",
+    "title": "NotebookLM",
+    "section": "Customise Audio Overviews",
+    "text": "Customise Audio Overviews\n\n\n\n\n1 Navigate to the “Audio Overview” section in the Studio area\n2 In the top right corner of “Audio Overview” select the pencil symbol\n3 Choose the format, language and length\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#customise-audio-overviews-with-prompts",
+    "href": "notebooklm-audio-overview.html#customise-audio-overviews-with-prompts",
+    "title": "NotebookLM",
+    "section": "Customise Audio Overviews with Prompts",
+    "text": "Customise Audio Overviews with Prompts\n\n\n\n\n\nExample prompt (adapt the placeholders)\nCreate an audio overview for [TARGET AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nAddress key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
+    "href": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
+    "title": "NotebookLM",
+    "section": "Interact with an Audio Overview",
+    "text": "Interact with an Audio Overview\n\n\n\n\n\nSelect Interactive Mode (BETA)\nSelect Play Audio\nWhile listening, select Join and ask a question"
+  },
+  {
+    "objectID": "notebooklm-audio-overview.html#manage-your-audio-overview",
+    "href": "notebooklm-audio-overview.html#manage-your-audio-overview",
+    "title": "NotebookLM",
+    "section": "Manage Your Audio Overview",
+    "text": "Manage Your Audio Overview\n\n\n\n\n\nChange speed, download your audio, or delete it\nSelect “More” to:\n1 Change the playback speed\n2 Download the audio as mp3\n3 Delete the audio overview"
+  },
+  {
+    "objectID": "notebooklm-flashcards.html#flashcards-1",
+    "href": "notebooklm-flashcards.html#flashcards-1",
+    "title": "NotebookLM",
+    "section": "Flashcards",
+    "text": "Flashcards\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
+  },
+  {
+    "objectID": "notebooklm-flashcards.html#check-the-report-options",
+    "href": "notebooklm-flashcards.html#check-the-report-options",
+    "title": "NotebookLM",
+    "section": "Check the Report Options",
+    "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
+  },
+  {
+    "objectID": "notebooklm-mind-map.html#create-a-mindmap",
+    "href": "notebooklm-mind-map.html#create-a-mindmap",
+    "title": "NotebookLM",
+    "section": "Create a Mindmap",
+    "text": "Create a Mindmap\n\n\n\n\n\n1 Select the mindmap chip in the Chat area\n2 The mindmap appears in the Studio area"
+  },
+  {
+    "objectID": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
+    "href": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
+    "title": "NotebookLM",
+    "section": "How to Interact with a Mindmap",
+    "text": "How to Interact with a Mindmap\n\n\n\n\n\nOpen the mindmap in the Studio area\nExpand or collapse branches with &gt;\nChange view, download, or exit (top right corner)"
+  },
+  {
+    "objectID": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
+    "href": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
+    "title": "NotebookLM",
+    "section": "Select Nodes to Ask Questions",
+    "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about that specific topic"
   },
   {
     "objectID": "notebooklm-faq.html#create-faqs",
@@ -21,102 +91,123 @@
     "text": "Open FAQ\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the FAQ"
   },
   {
-    "objectID": "notebooklm-notes.html#create-add-notes",
-    "href": "notebooklm-notes.html#create-add-notes",
+    "objectID": "notebooklm-chat.html#select-sources",
+    "href": "notebooklm-chat.html#select-sources",
     "title": "NotebookLM",
-    "section": "Create & Add Notes",
-    "text": "Create & Add Notes\n\n\n\n\n\nStudio area:\nSelect Add Note in the Notes section\nYou can write or paste text into this note\n\nYou can create up to 1,000 notes per notebook"
+    "section": "Select Sources",
+    "text": "Select Sources\n\n\n\n\n\nUse the checkbox next to each source to include or exclude specific sources that the model should use to answer your question\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add or remove sources by selecting + Add or deselecting individual sources in the Sources panel"
   },
   {
-    "objectID": "notebooklm-notes.html#convert-notes-to-sources",
-    "href": "notebooklm-notes.html#convert-notes-to-sources",
+    "objectID": "notebooklm-chat.html#ask-the-model-questions",
+    "href": "notebooklm-chat.html#ask-the-model-questions",
     "title": "NotebookLM",
-    "section": "Convert Notes to Sources",
-    "text": "Convert Notes to Sources\n\n\n\n\n\nStudio area:\nOpen the note\nSelect Convert to Source\n\n\nTo convert all notes to sources: Click on More in the Notes section in the Studio area.\nSelect Convert All Notes to Sources\n\n\n\nYou can add your notes to your sources"
+    "section": "Ask the Model Questions",
+    "text": "Ask the Model Questions\n\n\n\n\n\nEnter a question in the chat window\n\nFor example:\nWhat are the key insights  \nfrom this document?"
   },
   {
-    "objectID": "features.html",
-    "href": "features.html",
-    "title": "Features",
-    "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation\n\n\n\n\n\n\n\nConvert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews\n\n\n\n\n\n\n\nAutomatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides\n\n\n\n\n\n\n\nCreate professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents\n\n\n\n\n\n\n\nAutomatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation\n\n\n\n\n\n\n\nExtract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation\n\n\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery\n\n\n\n\n\n\n\nCreate, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management\n\n\n\n\n\n\n\nUpload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
+    "objectID": "notebooklm-chat.html#citations",
+    "href": "notebooklm-chat.html#citations",
+    "title": "NotebookLM",
+    "section": "Citations",
+    "text": "Citations\n\n\n\n\n\nSelect a citation to navigate to the location of the citation\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can hover over any citation to get the full quoted text"
   },
   {
-    "objectID": "features.html#getting-started",
-    "href": "features.html#getting-started",
-    "title": "Features",
-    "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
+    "objectID": "notebooklm-chat.html#clear-chat",
+    "href": "notebooklm-chat.html#clear-chat",
+    "title": "NotebookLM",
+    "section": "Clear Chat",
+    "text": "Clear Chat\n\n\n\n\n\nTo delete the chat history, select Refresh (on the top)"
   },
   {
-    "objectID": "features.html#chat",
-    "href": "features.html#chat",
-    "title": "Features",
-    "section": "",
-    "text": "Ask questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nChat Functions & Techniques"
+    "objectID": "notebooklm-chat.html#customize-chat",
+    "href": "notebooklm-chat.html#customize-chat",
+    "title": "NotebookLM",
+    "section": "Customize Chat",
+    "text": "Customize Chat\n\n\n\n\n\nNavigate to Configure notebook in the chat area\n\nYou can change the conversation style and response length"
   },
   {
-    "objectID": "features.html#mindmap",
-    "href": "features.html#mindmap",
-    "title": "Features",
-    "section": "",
-    "text": "Transform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nMindmap Creation"
+    "objectID": "notebooklm-chat.html#conversation-styles",
+    "href": "notebooklm-chat.html#conversation-styles",
+    "title": "NotebookLM",
+    "section": "Conversation Styles",
+    "text": "Conversation Styles\n\nDefault: Best for general research and brainstorming tasks.\nAnalyst: Best for business-oriented strategy and decision making.\nGuide: Use your notebook as a knowledge base or help center\nCustom: Best for choosing a specific role\nResponse Length: You can also choose the response length: Default, Longer and Shorter"
   },
   {
-    "objectID": "features.html#audio-overviews",
-    "href": "features.html#audio-overviews",
-    "title": "Features",
-    "section": "",
-    "text": "Convert any document into natural podcast-style conversations that you can listen to while commuting or multitasking.\n\n\n\n\n\n\nCreating Audio Overviews"
+    "objectID": "notebooklm-report.html#report",
+    "href": "notebooklm-report.html#report",
+    "title": "NotebookLM",
+    "section": "Report",
+    "text": "Report\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
   },
   {
-    "objectID": "features.html#study-guides",
-    "href": "features.html#study-guides",
-    "title": "Features",
-    "section": "",
-    "text": "Automatically create quiz questions, glossaries, and self-review materials from your documents.\n\n\n\n\n\n\nCreating Study Guides"
+    "objectID": "notebooklm-report.html#check-the-report-options",
+    "href": "notebooklm-report.html#check-the-report-options",
+    "title": "NotebookLM",
+    "section": "Check the Report Options",
+    "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
   },
   {
-    "objectID": "features.html#briefings",
-    "href": "features.html#briefings",
-    "title": "Features",
-    "section": "",
-    "text": "Create professional briefing documents that summarize key topics, timelines, and decisions from multiple sources.\n\n\n\n\n\n\nCreating Briefing Documents"
+    "objectID": "notebooklm-intro.html#notes-on-slide-structure",
+    "href": "notebooklm-intro.html#notes-on-slide-structure",
+    "title": "NotebookLM",
+    "section": "Notes on Slide Structure",
+    "text": "Notes on Slide Structure\nMost slides follow the structure shown in this slide\n\n\n\n\n\nHere you see your instructions.\nFollow the steps shown here.\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThis part gives you only additional context or tips"
   },
   {
-    "objectID": "features.html#faq",
-    "href": "features.html#faq",
-    "title": "Features",
-    "section": "",
-    "text": "Automatically create comprehensive FAQ sections from your documentation for customer service and training purposes.\n\n\n\n\n\n\nFAQ Creation"
+    "objectID": "notebooklm-intro.html#open-notebooklm",
+    "href": "notebooklm-intro.html#open-notebooklm",
+    "title": "NotebookLM",
+    "section": "Open NotebookLM",
+    "text": "Open NotebookLM\n\n\n\n\n\nOn your device:\n🔗 Open NotebookLM\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nNotebookLM cannot delete or edit your original files in Google Drive"
   },
   {
-    "objectID": "features.html#timeline",
-    "href": "features.html#timeline",
-    "title": "Features",
-    "section": "",
-    "text": "Extract chronological information from documents to create clear timelines for projects, events, or processes.\n\n\n\n\n\n\nTimeline Creation"
+    "objectID": "notebooklm-intro.html#create-a-new-notebook",
+    "href": "notebooklm-intro.html#create-a-new-notebook",
+    "title": "NotebookLM",
+    "section": "Create a New Notebook",
+    "text": "Create a New Notebook\n\n\n\n\n\nTo create a new notebook, select:\n+ New"
   },
   {
-    "objectID": "features.html#discover-sources",
-    "href": "features.html#discover-sources",
-    "title": "Features",
-    "section": "",
-    "text": "Find and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\nSource Discovery"
+    "objectID": "notebooklm-intro.html#add-your-sources",
+    "href": "notebooklm-intro.html#add-your-sources",
+    "title": "NotebookLM",
+    "section": "Add Your Sources",
+    "text": "Add Your Sources\n\n\n\n\n\nSelect a document you want to explore\n\nI’m using the EU AI Act as an example\n\nAdd the document\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add up to 300 sources: (1) PDF, PPT, Excel, Audio, Images (2) Google Docs or Google Slides (3) Website or YouTube (4) Copied text (5) Search the web"
   },
   {
-    "objectID": "features.html#notes",
-    "href": "features.html#notes",
-    "title": "Features",
-    "section": "",
-    "text": "Create, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nNotes Management"
+    "objectID": "notebooklm-intro.html#three-core-areas",
+    "href": "notebooklm-intro.html#three-core-areas",
+    "title": "NotebookLM",
+    "section": "Three Core Areas",
+    "text": "Three Core Areas\n\n\n\n\n\n\n\n\n\nSources Section: Upload and manage documents.\n\nChat Section: Ask questions and get answers based on your documents.\n\nStudio Section: Generate and save outputs like summaries, study guides, and notes."
   },
   {
-    "objectID": "features.html#videos",
-    "href": "features.html#videos",
-    "title": "Features",
-    "section": "",
-    "text": "Upload YouTube videos, training materials, and multimedia content to extract transcripts and insights.\n\n\n\n\n\n\nProcessing Video Sources"
+    "objectID": "notebooklm-intro.html#automatically-generated-summary",
+    "href": "notebooklm-intro.html#automatically-generated-summary",
+    "title": "NotebookLM",
+    "section": "Automatically Generated Summary",
+    "text": "Automatically Generated Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe summary is automatically generated"
+  },
+  {
+    "objectID": "notebooklm-intro.html#save-summary-as-note",
+    "href": "notebooklm-intro.html#save-summary-as-note",
+    "title": "NotebookLM",
+    "section": "Save Summary as Note",
+    "text": "Save Summary as Note\n\n\n\n\n\n1 In the Chat Section:\nSelect Save to note\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n2 The note appears in the “Notebook” within the Studio Section"
+  },
+  {
+    "objectID": "notebooklm-intro.html#open-the-note",
+    "href": "notebooklm-intro.html#open-the-note",
+    "title": "NotebookLM",
+    "section": "Open the Note",
+    "text": "Open the Note\n\n\n\n\n\nClick on the note in the Studio Section\n(it will open in a new window)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSaved answer notes are not editable"
+  },
+  {
+    "objectID": "timer.html#setup",
+    "href": "timer.html#setup",
+    "title": "Countdown-Test",
+    "section": "Setup",
+    "text": "Setup\n\n\n\n−+\n01:00"
   },
   {
     "objectID": "notebooklm-slides.html#welcome-to-the-workshop",
@@ -553,244 +644,6 @@
     "text": "Review\n\n\n\n\n\n✅ Learned NotebookLM features\n✅ Worked on some use cases\n✅ Ready for continued use!"
   },
   {
-    "objectID": "notebooklm-chat.html#select-sources",
-    "href": "notebooklm-chat.html#select-sources",
-    "title": "NotebookLM",
-    "section": "Select Sources",
-    "text": "Select Sources\n\n\n\n\n\nUse the checkbox next to each source to include or exclude specific sources that the model should use to answer your question\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add or remove sources by selecting + Add or deselecting individual sources in the Sources panel"
-  },
-  {
-    "objectID": "notebooklm-chat.html#ask-the-model-questions",
-    "href": "notebooklm-chat.html#ask-the-model-questions",
-    "title": "NotebookLM",
-    "section": "Ask the Model Questions",
-    "text": "Ask the Model Questions\n\n\n\n\n\nEnter a question in the chat window\n\nFor example:\nWhat are the key insights  \nfrom this document?"
-  },
-  {
-    "objectID": "notebooklm-chat.html#citations",
-    "href": "notebooklm-chat.html#citations",
-    "title": "NotebookLM",
-    "section": "Citations",
-    "text": "Citations\n\n\n\n\n\nSelect a citation to navigate to the location of the citation\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can hover over any citation to get the full quoted text"
-  },
-  {
-    "objectID": "notebooklm-chat.html#clear-chat",
-    "href": "notebooklm-chat.html#clear-chat",
-    "title": "NotebookLM",
-    "section": "Clear Chat",
-    "text": "Clear Chat\n\n\n\n\n\nTo delete the chat history, select Refresh"
-  },
-  {
-    "objectID": "notebooklm-chat.html#customize-chat",
-    "href": "notebooklm-chat.html#customize-chat",
-    "title": "NotebookLM",
-    "section": "Customize Chat",
-    "text": "Customize Chat\n\n\n\n\n\nNavigate to Configure notebook in the chat area\n\nYou can change the conversation style and response length"
-  },
-  {
-    "objectID": "notebooklm-chat.html#conversation-style-default",
-    "href": "notebooklm-chat.html#conversation-style-default",
-    "title": "NotebookLM",
-    "section": "Conversation Style: Default",
-    "text": "Conversation Style: Default\n\n\n\n\n\n\nDefault: Best for general research and brainstorming tasks."
-  },
-  {
-    "objectID": "notebooklm-chat.html#conversation-style-analyst",
-    "href": "notebooklm-chat.html#conversation-style-analyst",
-    "title": "NotebookLM",
-    "section": "Conversation Style: Analyst",
-    "text": "Conversation Style: Analyst\n\n\n\n\n\n\nAnalyst: Best for business-oriented strategy and decision making."
-  },
-  {
-    "objectID": "notebooklm-chat.html#conversation-style-guide",
-    "href": "notebooklm-chat.html#conversation-style-guide",
-    "title": "NotebookLM",
-    "section": "Conversation Style: Guide",
-    "text": "Conversation Style: Guide\n\n\n\n\n\n\nGuide: Use your notebook as a knowledge base or help center"
-  },
-  {
-    "objectID": "notebooklm-chat.html#conversation-style-custom",
-    "href": "notebooklm-chat.html#conversation-style-custom",
-    "title": "NotebookLM",
-    "section": "Conversation Style: Custom",
-    "text": "Conversation Style: Custom\n\n\n\n\n\n\nCustom: Best for choosing a specific role\nResponse Length: You can also choose the response length: Default, Longer and Shorter"
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#create-a-mindmap",
-    "href": "notebooklm-mind-map.html#create-a-mindmap",
-    "title": "NotebookLM",
-    "section": "Create a Mindmap",
-    "text": "Create a Mindmap\n\n\n\n\n\n1 Select the mindmap chip in the Chat area\n2 The mindmap appears in the Studio area"
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
-    "href": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
-    "title": "NotebookLM",
-    "section": "How to Interact with a Mindmap",
-    "text": "How to Interact with a Mindmap\n\n\n\n\n\nOpen the mindmap in the Studio area\nExpand or collapse branches with &gt;\nChange view, download, or exit (top right corner)"
-  },
-  {
-    "objectID": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
-    "href": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
-    "title": "NotebookLM",
-    "section": "Select Nodes to Ask Questions",
-    "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about that specific topic"
-  },
-  {
-    "objectID": "notebooklm-video.html#youtube-video-window-cleaner",
-    "href": "notebooklm-video.html#youtube-video-window-cleaner",
-    "title": "NotebookLM",
-    "section": "Youtube Video: Window Cleaner",
-    "text": "Youtube Video: Window Cleaner\n\n\nSource: YouTube"
-  },
-  {
-    "objectID": "notebooklm-video.html#create-a-new-notebook",
-    "href": "notebooklm-video.html#create-a-new-notebook",
-    "title": "NotebookLM",
-    "section": "Create a New Notebook",
-    "text": "Create a New Notebook\n\n\n\n\n\n🔗 Open NotebookLM\nTo create a new notebook, select:\n+ Create new"
-  },
-  {
-    "objectID": "notebooklm-video.html#add-your-youtube-video",
-    "href": "notebooklm-video.html#add-your-youtube-video",
-    "title": "NotebookLM",
-    "section": "Add Your YouTube Video",
-    "text": "Add Your YouTube Video\n\n\n\n\n\nTo add a video:\n3 Click on YouTube\nEnter a link to a video.\n\nExample Kärcher video:\n[https://www.youtube.com/watch?v=3gWb3LNfX28]"
-  },
-  {
-    "objectID": "notebooklm-intro.html#notes-on-slide-structure",
-    "href": "notebooklm-intro.html#notes-on-slide-structure",
-    "title": "NotebookLM",
-    "section": "Notes on Slide Structure",
-    "text": "Notes on Slide Structure\nMost slides follow the structure shown in this slide\n\n\n\n\n\nHere you see your instructions.\nFollow the steps shown here.\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThis part gives you only additional context or tips"
-  },
-  {
-    "objectID": "notebooklm-intro.html#open-notebooklm",
-    "href": "notebooklm-intro.html#open-notebooklm",
-    "title": "NotebookLM",
-    "section": "Open NotebookLM",
-    "text": "Open NotebookLM\n\n\n\n\n\nOn your device:\n🔗 Open NotebookLM\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nNotebookLM cannot delete or edit your original files in Google Drive"
-  },
-  {
-    "objectID": "notebooklm-intro.html#create-a-new-notebook",
-    "href": "notebooklm-intro.html#create-a-new-notebook",
-    "title": "NotebookLM",
-    "section": "Create a New Notebook",
-    "text": "Create a New Notebook\n\n\n\n\n\nTo create a new notebook, select:\n+ New"
-  },
-  {
-    "objectID": "notebooklm-intro.html#add-your-sources",
-    "href": "notebooklm-intro.html#add-your-sources",
-    "title": "NotebookLM",
-    "section": "Add Your Sources",
-    "text": "Add Your Sources\n\n\n\n\n\nSelect a document you want to explore\n\nI’m using the EU AI Act as an example\n\nAdd the document\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add up to 300 sources: (1) PDF, PPT, Excel, Audio, Images (2) Google Docs or Google Slides (3) Website or YouTube (4) Copied text (5) Search the web"
-  },
-  {
-    "objectID": "notebooklm-intro.html#three-core-areas",
-    "href": "notebooklm-intro.html#three-core-areas",
-    "title": "NotebookLM",
-    "section": "Three Core Areas",
-    "text": "Three Core Areas\n\n\n\n\n\n\n\n\n\nSources Section: Upload and manage documents.\n\nChat Section: Ask questions and get answers based on your documents.\n\nStudio Section: Generate and save outputs like summaries, study guides, and notes."
-  },
-  {
-    "objectID": "notebooklm-intro.html#automatically-generated-summary",
-    "href": "notebooklm-intro.html#automatically-generated-summary",
-    "title": "NotebookLM",
-    "section": "Automatically Generated Summary",
-    "text": "Automatically Generated Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe summary is automatically generated"
-  },
-  {
-    "objectID": "notebooklm-intro.html#save-summary-as-note",
-    "href": "notebooklm-intro.html#save-summary-as-note",
-    "title": "NotebookLM",
-    "section": "Save Summary as Note",
-    "text": "Save Summary as Note\n\n\n\n\n\n1 In the Chat Section:\nSelect Save to note\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n2 The note appears in the “Notebook” within the Studio Section"
-  },
-  {
-    "objectID": "notebooklm-intro.html#open-the-note",
-    "href": "notebooklm-intro.html#open-the-note",
-    "title": "NotebookLM",
-    "section": "Open the Note",
-    "text": "Open the Note\n\n\n\n\n\nClick on the note in the Studio Section\n(it will open in a new window)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSaved answer notes are not editable"
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#discover-new-sources",
-    "href": "notebooklm-discover-sources.html#discover-new-sources",
-    "title": "NotebookLM",
-    "section": "Discover New Sources",
-    "text": "Discover New Sources\n\n\n\n\n\nSources area:\nClick on Discover\nEnter any topic of interest (here we entered EU AI Act)"
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
-    "href": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
-    "title": "NotebookLM",
-    "section": "Select and Add Discovered Sources",
-    "text": "Select and Add Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep"
-  },
-  {
-    "objectID": "notebooklm-discover-sources.html#use-new-sources",
-    "href": "notebooklm-discover-sources.html#use-new-sources",
-    "title": "NotebookLM",
-    "section": "Use New Sources",
-    "text": "Use New Sources\n\n\n\n\n\nSelect the sources you want to work with and create new content (like mindmaps, etc.)"
-  },
-  {
-    "objectID": "notebooklm-timeline.html#create-timeline",
-    "href": "notebooklm-timeline.html#create-timeline",
-    "title": "NotebookLM",
-    "section": "Create Timeline",
-    "text": "Create Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline\n\nTimeline and character directory based on the provided sources."
-  },
-  {
-    "objectID": "notebooklm-timeline.html#open-timeline",
-    "href": "notebooklm-timeline.html#open-timeline",
-    "title": "NotebookLM",
-    "section": "Open Timeline",
-    "text": "Open Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the timeline"
-  },
-  {
-    "objectID": "exercises.html",
-    "href": "exercises.html",
-    "title": "Exercises",
-    "section": "",
-    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
-  },
-  {
-    "objectID": "exercises.html#meeting-preparation",
-    "href": "exercises.html#meeting-preparation",
-    "title": "Exercises",
-    "section": "",
-    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
-  },
-  {
-    "objectID": "exercises.html#meeting-preparation-2",
-    "href": "exercises.html#meeting-preparation-2",
-    "title": "Exercises",
-    "section": "Meeting Preparation 2",
-    "text": "Meeting Preparation 2\n\nUse the same notebook\nClick Refresh in the Chat Panel\nAsk this question in the chat (replace the placeholder entry “Finance” with your area):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nPlease extract the five central decisions or recommendations from this document.\nExplain the reasoning and possible impacts on [AREA] for each.\n\n[AREA] = \"Finance\"\n\n\n\n\nSave the result as a Note\nReview the result"
-  },
-  {
-    "objectID": "exercises.html#email-action-items",
-    "href": "exercises.html#email-action-items",
-    "title": "Exercises",
-    "section": "Email Action Items",
-    "text": "Email Action Items\nGoal: Transform your email history into action items.\nWhat you need:\n\nA complex email thread with multiple participants and topics\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nCopy your email thread (print as PDF) and add it to the sources\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nSummarize this email thread as:\n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\n\n\nSave the response as a Note for later reference\nReview the results: Is this summary helpful?"
-  },
-  {
-    "objectID": "exercises.html#custom-audio-overview",
-    "href": "exercises.html#custom-audio-overview",
-    "title": "Exercises",
-    "section": "Custom Audio Overview",
-    "text": "Custom Audio Overview\nGoal: Create your first custom audio overview.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload some documents of your choice\nNavigate to the “Audio Overview” section in the Studio Panel\nSelect Customize under “Deep Dive Conversation”\nEnter this custom prompt (max. 500 characters):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate an audio overview with the following content:\n- Key insights from this document that I need to know\n- Important decisions or required actions\n- Critical information for my next meeting\n- Key findings I can share with colleagues\nMake it conversational, as if a colleague were informing me over coffee.\nFocus on what is actionable and immediately useful.\n\n\n\n\nSelect Length (use Standard), create the audio overview and listen to the first two minutes."
-  },
-  {
-    "objectID": "exercises.html#extracting-insights-from-videos",
-    "href": "exercises.html#extracting-insights-from-videos",
-    "title": "Exercises",
-    "section": "Extracting Insights from Videos",
-    "text": "Extracting Insights from Videos\nWe want to gain insights from a video about how to use the Kärcher window vacuum to achieve streak-free windows:\n\nStart a new notebook (click on the black icon in the top left)\nClick + Create new to start a new notebook.\nTo add the video, click on YouTube and enter a link to a video. For example:\n\nhttps://www.youtube.com/watch?v=3gWb3LNfX28\n\nUse the Mind Map feature to get an overview of the structure and main points of the video.\nUse prompts to extract useful information, e.g.:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nProvide a step-by-step guide for using the Kärcher window vacuum for streak-free window cleaning, from assembly to maintenance."
-  },
-  {
     "objectID": "use-cases-domains.html",
     "href": "use-cases-domains.html",
     "title": "Departments",
@@ -861,39 +714,109 @@
     "text": "NotebookLM can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nUser Manual Creation\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nRegulatory Documentation\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
   },
   {
-    "objectID": "notebooklm-audio-overview.html#choose-output-language",
-    "href": "notebooklm-audio-overview.html#choose-output-language",
+    "objectID": "notebooklm-timeline.html#create-timeline",
+    "href": "notebooklm-timeline.html#create-timeline",
     "title": "NotebookLM",
-    "section": "Choose Output Language",
-    "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings 2 Select the Output Language\n\nYou can create audio overviews in over 50 languages"
+    "section": "Create Timeline",
+    "text": "Create Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline\n\nTimeline and character directory based on the provided sources."
   },
   {
-    "objectID": "notebooklm-audio-overview.html#create-an-audio-overview",
-    "href": "notebooklm-audio-overview.html#create-an-audio-overview",
+    "objectID": "notebooklm-timeline.html#open-timeline",
+    "href": "notebooklm-timeline.html#open-timeline",
     "title": "NotebookLM",
-    "section": "Create an Audio Overview",
-    "text": "Create an Audio Overview\n\n\n\n\n\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Generate"
+    "section": "Open Timeline",
+    "text": "Open Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the timeline"
   },
   {
-    "objectID": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
-    "href": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
+    "objectID": "notebooklm-notes.html#create-add-notes",
+    "href": "notebooklm-notes.html#create-add-notes",
     "title": "NotebookLM",
-    "section": "Interact with an Audio Overview",
-    "text": "Interact with an Audio Overview\n\n\n\n\n\nSelect Interactive Mode (BETA)\nSelect Play Audio\nWhile listening, select Join and ask a question"
+    "section": "Create & Add Notes",
+    "text": "Create & Add Notes\n\n\n\n\n\nStudio area:\nSelect Add Note in the Notes section\nYou can write or paste text into this note\n\nYou can create up to 1,000 notes per notebook"
   },
   {
-    "objectID": "notebooklm-audio-overview.html#manage-your-audio-overview",
-    "href": "notebooklm-audio-overview.html#manage-your-audio-overview",
+    "objectID": "notebooklm-notes.html#convert-notes-to-sources",
+    "href": "notebooklm-notes.html#convert-notes-to-sources",
     "title": "NotebookLM",
-    "section": "Manage Your Audio Overview",
-    "text": "Manage Your Audio Overview\n\n\n\n\n\nChange speed, download your audio, or delete it\nSelect “More” to:\n1 Change the playback speed\n2 Download the audio as mp3\n3 Delete the audio overview"
+    "section": "Convert Notes to Sources",
+    "text": "Convert Notes to Sources\n\n\n\n\n\nStudio area:\nOpen the note\nSelect Convert to Source\n\n\nTo convert all notes to sources: Click on More in the Notes section in the Studio area.\nSelect Convert All Notes to Sources\n\n\n\nYou can add your notes to your sources"
   },
   {
-    "objectID": "notebooklm-audio-overview.html#customized-audio-overviews",
-    "href": "notebooklm-audio-overview.html#customized-audio-overviews",
+    "objectID": "notebooklm-video.html#youtube-video-window-cleaner",
+    "href": "notebooklm-video.html#youtube-video-window-cleaner",
     "title": "NotebookLM",
-    "section": "Customized Audio Overviews",
-    "text": "Customized Audio Overviews\n\n\n\n\nIf you have already created an audio overview, you must delete it first\n1 Navigate to the “Audio Overview” section in the Studio area\n2 Under “Deep Dive Conversation” select Customize\nEnter a custom prompt (max. 500 characters)\n\nExample prompt (adapt the placeholders)\nCreate an audio overview for [TARGET AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nAddress key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
+    "section": "Youtube Video: Window Cleaner",
+    "text": "Youtube Video: Window Cleaner\n\n\nSource: YouTube"
+  },
+  {
+    "objectID": "notebooklm-video.html#create-a-new-notebook",
+    "href": "notebooklm-video.html#create-a-new-notebook",
+    "title": "NotebookLM",
+    "section": "Create a New Notebook",
+    "text": "Create a New Notebook\n\n\n\n\n\n🔗 Open NotebookLM\nTo create a new notebook, select:\n+ Create new"
+  },
+  {
+    "objectID": "notebooklm-video.html#add-your-youtube-video",
+    "href": "notebooklm-video.html#add-your-youtube-video",
+    "title": "NotebookLM",
+    "section": "Add Your YouTube Video",
+    "text": "Add Your YouTube Video\n\n\n\n\n\nTo add a video:\n3 Click on YouTube\nEnter a link to a video.\n\nExample Kärcher video:\n[https://www.youtube.com/watch?v=3gWb3LNfX28]"
+  },
+  {
+    "objectID": "exercises.html",
+    "href": "exercises.html",
+    "title": "Exercises",
+    "section": "",
+    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
+  },
+  {
+    "objectID": "exercises.html#meeting-preparation",
+    "href": "exercises.html#meeting-preparation",
+    "title": "Exercises",
+    "section": "",
+    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
+  },
+  {
+    "objectID": "exercises.html#meeting-preparation-2",
+    "href": "exercises.html#meeting-preparation-2",
+    "title": "Exercises",
+    "section": "Meeting Preparation 2",
+    "text": "Meeting Preparation 2\n\nUse the same notebook\nClick Refresh in the Chat Panel\nAsk this question in the chat (replace the placeholder entry “Finance” with your area):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nPlease extract the five central decisions or recommendations from this document.\nExplain the reasoning and possible impacts on [AREA] for each.\n\n[AREA] = \"Finance\"\n\n\n\n\nSave the result as a Note\nReview the result"
+  },
+  {
+    "objectID": "exercises.html#email-action-items",
+    "href": "exercises.html#email-action-items",
+    "title": "Exercises",
+    "section": "Email Action Items",
+    "text": "Email Action Items\nGoal: Transform your email history into action items.\nWhat you need:\n\nA complex email thread with multiple participants and topics\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nCopy your email thread (print as PDF) and add it to the sources\nUse this prompt in the chat:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nSummarize this email thread as:\n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\n\n\nSave the response as a Note for later reference\nReview the results: Is this summary helpful?"
+  },
+  {
+    "objectID": "exercises.html#custom-audio-overview",
+    "href": "exercises.html#custom-audio-overview",
+    "title": "Exercises",
+    "section": "Custom Audio Overview",
+    "text": "Custom Audio Overview\nGoal: Create your first custom audio overview.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload some documents of your choice\nNavigate to the “Audio Overview” section in the Studio Panel\nSelect Customize under “Deep Dive Conversation”\nEnter this custom prompt (max. 500 characters):\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nCreate an audio overview with the following content:\n- Key insights from this document that I need to know\n- Important decisions or required actions\n- Critical information for my next meeting\n- Key findings I can share with colleagues\nMake it conversational, as if a colleague were informing me over coffee.\nFocus on what is actionable and immediately useful.\n\n\n\n\nSelect Length (use Standard), create the audio overview and listen to the first two minutes."
+  },
+  {
+    "objectID": "exercises.html#extracting-insights-from-videos",
+    "href": "exercises.html#extracting-insights-from-videos",
+    "title": "Exercises",
+    "section": "Extracting Insights from Videos",
+    "text": "Extracting Insights from Videos\nWe want to gain insights from a video about how to use the Kärcher window vacuum to achieve streak-free windows:\n\nStart a new notebook (click on the black icon in the top left)\nClick + Create new to start a new notebook.\nTo add the video, click on YouTube and enter a link to a video. For example:\n\nhttps://www.youtube.com/watch?v=3gWb3LNfX28\n\nUse the Mind Map feature to get an overview of the structure and main points of the video.\nUse prompts to extract useful information, e.g.:\n\n\n\n\n\n\n\nPrompt\n\n\n\n\n\nProvide a step-by-step guide for using the Kärcher window vacuum for streak-free window cleaning, from assembly to maintenance."
+  },
+  {
+    "objectID": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
+    "href": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
+    "title": "NotebookLM",
+    "section": "Create an Overview of Key Topics",
+    "text": "Create an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing Doc."
+  },
+  {
+    "objectID": "notebooklm-briefing-document.html#open-briefing-document",
+    "href": "notebooklm-briefing-document.html#open-briefing-document",
+    "title": "NotebookLM",
+    "section": "Open Briefing Document",
+    "text": "Open Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the briefing document"
   },
   {
     "objectID": "notebooklm-study-guide.html#quiz-questions-and-glossary",
@@ -924,18 +847,25 @@
     "text": "Workshop Objectives\n\n\n\n⚡\n\n\nGetting Started with NotebookLM\nThe workshop demonstrates how to use helpful NotebookLM features, which saves valuable time in daily work.\n\n\n\n\n🎯\n\n\nReal-World Use Cases\nTypical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.\n\n\n\n\n🚀\n\n\nDepartment-Specific\nNotebookLM supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation."
   },
   {
-    "objectID": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
-    "href": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
+    "objectID": "notebooklm-discover-sources.html#discover-new-sources",
+    "href": "notebooklm-discover-sources.html#discover-new-sources",
     "title": "NotebookLM",
-    "section": "Create an Overview of Key Topics",
-    "text": "Create an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing Doc."
+    "section": "Discover New Sources",
+    "text": "Discover New Sources\n\n\n\n\n\nSources area:\nClick on Discover\nEnter any topic of interest (here we entered EU AI Act)"
   },
   {
-    "objectID": "notebooklm-briefing-document.html#open-briefing-document",
-    "href": "notebooklm-briefing-document.html#open-briefing-document",
+    "objectID": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
+    "href": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
     "title": "NotebookLM",
-    "section": "Open Briefing Document",
-    "text": "Open Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the briefing document"
+    "section": "Select and Add Discovered Sources",
+    "text": "Select and Add Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep"
+  },
+  {
+    "objectID": "notebooklm-discover-sources.html#use-new-sources",
+    "href": "notebooklm-discover-sources.html#use-new-sources",
+    "title": "NotebookLM",
+    "section": "Use New Sources",
+    "text": "Use New Sources\n\n\n\n\n\nSelect the sources you want to work with and create new content (like mindmaps, etc.)"
   },
   {
     "objectID": "use-cases.html",
@@ -980,10 +910,101 @@
     "text": "Challenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
   },
   {
+    "objectID": "notebooklm-video-overview.html#report",
+    "href": "notebooklm-video-overview.html#report",
+    "title": "NotebookLM",
+    "section": "Report",
+    "text": "Report\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
+  },
+  {
+    "objectID": "notebooklm-video-overview.html#check-the-report-options",
+    "href": "notebooklm-video-overview.html#check-the-report-options",
+    "title": "NotebookLM",
+    "section": "Check the Report Options",
+    "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
+  },
+  {
     "objectID": "agenda.html",
     "href": "agenda.html",
     "title": "Agenda",
     "section": "",
     "text": "Module\nSection\nContent\n\n\n\n\n1\nIntroduction\nNotebookLM and its features\n\n\n2\nExercises\nNotebookLM exercises\n\n\n3\nUse Cases\nGeneral use cases and department-specific examples\n\n\n4\nConclusion\nConcrete plan in Docs for sustainable integration\n\n\n\nShort survey\n\n\n\n\n\n\nFollow-up survey in 2 weeks: I look forward to feedback on experiences and success stories"
+  },
+  {
+    "objectID": "features.html",
+    "href": "features.html",
+    "title": "Features",
+    "section": "",
+    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nAudio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources\n\n\n\n\n\nYou can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents.\n\n\n\n\n\n\nAutomatically create different content types.\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from\n\n\n\n\n\n\nMemorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.\n\n\n\n\n\nTest your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nCreate, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nSlides"
+  },
+  {
+    "objectID": "features.html#getting-started",
+    "href": "features.html#getting-started",
+    "title": "Features",
+    "section": "",
+    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
+  },
+  {
+    "objectID": "features.html#chat",
+    "href": "features.html#chat",
+    "title": "Features",
+    "section": "",
+    "text": "Ask questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides"
+  },
+  {
+    "objectID": "features.html#mindmap",
+    "href": "features.html#mindmap",
+    "title": "Features",
+    "section": "",
+    "text": "Transform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides"
+  },
+  {
+    "objectID": "features.html#audio-overviews",
+    "href": "features.html#audio-overviews",
+    "title": "Features",
+    "section": "",
+    "text": "Audio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources"
+  },
+  {
+    "objectID": "features.html#video-overview",
+    "href": "features.html#video-overview",
+    "title": "Features",
+    "section": "",
+    "text": "You can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents."
+  },
+  {
+    "objectID": "features.html#report",
+    "href": "features.html#report",
+    "title": "Features",
+    "section": "",
+    "text": "Automatically create different content types.\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
+  },
+  {
+    "objectID": "features.html#flashcards",
+    "href": "features.html#flashcards",
+    "title": "Features",
+    "section": "",
+    "text": "Memorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material."
+  },
+  {
+    "objectID": "features.html#quiz",
+    "href": "features.html#quiz",
+    "title": "Features",
+    "section": "",
+    "text": "Test your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material."
+  },
+  {
+    "objectID": "features.html#discover-sources",
+    "href": "features.html#discover-sources",
+    "title": "Features",
+    "section": "",
+    "text": "Find and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides"
+  },
+  {
+    "objectID": "features.html#notes",
+    "href": "features.html#notes",
+    "title": "Features",
+    "section": "",
+    "text": "Create, organize, and manage your insights while building a comprehensive knowledge archive.\n\n\n\n\n\n\nSlides"
   }
 ]
