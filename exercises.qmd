@@ -101,7 +101,7 @@ Summarize this email thread as:
 2. Select **Create new**
 3. Upload some documents of your choice
 4. Navigate to the "Audio Overview" section in the **Studio Panel**
-5. Select **Customize** under "Deep Dive Conversation"
+5. Select **Customize** (pencil)
 6. Enter this custom prompt (max. 500 characters):
 
 ::: {.callout-important title="Prompt" collapse="true"}
