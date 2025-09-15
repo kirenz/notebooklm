@@ -77,9 +77,9 @@ You can think of these as a visual alternative to Audio Overviews: the AI host c
 
 ## Report
 
-Automatically create different content types.
+<!-- Automatically create different content types.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3kQD3briELY?si=eJmeEvI66N_D_i4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3kQD3briELY?si=eJmeEvI66N_D_i4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 Formats:
 
@@ -89,9 +89,16 @@ Formats:
 
 - **Study guide**: Short-answer quiz, suggested essay questions and glossary of key terms
 
+- **FAQ**: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.
+
+
+- **Timeline**: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people
+
+
+<!-- 
 - **Blog post**: Insightful takeaways distilled into a highly readable article
 
-- **Suggested formats**: More options to choose from
+- **Suggested formats**: More options to choose from -->
 
 
 <!-- ::: {.callout-note}
@@ -102,7 +109,7 @@ Formats:
 
 ---
 
-
+<!-- 
 
 ## Flashcards
 
@@ -112,11 +119,11 @@ Memorize key terms, important dates and core concepts from your sources.
 
 Flashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.
 
-<!-- ::: {.callout-note}
+ ::: {.callout-note}
 
 [Slides](https://kirenz.github.io/notebooklm/notebooklm-flashcards#/title-slide) 
 
-::: -->
+::: 
 
 ---
 
@@ -130,7 +137,7 @@ Test your comprehension and challenge yourself with custom questions based on yo
 You can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.
 
 Just click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.
-
+ -->
 
 <!-- ::: {.callout-note}
 
