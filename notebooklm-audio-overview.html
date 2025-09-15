@@ -7,8 +7,8 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-8dcd8563ea6803ab7cbb3d71ca5772e1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.34">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-4a17e18fdf56099d4f6da1e105f33a53.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.24">
 
   <meta name="author" content="Jan Kirenz">
   <title>NotebookLM</title>
@@ -96,7 +96,7 @@
     code span.vs { color: #9ecbff; } /* VerbatimString */
     code span.wa { color: #ff5555; } /* Warning */
   </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-390f2c9f577b4904eec54942c15aa5c9.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-7463a033ca9896d39868b110ae72daf0.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -315,7 +315,7 @@ of the topics in your uploaded sources</p>
 </div><div class="column" style="width:40%;">
 <div class="tiny-text">
 <p>Example prompt (adapt the placeholders)</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode md code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a aria-hidden="true" tabindex="-1"></a>Create an audio overview for <span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> </span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode md code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a aria-hidden="true" tabindex="-1"></a>Create an audio overview for <span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> </span>
 <span id="cb1-2"><a aria-hidden="true" tabindex="-1"></a>with a <span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> tone. </span>
 <span id="cb1-3"><a aria-hidden="true" tabindex="-1"></a>Focus on <span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> and aim for <span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span>. </span>
 <span id="cb1-4"><a aria-hidden="true" tabindex="-1"></a>Address key insights with concrete examples.</span>
@@ -325,7 +325,7 @@ of the topics in your uploaded sources</p>
 <span id="cb1-8"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TARGET AUDIENCE</span><span class="co">]</span> = Kärcher management</span>
 <span id="cb1-9"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">TONE</span><span class="co">]</span> = professional</span>
 <span id="cb1-10"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">FOCUS</span><span class="co">]</span> = practical insights  </span>
-<span id="cb1-11"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span> = 8-10 min.</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-11"><a aria-hidden="true" tabindex="-1"></a><span class="co">[</span><span class="ot">DURATION</span><span class="co">]</span> = 8-10 min.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div></div>
 </section>
@@ -553,7 +553,7 @@ of the topics in your uploaded sources</p>
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -627,13 +627,14 @@ of the topics in your uploaded sources</p>
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
