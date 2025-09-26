@@ -59,9 +59,9 @@ Learning Facilitator, AI Consultant & Trainer
 ::: {style="position: relative; height: 400px;"}
 ![](images/hdm.jpg){.fragment .fade-in style="position: absolute; width: 70%; top: 0px; left: 0px; z-index: 1;"}
 
-![](images/man.jpg){.fragment .fade-in style="position: absolute; width: 70%; top: 80px; left: 100px; z-index: 2;"}
+<!-- ![](images/man.jpg){.fragment .fade-in style="position: absolute; width: 70%; top: 80px; left: 100px; z-index: 2;"}
 
-![](images/serviceplan.jpg){.fragment .fade-in style="position: absolute; width: 70%; top: 160px; left: 200px; z-index: 3;"}
+![](images/serviceplan.jpg){.fragment .fade-in style="position: absolute; width: 70%; top: 160px; left: 200px; z-index: 3;"} -->
 
 ::: 
 

@@ -1,0 +1,187 @@
+# Features
+
+
+## Getting Started
+
+Master the fundamentals of NotebookLM and see how it transforms your daily workflow.
+
+::: {.callout-note}
+
+[Introduction to NotebookLM](https://kirenz.github.io/notebooklm/notebooklm-intro#/title-slide) 
+
+:::
+
+---
+
+
+## Chat 
+
+Ask questions about your documents in natural language and receive instant, precise, source-backed answers.
+
+::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-chat#/title-slide) 
+
+:::
+
+---
+
+## Mindmap
+
+Transform complex documents into visual mindmaps that show key topics and connections at a glance.
+
+::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-mind-map#/title-slide) 
+
+:::
+
+---
+
+## Audio Overviews
+
+Audio Overviews help you understand your material on the go.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KLEBmbDGYE8?si=N3910k6QuS3UWAQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Format options:
+
+**Deep dive**: A lively conversation between two hosts, unpacking and connecting topics in your sources
+
+**Brief**: A bite-sized overview to help you grasp the core ideas from your sources quickly
+
+**Critique**: An expert review of your sources, offering constructive feedback to help you improve your material
+
+**Debate**: A thoughtful debate between two hosts, illuminating different perspectives on your sources
+
+
+<!-- ::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-audio-overview#/title-slide) 
+
+::: -->
+
+---
+
+
+## Video-Overview
+
+You can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KA_pExdDSUo?si=Gl0bwSSiX0C4I-7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+---
+
+## Report
+
+<!-- Automatically create different content types.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3kQD3briELY?si=eJmeEvI66N_D_i4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+Formats:
+
+- **Create your own**: Craft reports your way by specifying structure, style, tone and more
+
+- **Briefing doc**: Overview of your sources featuring key insights and quotes
+
+- **Study guide**: Short-answer quiz, suggested essay questions and glossary of key terms
+
+- **FAQ**: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.
+
+
+- **Timeline**: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people
+
+
+<!-- 
+- **Blog post**: Insightful takeaways distilled into a highly readable article
+
+- **Suggested formats**: More options to choose from -->
+
+
+<!-- ::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-report#/title-slide) 
+
+::: -->
+
+---
+
+<!-- 
+
+## Flashcards
+
+Memorize key terms, important dates and core concepts from your sources.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EZ6MM_orQTw?si=TQAbBqfyb1rPBnp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Flashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.
+
+ ::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-flashcards#/title-slide) 
+
+::: 
+
+---
+
+
+## Quiz
+
+Test your comprehension and challenge yourself with custom questions based on your material.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WTHf5apaCzI?si=99GWIltUyjvuJVxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+You can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.
+
+Just click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.
+ -->
+
+<!-- ::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-report#/title-slide) 
+
+::: -->
+
+---
+
+## Discover Sources
+
+Find and import relevant web sources directly into your notebook to expand your knowledge base.
+
+
+{{< video images/notebooklm/F405_NLM_StudentBlogAssets_DiscoverSources.mp4 >}}
+
+
+::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-discover-sources#/title-slide) 
+
+:::
+
+---
+<!-- 
+## Notes 
+
+Create, organize, and manage your insights while building a comprehensive knowledge archive.
+
+::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-notes#/title-slide) 
+
+:::
+
+--- -->
+<!-- 
+## Videos
+
+Upload YouTube videos, training materials, and multimedia content to extract transcripts and insights.
+
+::: {.callout-note}
+
+[Slides](https://kirenz.github.io/notebooklm/notebooklm-video#/title-slide) 
+
+::: -->
+

@@ -109,7 +109,7 @@ Formats:
 
 ---
 
-<!-- 
+
 
 ## Flashcards
 
@@ -137,7 +137,7 @@ Test your comprehension and challenge yourself with custom questions based on yo
 You can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.
 
 Just click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.
- -->
+ 
 
 <!-- ::: {.callout-note}
 
