@@ -2,35 +2,35 @@
   {
     "objectID": "notebooklm-timeline.html#create-timeline",
     "href": "notebooklm-timeline.html#create-timeline",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create Timeline",
     "text": "Create Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline\n\nTimeline and character directory based on the provided sources."
   },
   {
     "objectID": "notebooklm-timeline.html#open-timeline",
     "href": "notebooklm-timeline.html#open-timeline",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Open Timeline",
     "text": "Open Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the timeline"
   },
   {
     "objectID": "notebooklm-discover-sources.html#discover-new-sources",
     "href": "notebooklm-discover-sources.html#discover-new-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Discover New Sources",
     "text": "Discover New Sources\n\n\n\n\n\nSources area:\nClick on Discover\nEnter any topic of interest (here we entered EU AI Act)"
   },
   {
     "objectID": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
     "href": "notebooklm-discover-sources.html#select-and-add-discovered-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Select and Add Discovered Sources",
     "text": "Select and Add Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep"
   },
   {
     "objectID": "notebooklm-discover-sources.html#use-new-sources",
     "href": "notebooklm-discover-sources.html#use-new-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Use New Sources",
     "text": "Use New Sources\n\n\n\n\n\nSelect the sources you want to work with and create new content (like mindmaps, etc.)"
   },
@@ -39,96 +39,96 @@
     "href": "use-cases-domains.html",
     "title": "Departments",
     "section": "",
-    "text": "Below you will find use case examples for different departments.\nRegardless of your specific area, the general process remains the same:\n\nIdentify documents relevant to your department\nCreate a new notebook in NotebookLM\nUpload the selected materials\nFormulate prompts tailored to your team’s needs\nPractice with real scenarios from your daily work\n\n\n\nNotebookLM can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you’ll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.\n\n\n\n\n\n\nTipBrand Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze your brand’s language and tone of voice\nCompare your positioning with that of competitors\nExtract key statements or value propositions from a page\n\nSuggested Document:\n\nKärcher About Us Page\n\nExample Prompts:\nWhat emotions or messages are emphasized on this page?\nHow is the brand positioned in terms of innovation and user-friendliness?\n\n\n\n\n\n\n\n\n\nTipCampaign Management\n\n\n\n\n\nUse NotebookLM to:\n\nSummarize industry reports and identify campaign-relevant trends\nGenerate messaging ideas based on audience insights\nStructure creative briefings based on strategic guidelines\n\nSuggested Approach:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the top marketing trends mentioned in the report?\nWhich KPIs will become more important in 2025?\n\n\n\n\n\n\nNotebookLM can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore NotebookLM for real sales tasks.\n\n\n\n\n\n\nTipDirect Sales\n\n\n\n\n\nUse NotebookLM to:\n\nExtract key selling points from product brochures or websites\nPrepare objection-handling arguments\nPractice role-play dialogues based on FAQs or support cases\n\nSuggested Documents:\n\nYellow Files\nKärcher T-RANGE Product Page\nInternal sales cheat sheets (if available)\n\nExample Prompts:\nList five customer pain points that this product solves.\nWhat are the strongest arguments for professional buyers?\n\n\n\n\n\n\n\n\n\nTipKey Account Management\n\n\n\n\n\nUse NotebookLM to:\n\nSummarize long strategy reports to tailor presentations\nUnderstand trends in the customer’s industry\nPrepare decision-oriented management summaries\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhich trends are most relevant for industrial customers in 2024?\nSummarize the barriers to B2B purchasing decisions mentioned in the article.\n\n\n\n\n\n\nNotebookLM can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.\n\n\n\n\n\n\nTipMarket Research & Innovation\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze competitor product specifications and features\nExtract customer needs from market research reports\nIdentify technology trends affecting cleaning equipment\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the emerging customer requirements for professional cleaning equipment?\nWhich technological innovations are driving market growth?\n\n\n\n\n\n\n\n\n\nTipTechnical Specifications\n\n\n\n\n\nUse NotebookLM to:\n\nCompare technical standards across different markets\nExtract compliance requirements from regulatory documents\nAnalyze patent documents for innovation opportunities\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the key safety requirements for industrial cleaning equipment in the EU?\nWhich technical specifications differ between the EU and US markets?\n\n\n\n\n\n\nNotebookLM can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.\n\n\n\n\n\n\nTipTechnical Support\n\n\n\n\n\nUse NotebookLM to:\n\nCreate troubleshooting guides from technical manuals\nGenerate customer-friendly explanations for complex procedures\nDevelop FAQ responses based on service documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nCustomer service case logs (internal)\n\nExample Prompts:\nCreate a step-by-step troubleshooting guide for the most common issues.\nGenerate customer-friendly explanations for technical error codes.\n\n\n\n\n\n\n\n\n\nTipCustomer Training\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical manuals into engaging training content\nCreate role-specific user guides\nDevelop safety training materials\n\nSuggested Documents:\n\nProduct operating manuals\nSafety data sheets\nIndustry best practice guides\n\nExample Prompts:\nCreate a 10-minute training script for new equipment operators.\nWhat are the 5 most important safety aspects customers should know?\n\n\n\n\n\n\nNotebookLM can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.\n\n\n\n\n\n\nTipProcess Optimization\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze production efficiency reports\nExtract best practices from operational manuals\nCompare manufacturing standards across different locations\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key performance indicators (KPIs) mentioned for manufacturing efficiency?\nWhich lean principles could be most relevant for our production line?\n\n\n\n\n\n\n\n\n\nTipSupply Chain Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze supplier performance reports\nExtract risk factors from supply chain studies\nSummarize logistics optimization strategies\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the main supply chain risks identified in the report?\nWhich strategies could improve our supplier relationship management?\n\n\n\n\n\n\nNotebookLM can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.\n\n\n\n\n\n\nTipCompliance Management\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCompare quality protocols across different markets\nGenerate compliance checklists from complex documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key environmental compliance requirements for our product category?\nCreate a compliance checklist for CE marking.\n\n\n\n\n\n\n\n\n\nTipTesting & Validation\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze test protocols and procedures\nExtract quality metrics from industry benchmarks\nCreate test documentation templates\n\nSuggested Documents:\n\nIndustry test standards (ASTM, DIN)\nQuality assurance best practice guides\nProduct certification requirements\n\nExample Prompts:\nWhich test procedures are required for certification of industrial cleaning equipment?\nWhich quality metrics should we prioritize for our product line?\n\n\n\n\n\n\nNotebookLM can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.\n\n\n\n\n\n\nTipTalent Acquisition\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze job market trends and salary benchmarks\nExtract skill requirements from industry reports\nCreate role descriptions based on competency analysis\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\nLinkedIn Global Talent Trends Report\nDeloitte Human Capital Trends\n\nExample Prompts:\nWhat are the most in-demand skills for engineering positions in 2024?\nWhich benefits and compensation trends should we consider?\n\n\n\n\n\n\n\n\n\nTipLearning & Development\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical content into training programs\nCreate competency frameworks from industry standards\nDevelop onboarding materials from company documentation\n\nSuggested Documents:\n\nProfessional development frameworks\nIndustry certification requirements\nLeadership development guides\n\nExample Prompts:\nCreate a 3-month onboarding plan for technical roles.\nWhich core competencies should our leaders develop?\n\n\n\n\n\n\nNotebookLM can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.\n\n\n\n\n\n\nTipFinancial Analysis\n\n\n\n\n\nUse NotebookLM to:\n\nExtract key financial metrics from industry reports\nAnalyze market trends affecting profitability\nCompare financial performance benchmarks\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key profitability drivers in the cleaning equipment industry?\nWhich financial metrics should we track for competitive analysis?\n\n\n\n\n\n\n\n\n\nTipRisk Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze regulatory compliance requirements\nExtract risk factors from market analysis\nSummarize insurance and liability aspects\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nRegulatory compliance documentation\nInsurance industry reports\n\nExample Prompts:\nWhat are the key financial risks identified for manufacturing companies?\nWhich compliance requirements could impact our financial planning?\n\n\n\n\n\n\nNotebookLM can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nTipUser Manual Creation\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nTipRegulatory Documentation\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
+    "text": "Below you will find use case examples for different departments.\nRegardless of your specific area, the general process remains the same:\n\nIdentify documents relevant to your department\nCreate a new notebook in Gemini Notebook\nUpload the selected materials\nFormulate prompts tailored to your team’s needs\nPractice with real scenarios from your daily work\n\n\n\nGemini Notebook can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you’ll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.\n\n\n\n\n\n\nTipBrand Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze your brand’s language and tone of voice\nCompare your positioning with that of competitors\nExtract key statements or value propositions from a page\n\nSuggested Document:\n\nKärcher About Us Page\n\nExample Prompts:\nWhat emotions or messages are emphasized on this page?\nHow is the brand positioned in terms of innovation and user-friendliness?\n\n\n\n\n\n\n\n\n\nTipCampaign Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nSummarize industry reports and identify campaign-relevant trends\nGenerate messaging ideas based on audience insights\nStructure creative briefings based on strategic guidelines\n\nSuggested Approach:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the top marketing trends mentioned in the report?\nWhich KPIs will become more important in 2025?\n\n\n\n\n\n\nGemini Notebook can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore Gemini Notebook for real sales tasks.\n\n\n\n\n\n\nTipDirect Sales\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract key selling points from product brochures or websites\nPrepare objection-handling arguments\nPractice role-play dialogues based on FAQs or support cases\n\nSuggested Documents:\n\nYellow Files\nKärcher T-RANGE Product Page\nInternal sales cheat sheets (if available)\n\nExample Prompts:\nList five customer pain points that this product solves.\nWhat are the strongest arguments for professional buyers?\n\n\n\n\n\n\n\n\n\nTipKey Account Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nSummarize long strategy reports to tailor presentations\nUnderstand trends in the customer’s industry\nPrepare decision-oriented management summaries\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhich trends are most relevant for industrial customers in 2024?\nSummarize the barriers to B2B purchasing decisions mentioned in the article.\n\n\n\n\n\n\nGemini Notebook can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.\n\n\n\n\n\n\nTipMarket Research & Innovation\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze competitor product specifications and features\nExtract customer needs from market research reports\nIdentify technology trends affecting cleaning equipment\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the emerging customer requirements for professional cleaning equipment?\nWhich technological innovations are driving market growth?\n\n\n\n\n\n\n\n\n\nTipTechnical Specifications\n\n\n\n\n\nUse Gemini Notebook to:\n\nCompare technical standards across different markets\nExtract compliance requirements from regulatory documents\nAnalyze patent documents for innovation opportunities\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the key safety requirements for industrial cleaning equipment in the EU?\nWhich technical specifications differ between the EU and US markets?\n\n\n\n\n\n\nGemini Notebook can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.\n\n\n\n\n\n\nTipTechnical Support\n\n\n\n\n\nUse Gemini Notebook to:\n\nCreate troubleshooting guides from technical manuals\nGenerate customer-friendly explanations for complex procedures\nDevelop FAQ responses based on service documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nCustomer service case logs (internal)\n\nExample Prompts:\nCreate a step-by-step troubleshooting guide for the most common issues.\nGenerate customer-friendly explanations for technical error codes.\n\n\n\n\n\n\n\n\n\nTipCustomer Training\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical manuals into engaging training content\nCreate role-specific user guides\nDevelop safety training materials\n\nSuggested Documents:\n\nProduct operating manuals\nSafety data sheets\nIndustry best practice guides\n\nExample Prompts:\nCreate a 10-minute training script for new equipment operators.\nWhat are the 5 most important safety aspects customers should know?\n\n\n\n\n\n\nGemini Notebook can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.\n\n\n\n\n\n\nTipProcess Optimization\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze production efficiency reports\nExtract best practices from operational manuals\nCompare manufacturing standards across different locations\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key performance indicators (KPIs) mentioned for manufacturing efficiency?\nWhich lean principles could be most relevant for our production line?\n\n\n\n\n\n\n\n\n\nTipSupply Chain Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze supplier performance reports\nExtract risk factors from supply chain studies\nSummarize logistics optimization strategies\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the main supply chain risks identified in the report?\nWhich strategies could improve our supplier relationship management?\n\n\n\n\n\n\nGemini Notebook can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.\n\n\n\n\n\n\nTipCompliance Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract requirements from regulatory standards\nCompare quality protocols across different markets\nGenerate compliance checklists from complex documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key environmental compliance requirements for our product category?\nCreate a compliance checklist for CE marking.\n\n\n\n\n\n\n\n\n\nTipTesting & Validation\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze test protocols and procedures\nExtract quality metrics from industry benchmarks\nCreate test documentation templates\n\nSuggested Documents:\n\nIndustry test standards (ASTM, DIN)\nQuality assurance best practice guides\nProduct certification requirements\n\nExample Prompts:\nWhich test procedures are required for certification of industrial cleaning equipment?\nWhich quality metrics should we prioritize for our product line?\n\n\n\n\n\n\nGemini Notebook can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.\n\n\n\n\n\n\nTipTalent Acquisition\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze job market trends and salary benchmarks\nExtract skill requirements from industry reports\nCreate role descriptions based on competency analysis\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\nLinkedIn Global Talent Trends Report\nDeloitte Human Capital Trends\n\nExample Prompts:\nWhat are the most in-demand skills for engineering positions in 2024?\nWhich benefits and compensation trends should we consider?\n\n\n\n\n\n\n\n\n\nTipLearning & Development\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical content into training programs\nCreate competency frameworks from industry standards\nDevelop onboarding materials from company documentation\n\nSuggested Documents:\n\nProfessional development frameworks\nIndustry certification requirements\nLeadership development guides\n\nExample Prompts:\nCreate a 3-month onboarding plan for technical roles.\nWhich core competencies should our leaders develop?\n\n\n\n\n\n\nGemini Notebook can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.\n\n\n\n\n\n\nTipFinancial Analysis\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract key financial metrics from industry reports\nAnalyze market trends affecting profitability\nCompare financial performance benchmarks\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key profitability drivers in the cleaning equipment industry?\nWhich financial metrics should we track for competitive analysis?\n\n\n\n\n\n\n\n\n\nTipRisk Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze regulatory compliance requirements\nExtract risk factors from market analysis\nSummarize insurance and liability aspects\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nRegulatory compliance documentation\nInsurance industry reports\n\nExample Prompts:\nWhat are the key financial risks identified for manufacturing companies?\nWhich compliance requirements could impact our financial planning?\n\n\n\n\n\n\nGemini Notebook can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nTipUser Manual Creation\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nTipRegulatory Documentation\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
   },
   {
     "objectID": "use-cases-domains.html#marketing",
     "href": "use-cases-domains.html#marketing",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you’ll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.\n\n\n\n\n\n\nTipBrand Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze your brand’s language and tone of voice\nCompare your positioning with that of competitors\nExtract key statements or value propositions from a page\n\nSuggested Document:\n\nKärcher About Us Page\n\nExample Prompts:\nWhat emotions or messages are emphasized on this page?\nHow is the brand positioned in terms of innovation and user-friendliness?\n\n\n\n\n\n\n\n\n\nTipCampaign Management\n\n\n\n\n\nUse NotebookLM to:\n\nSummarize industry reports and identify campaign-relevant trends\nGenerate messaging ideas based on audience insights\nStructure creative briefings based on strategic guidelines\n\nSuggested Approach:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the top marketing trends mentioned in the report?\nWhich KPIs will become more important in 2025?"
+    "text": "Gemini Notebook can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you’ll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.\n\n\n\n\n\n\nTipBrand Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze your brand’s language and tone of voice\nCompare your positioning with that of competitors\nExtract key statements or value propositions from a page\n\nSuggested Document:\n\nKärcher About Us Page\n\nExample Prompts:\nWhat emotions or messages are emphasized on this page?\nHow is the brand positioned in terms of innovation and user-friendliness?\n\n\n\n\n\n\n\n\n\nTipCampaign Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nSummarize industry reports and identify campaign-relevant trends\nGenerate messaging ideas based on audience insights\nStructure creative briefings based on strategic guidelines\n\nSuggested Approach:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the top marketing trends mentioned in the report?\nWhich KPIs will become more important in 2025?"
   },
   {
     "objectID": "use-cases-domains.html#sales",
     "href": "use-cases-domains.html#sales",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore NotebookLM for real sales tasks.\n\n\n\n\n\n\nTipDirect Sales\n\n\n\n\n\nUse NotebookLM to:\n\nExtract key selling points from product brochures or websites\nPrepare objection-handling arguments\nPractice role-play dialogues based on FAQs or support cases\n\nSuggested Documents:\n\nYellow Files\nKärcher T-RANGE Product Page\nInternal sales cheat sheets (if available)\n\nExample Prompts:\nList five customer pain points that this product solves.\nWhat are the strongest arguments for professional buyers?\n\n\n\n\n\n\n\n\n\nTipKey Account Management\n\n\n\n\n\nUse NotebookLM to:\n\nSummarize long strategy reports to tailor presentations\nUnderstand trends in the customer’s industry\nPrepare decision-oriented management summaries\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhich trends are most relevant for industrial customers in 2024?\nSummarize the barriers to B2B purchasing decisions mentioned in the article."
+    "text": "Gemini Notebook can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore Gemini Notebook for real sales tasks.\n\n\n\n\n\n\nTipDirect Sales\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract key selling points from product brochures or websites\nPrepare objection-handling arguments\nPractice role-play dialogues based on FAQs or support cases\n\nSuggested Documents:\n\nYellow Files\nKärcher T-RANGE Product Page\nInternal sales cheat sheets (if available)\n\nExample Prompts:\nList five customer pain points that this product solves.\nWhat are the strongest arguments for professional buyers?\n\n\n\n\n\n\n\n\n\nTipKey Account Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nSummarize long strategy reports to tailor presentations\nUnderstand trends in the customer’s industry\nPrepare decision-oriented management summaries\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhich trends are most relevant for industrial customers in 2024?\nSummarize the barriers to B2B purchasing decisions mentioned in the article."
   },
   {
     "objectID": "use-cases-domains.html#product-development",
     "href": "use-cases-domains.html#product-development",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.\n\n\n\n\n\n\nTipMarket Research & Innovation\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze competitor product specifications and features\nExtract customer needs from market research reports\nIdentify technology trends affecting cleaning equipment\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the emerging customer requirements for professional cleaning equipment?\nWhich technological innovations are driving market growth?\n\n\n\n\n\n\n\n\n\nTipTechnical Specifications\n\n\n\n\n\nUse NotebookLM to:\n\nCompare technical standards across different markets\nExtract compliance requirements from regulatory documents\nAnalyze patent documents for innovation opportunities\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nExample Prompts:\nWhat are the key safety requirements for industrial cleaning equipment in the EU?\nWhich technical specifications differ between the EU and US markets?"
+    "text": "Gemini Notebook can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.\n\n\n\n\n\n\nTipMarket Research & Innovation\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze competitor product specifications and features\nExtract customer needs from market research reports\nIdentify technology trends affecting cleaning equipment\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the emerging customer requirements for professional cleaning equipment?\nWhich technological innovations are driving market growth?\n\n\n\n\n\n\n\n\n\nTipTechnical Specifications\n\n\n\n\n\nUse Gemini Notebook to:\n\nCompare technical standards across different markets\nExtract compliance requirements from regulatory documents\nAnalyze patent documents for innovation opportunities\n\nSuggested Documents:\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nExample Prompts:\nWhat are the key safety requirements for industrial cleaning equipment in the EU?\nWhich technical specifications differ between the EU and US markets?"
   },
   {
     "objectID": "use-cases-domains.html#customer-service",
     "href": "use-cases-domains.html#customer-service",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.\n\n\n\n\n\n\nTipTechnical Support\n\n\n\n\n\nUse NotebookLM to:\n\nCreate troubleshooting guides from technical manuals\nGenerate customer-friendly explanations for complex procedures\nDevelop FAQ responses based on service documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nCustomer service case logs (internal)\n\nExample Prompts:\nCreate a step-by-step troubleshooting guide for the most common issues.\nGenerate customer-friendly explanations for technical error codes.\n\n\n\n\n\n\n\n\n\nTipCustomer Training\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical manuals into engaging training content\nCreate role-specific user guides\nDevelop safety training materials\n\nSuggested Documents:\n\nProduct operating manuals\nSafety data sheets\nIndustry best practice guides\n\nExample Prompts:\nCreate a 10-minute training script for new equipment operators.\nWhat are the 5 most important safety aspects customers should know?"
+    "text": "Gemini Notebook can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.\n\n\n\n\n\n\nTipTechnical Support\n\n\n\n\n\nUse Gemini Notebook to:\n\nCreate troubleshooting guides from technical manuals\nGenerate customer-friendly explanations for complex procedures\nDevelop FAQ responses based on service documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nCustomer service case logs (internal)\n\nExample Prompts:\nCreate a step-by-step troubleshooting guide for the most common issues.\nGenerate customer-friendly explanations for technical error codes.\n\n\n\n\n\n\n\n\n\nTipCustomer Training\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical manuals into engaging training content\nCreate role-specific user guides\nDevelop safety training materials\n\nSuggested Documents:\n\nProduct operating manuals\nSafety data sheets\nIndustry best practice guides\n\nExample Prompts:\nCreate a 10-minute training script for new equipment operators.\nWhat are the 5 most important safety aspects customers should know?"
   },
   {
     "objectID": "use-cases-domains.html#operations-manufacturing",
     "href": "use-cases-domains.html#operations-manufacturing",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.\n\n\n\n\n\n\nTipProcess Optimization\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze production efficiency reports\nExtract best practices from operational manuals\nCompare manufacturing standards across different locations\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key performance indicators (KPIs) mentioned for manufacturing efficiency?\nWhich lean principles could be most relevant for our production line?\n\n\n\n\n\n\n\n\n\nTipSupply Chain Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze supplier performance reports\nExtract risk factors from supply chain studies\nSummarize logistics optimization strategies\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the main supply chain risks identified in the report?\nWhich strategies could improve our supplier relationship management?"
+    "text": "Gemini Notebook can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.\n\n\n\n\n\n\nTipProcess Optimization\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze production efficiency reports\nExtract best practices from operational manuals\nCompare manufacturing standards across different locations\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key performance indicators (KPIs) mentioned for manufacturing efficiency?\nWhich lean principles could be most relevant for our production line?\n\n\n\n\n\n\n\n\n\nTipSupply Chain Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze supplier performance reports\nExtract risk factors from supply chain studies\nSummarize logistics optimization strategies\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the main supply chain risks identified in the report?\nWhich strategies could improve our supplier relationship management?"
   },
   {
     "objectID": "use-cases-domains.html#quality-assurance",
     "href": "use-cases-domains.html#quality-assurance",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.\n\n\n\n\n\n\nTipCompliance Management\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCompare quality protocols across different markets\nGenerate compliance checklists from complex documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key environmental compliance requirements for our product category?\nCreate a compliance checklist for CE marking.\n\n\n\n\n\n\n\n\n\nTipTesting & Validation\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze test protocols and procedures\nExtract quality metrics from industry benchmarks\nCreate test documentation templates\n\nSuggested Documents:\n\nIndustry test standards (ASTM, DIN)\nQuality assurance best practice guides\nProduct certification requirements\n\nExample Prompts:\nWhich test procedures are required for certification of industrial cleaning equipment?\nWhich quality metrics should we prioritize for our product line?"
+    "text": "Gemini Notebook can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.\n\n\n\n\n\n\nTipCompliance Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract requirements from regulatory standards\nCompare quality protocols across different markets\nGenerate compliance checklists from complex documentation\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key environmental compliance requirements for our product category?\nCreate a compliance checklist for CE marking.\n\n\n\n\n\n\n\n\n\nTipTesting & Validation\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze test protocols and procedures\nExtract quality metrics from industry benchmarks\nCreate test documentation templates\n\nSuggested Documents:\n\nIndustry test standards (ASTM, DIN)\nQuality assurance best practice guides\nProduct certification requirements\n\nExample Prompts:\nWhich test procedures are required for certification of industrial cleaning equipment?\nWhich quality metrics should we prioritize for our product line?"
   },
   {
     "objectID": "use-cases-domains.html#human-resources",
     "href": "use-cases-domains.html#human-resources",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.\n\n\n\n\n\n\nTipTalent Acquisition\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze job market trends and salary benchmarks\nExtract skill requirements from industry reports\nCreate role descriptions based on competency analysis\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\nLinkedIn Global Talent Trends Report\nDeloitte Human Capital Trends\n\nExample Prompts:\nWhat are the most in-demand skills for engineering positions in 2024?\nWhich benefits and compensation trends should we consider?\n\n\n\n\n\n\n\n\n\nTipLearning & Development\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical content into training programs\nCreate competency frameworks from industry standards\nDevelop onboarding materials from company documentation\n\nSuggested Documents:\n\nProfessional development frameworks\nIndustry certification requirements\nLeadership development guides\n\nExample Prompts:\nCreate a 3-month onboarding plan for technical roles.\nWhich core competencies should our leaders develop?"
+    "text": "Gemini Notebook can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.\n\n\n\n\n\n\nTipTalent Acquisition\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze job market trends and salary benchmarks\nExtract skill requirements from industry reports\nCreate role descriptions based on competency analysis\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\nLinkedIn Global Talent Trends Report\nDeloitte Human Capital Trends\n\nExample Prompts:\nWhat are the most in-demand skills for engineering positions in 2024?\nWhich benefits and compensation trends should we consider?\n\n\n\n\n\n\n\n\n\nTipLearning & Development\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical content into training programs\nCreate competency frameworks from industry standards\nDevelop onboarding materials from company documentation\n\nSuggested Documents:\n\nProfessional development frameworks\nIndustry certification requirements\nLeadership development guides\n\nExample Prompts:\nCreate a 3-month onboarding plan for technical roles.\nWhich core competencies should our leaders develop?"
   },
   {
     "objectID": "use-cases-domains.html#finance",
     "href": "use-cases-domains.html#finance",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.\n\n\n\n\n\n\nTipFinancial Analysis\n\n\n\n\n\nUse NotebookLM to:\n\nExtract key financial metrics from industry reports\nAnalyze market trends affecting profitability\nCompare financial performance benchmarks\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nInternal documents\n\nExample Prompts:\nWhat are the key profitability drivers in the cleaning equipment industry?\nWhich financial metrics should we track for competitive analysis?\n\n\n\n\n\n\n\n\n\nTipRisk Management\n\n\n\n\n\nUse NotebookLM to:\n\nAnalyze regulatory compliance requirements\nExtract risk factors from market analysis\nSummarize insurance and liability aspects\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to NotebookLM.\nRegulatory compliance documentation\nInsurance industry reports\n\nExample Prompts:\nWhat are the key financial risks identified for manufacturing companies?\nWhich compliance requirements could impact our financial planning?"
+    "text": "Gemini Notebook can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.\n\n\n\n\n\n\nTipFinancial Analysis\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract key financial metrics from industry reports\nAnalyze market trends affecting profitability\nCompare financial performance benchmarks\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nInternal documents\n\nExample Prompts:\nWhat are the key profitability drivers in the cleaning equipment industry?\nWhich financial metrics should we track for competitive analysis?\n\n\n\n\n\n\n\n\n\nTipRisk Management\n\n\n\n\n\nUse Gemini Notebook to:\n\nAnalyze regulatory compliance requirements\nExtract risk factors from market analysis\nSummarize insurance and liability aspects\n\nSuggested Documents:\n\nUse Gemini Deep Research to create a report. Upload this report to Gemini Notebook.\nRegulatory compliance documentation\nInsurance industry reports\n\nExample Prompts:\nWhat are the key financial risks identified for manufacturing companies?\nWhich compliance requirements could impact our financial planning?"
   },
   {
     "objectID": "use-cases-domains.html#technical-documentation",
     "href": "use-cases-domains.html#technical-documentation",
     "title": "Departments",
     "section": "",
-    "text": "NotebookLM can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nTipUser Manual Creation\n\n\n\n\n\nUse NotebookLM to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nTipRegulatory Documentation\n\n\n\n\n\nUse NotebookLM to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
+    "text": "Gemini Notebook can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.\n\n\n\n\n\n\nTipUser Manual Creation\n\n\n\n\n\nUse Gemini Notebook to:\n\nTransform technical specifications into user-friendly guides\nCreate templates for multilingual documentation\nGenerate troubleshooting guides from technical data\n\nSuggested Documents:\n\nYellow Files\nTechnical specifications\nTechnical drawings and CAD documentation\nService manuals\n\nExample Prompts:\nTransform this technical specification into a step-by-step user guide.\nCreate a visual troubleshooting flowchart based on this documentation.\n\n\n\n\n\n\n\n\n\nTipRegulatory Documentation\n\n\n\n\n\nUse Gemini Notebook to:\n\nExtract requirements from regulatory standards\nCreate templates for compliance documentation\nGenerate materials for certification applications\n\nSuggested Documents:\n\nTechnical standards documentation\nRegulatory compliance frameworks\nCertification requirement guides\n\nExample Prompts:\nWhat documentation is required for product certification in this market?\nCreate a compliance checklist based on these regulatory requirements."
   },
   {
     "objectID": "notebooklm-report.html#report",
     "href": "notebooklm-report.html#report",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Report",
     "text": "Report\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
   },
   {
     "objectID": "notebooklm-report.html#check-the-report-options",
     "href": "notebooklm-report.html#check-the-report-options",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Check the Report Options",
     "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
   },
   {
     "objectID": "notebooklm-flashcards.html#flashcards-1",
     "href": "notebooklm-flashcards.html#flashcards-1",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Flashcards",
     "text": "Flashcards\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
   },
   {
     "objectID": "notebooklm-flashcards.html#check-the-report-options",
     "href": "notebooklm-flashcards.html#check-the-report-options",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Check the Report Options",
     "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
   },
@@ -137,14 +137,14 @@
     "href": "features.html",
     "title": "Features",
     "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nAudio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources\n\n\n\n\n\nYou can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents.\n\n\n\n\n\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nFAQ: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.\nTimeline: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people\n\n\n\n\n\n\n\nMemorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.\n::: {.callout-note}\nSlides\n:::\n\n\n\n\nTest your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides"
+    "text": "Master the fundamentals of Gemini Notebook and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to Gemini Notebook\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nAudio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources\n\n\n\n\n\nYou can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents.\n\n\n\n\n\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nFAQ: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.\nTimeline: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people\n\n\n\n\n\n\n\nMemorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and Gemini Notebook will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.\n::: {.callout-note}\nSlides\n:::\n\n\n\n\nTest your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and Gemini Notebook will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides"
   },
   {
     "objectID": "features.html#getting-started",
     "href": "features.html#getting-started",
     "title": "Features",
     "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
+    "text": "Master the fundamentals of Gemini Notebook and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to Gemini Notebook"
   },
   {
     "objectID": "features.html#chat",
@@ -186,14 +186,14 @@
     "href": "features.html#flashcards",
     "title": "Features",
     "section": "",
-    "text": "Memorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.\n::: {.callout-note}\nSlides\n:::"
+    "text": "Memorize key terms, important dates and core concepts from your sources.\n\n\nFlashcards give you the option to dig deeper; just click “explain” and Gemini Notebook will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.\n::: {.callout-note}\nSlides\n:::"
   },
   {
     "objectID": "features.html#quiz",
     "href": "features.html#quiz",
     "title": "Features",
     "section": "",
-    "text": "Test your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material."
+    "text": "Test your comprehension and challenge yourself with custom questions based on your material.\n\n\nYou can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.\nJust click “explain” and Gemini Notebook will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material."
   },
   {
     "objectID": "features.html#discover-sources",
@@ -205,581 +205,567 @@
   {
     "objectID": "notebooklm-slides.html#welcome-to-the-workshop",
     "href": "notebooklm-slides.html#welcome-to-the-workshop",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Welcome to the Workshop!",
     "text": "Welcome to the Workshop!"
   },
   {
     "objectID": "notebooklm-slides.html#about-me",
     "href": "notebooklm-slides.html#about-me",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "About Me",
     "text": "About Me\n\n\n\nJan Kirenz\n\nStuttgart Media University\nkirenz@hdm-stuttgart.de\nLearning Facilitator, AI Consultant & Trainer"
   },
   {
     "objectID": "notebooklm-slides.html#a-reality-check-to-start",
     "href": "notebooklm-slides.html#a-reality-check-to-start",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "A Reality Check to Start",
     "text": "A Reality Check to Start\n\n\n\n\n\nPlease answer questions in the brief anonymous Google Forms survey.\nThe link is in the chat."
   },
   {
     "objectID": "notebooklm-slides.html#information-overload",
     "href": "notebooklm-slides.html#information-overload",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Information Overload",
     "text": "Information Overload\n\n\n\n\n\nDoes this sound familiar?\n\nToo much information, too little time.\n\n\n\n\n\n\n\n\nThe Vision: Have a conversation with any document and get precise answers instantly."
   },
   {
     "objectID": "notebooklm-slides.html#ai-personal-assistant",
     "href": "notebooklm-slides.html#ai-personal-assistant",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "AI = Personal Assistant",
     "text": "AI = Personal Assistant\n\n\n\n\n\n\nUpload documents, ask questions, and get precise answers with sources instantly.\n\n\n\n\n\n\n\n\nThe biggest advantage: It exclusively uses the provided documents."
   },
   {
     "objectID": "notebooklm-slides.html#our-learning-journey",
     "href": "notebooklm-slides.html#our-learning-journey",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Our Learning Journey",
     "text": "Our Learning Journey\n\n\n\n\n \nAgenda\n1 Introduction\n2 Exercises - Quick Wins\n3 Use Cases\n4 Implementation Plan\n5 Conclusion"
   },
   {
     "objectID": "notebooklm-slides.html#the-personal-assistant",
     "href": "notebooklm-slides.html#the-personal-assistant",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "The Personal Assistant",
-    "text": "The Personal Assistant\n\n\n\n\n\nNotebookLM as (Junior) Assistant\nClear Instructions → Better Results"
+    "text": "The Personal Assistant\n\n\n\n\n\nGemini Notebook as (Junior) Assistant\nClear Instructions → Better Results"
   },
   {
-    "objectID": "notebooklm-slides.html#how-to-talk-to-notebooklm",
-    "href": "notebooklm-slides.html#how-to-talk-to-notebooklm",
-    "title": "NotebookLM Workshop",
-    "section": "How to “Talk” to NotebookLM?",
-    "text": "How to “Talk” to NotebookLM?\n\n\n\n\n\n\n%%{init: {\n  'theme': 'base',\n  'themeVariables': {\n    'primaryColor': '#ffffff',\n    'primaryTextColor': '#374151',\n    'primaryBorderColor': '#e5e7eb',\n    'lineColor': '#9CA3AF',\n    'secondaryColor': '#f9fafb',\n    'tertiaryColor': '#ffffff',\n    'fontFamily': 'system-ui',\n    'fontSize': '24px',\n    'nodeSpacing': 150,\n    'rankSpacing': 150\n  }\n}}%%\n\nflowchart LR\n    subgraph Input[\" \"]\n        direction TB\n        A[\"Prompt\"]\n        D[\"Sources\"]\n        style A fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n        style D fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n    end\n\n    subgraph Model[\" \"]\n        direction TB\n        B[\"NotebookLM\"]\n        style B fill:#ffffff,color:#374151,stroke:#e5e7eb,padding:30px\n    end\n\n    subgraph Output[\" \"]\n        direction TB\n        C[\"Output\"]\n        style C fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n    end\n\n    A --&gt; B\n    D --&gt; B\n    B --&gt; C\n\n    style Input fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n    style Model fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n    style Output fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n\n    linkStyle default stroke:#9CA3AF,stroke-width:2px\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElement\nDescription\n\n\n\n\nSources\nThe documents that have been added to the notebook\n\n\nPrompt\nThe question or instruction\n\n\nNotebookLM\nUses Google’s Gemini to understand and respond\n\n\nOutput\nText, mind map, or audio response"
+    "objectID": "notebooklm-slides.html#how-to-talk-to-gemini-notebook",
+    "href": "notebooklm-slides.html#how-to-talk-to-gemini-notebook",
+    "title": "Gemini Notebook Workshop",
+    "section": "How to “Talk” to Gemini Notebook?",
+    "text": "How to “Talk” to Gemini Notebook?\n\n\n\n\n\n\n%%{init: {\n  'theme': 'base',\n  'themeVariables': {\n    'primaryColor': '#ffffff',\n    'primaryTextColor': '#374151',\n    'primaryBorderColor': '#e5e7eb',\n    'lineColor': '#9CA3AF',\n    'secondaryColor': '#f9fafb',\n    'tertiaryColor': '#ffffff',\n    'fontFamily': 'system-ui',\n    'fontSize': '24px',\n    'nodeSpacing': 150,\n    'rankSpacing': 150\n  }\n}}%%\n\nflowchart LR\n    subgraph Input[\" \"]\n        direction TB\n        A[\"Prompt\"]\n        D[\"Sources\"]\n        style A fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n        style D fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n    end\n\n    subgraph Model[\" \"]\n        direction TB\n        B[\"Gemini Notebook\"]\n        style B fill:#ffffff,color:#374151,stroke:#e5e7eb,padding:30px\n    end\n\n    subgraph Output[\" \"]\n        direction TB\n        C[\"Output\"]\n        style C fill:#FFED00,color:#374151,stroke:#FFED00,padding:30px\n    end\n\n    A --&gt; B\n    D --&gt; B\n    B --&gt; C\n\n    style Input fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n    style Model fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n    style Output fill:#ffffff,stroke:#e5e7eb,color:#374151,stroke-width:1px,padding:50px\n\n    linkStyle default stroke:#9CA3AF,stroke-width:2px\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElement\nDescription\n\n\n\n\nSources\nThe documents that have been added to the notebook\n\n\nPrompt\nThe question or instruction\n\n\nGemini Notebook\nUses Google’s Gemini to understand and respond\n\n\nOutput\nText, mind map, or audio response"
   },
   {
-    "objectID": "notebooklm-slides.html#limitations-of-notebooklm",
-    "href": "notebooklm-slides.html#limitations-of-notebooklm",
-    "title": "NotebookLM Workshop",
-    "section": "Limitations of NotebookLM",
-    "text": "Limitations of NotebookLM\n\n\n\nFactual Errors: Can produce incorrect information\n\n\nHallucinations: Produces fabricated content (less common than other AI tools)"
+    "objectID": "notebooklm-slides.html#limitations-of-gemini-notebook",
+    "href": "notebooklm-slides.html#limitations-of-gemini-notebook",
+    "title": "Gemini Notebook Workshop",
+    "section": "Limitations of Gemini Notebook",
+    "text": "Limitations of Gemini Notebook\n\n\n\nFactual Errors: Can produce incorrect information\n\n\nHallucinations: Produces fabricated content (less common than other AI tools)"
   },
   {
     "objectID": "notebooklm-slides.html#prompting-basics",
     "href": "notebooklm-slides.html#prompting-basics",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Prompting Basics",
     "text": "Prompting Basics\n\n\nIn this presentation, prompts are displayed as follows:\nThis is an example prompt\n\nThe prompt can be copied using the icon in the top right."
   },
   {
     "objectID": "notebooklm-slides.html#notes-on-slide-structure",
     "href": "notebooklm-slides.html#notes-on-slide-structure",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Notes on Slide Structure",
     "text": "Notes on Slide Structure\nMost slides follow the structure shown here.\n\n\n\n\n\nHere you’ll find the instructions.\nThe steps shown serve as guidance.\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThis section provides additional context or tips."
   },
   {
-    "objectID": "notebooklm-slides.html#opening-notebooklm",
-    "href": "notebooklm-slides.html#opening-notebooklm",
-    "title": "NotebookLM Workshop",
-    "section": "Opening NotebookLM",
-    "text": "Opening NotebookLM\n\n\n\n\n\nOn your own device:\n🔗 Open NotebookLM\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nNotebookLM cannot delete or edit original files in Google Drive."
+    "objectID": "notebooklm-slides.html#opening-gemini-notebook",
+    "href": "notebooklm-slides.html#opening-gemini-notebook",
+    "title": "Gemini Notebook Workshop",
+    "section": "Opening Gemini Notebook",
+    "text": "Opening Gemini Notebook\n\n\n\n\n\nOn your own device:\n🔗 Open Gemini Notebook\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nGemini Notebook cannot delete or edit original files in Google Drive."
   },
   {
     "objectID": "notebooklm-slides.html#creating-a-new-notebook",
     "href": "notebooklm-slides.html#creating-a-new-notebook",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating a New Notebook",
     "text": "Creating a New Notebook\n\n\n\n\n\nTo create a new notebook, select:\n+ Create new"
   },
   {
     "objectID": "notebooklm-slides.html#adding-sources",
     "href": "notebooklm-slides.html#adding-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Adding Sources",
     "text": "Adding Sources\n\n\n\n\n\nSelect your own document (ideally PDF or Google Slides)\n\nThe EU AI Act (PDF) is used as an example here\n\nAdd the document.\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nUp to 300 sources can be added: (1) PDF, PPT, Excel, Audio, Images (2) Google Docs or Google Slides (3) Website or YouTube (4) Copied text (5) Web search"
   },
   {
     "objectID": "notebooklm-slides.html#three-main-areas",
     "href": "notebooklm-slides.html#three-main-areas",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Three Main Areas",
     "text": "Three Main Areas\n\n\n\n\n\n\n\n\n\nSources area: Upload and manage documents.\n\nChat area: Ask questions and get answers based on your own documents.\n\nStudio area: Generate and save outputs like summaries, study guides, and notes."
   },
   {
     "objectID": "notebooklm-slides.html#automatically-generated-summary",
     "href": "notebooklm-slides.html#automatically-generated-summary",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Automatically Generated Summary",
     "text": "Automatically Generated Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe summary is automatically generated."
   },
   {
     "objectID": "notebooklm-slides.html#save-as-note",
     "href": "notebooklm-slides.html#save-as-note",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Save as Note",
     "text": "Save as Note\n\n\n\n\n\n1 In the Chat area:\nSelect Save to note.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n2 The note appears in the “Notebook” within the Studio area."
   },
   {
     "objectID": "notebooklm-slides.html#opening-the-note",
     "href": "notebooklm-slides.html#opening-the-note",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Opening the Note",
     "text": "Opening the Note\n\n\n\n\n\nClick on the note in the Studio area to open it in a new window.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSaved response notes are not editable."
   },
   {
     "objectID": "notebooklm-slides.html#selecting-sources",
     "href": "notebooklm-slides.html#selecting-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Selecting Sources",
     "text": "Selecting Sources\n\n\n\n\n\nUse the checkbox for each source to include or exclude specific sources that the model should use to answer the question.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSources can be added or removed by selecting + Add or deselecting individual sources in the Sources area."
   },
   {
     "objectID": "notebooklm-slides.html#asking-the-model-questions",
     "href": "notebooklm-slides.html#asking-the-model-questions",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Asking the Model Questions",
     "text": "Asking the Model Questions\n\n\n\n\n\nEnter a question in the chat window.\n\nFor example:\nWhat are the key insights  \nfrom this document?"
   },
   {
     "objectID": "notebooklm-slides.html#citations",
     "href": "notebooklm-slides.html#citations",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Citations",
     "text": "Citations\n\n\n\n\n\nSelecting a citation leads to the corresponding location in the document.\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nHovering over a citation displays the complete cited text."
   },
   {
     "objectID": "notebooklm-slides.html#clear-chat",
     "href": "notebooklm-slides.html#clear-chat",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Clear Chat",
     "text": "Clear Chat\n\n\n\n\n\nTo delete the chat history, select Refresh."
   },
   {
     "objectID": "notebooklm-slides.html#customize-chat",
     "href": "notebooklm-slides.html#customize-chat",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Customize Chat",
     "text": "Customize Chat\n\n\n\n\n\nNavigate to Configure notebook in the chat area.\n\nConversation style and response length can be customized."
   },
   {
     "objectID": "notebooklm-slides.html#conversation-style-default",
     "href": "notebooklm-slides.html#conversation-style-default",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Conversation Style: Default",
     "text": "Conversation Style: Default\n\n\n\n\n\n\nDefault: Ideal for general research and brainstorming tasks."
   },
   {
     "objectID": "notebooklm-slides.html#conversation-style-analyst",
     "href": "notebooklm-slides.html#conversation-style-analyst",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Conversation Style: Analyst",
     "text": "Conversation Style: Analyst\n\n\n\n\n\n\nAnalyst: Ideal for business-oriented strategy and decision-making."
   },
   {
     "objectID": "notebooklm-slides.html#conversation-style-guide",
     "href": "notebooklm-slides.html#conversation-style-guide",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Conversation Style: Guide",
     "text": "Conversation Style: Guide\n\n\n\n\n\n\nGuide: Use the notebook as a knowledge base or help center."
   },
   {
     "objectID": "notebooklm-slides.html#conversation-style-custom",
     "href": "notebooklm-slides.html#conversation-style-custom",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Conversation Style: Custom",
     "text": "Conversation Style: Custom\n\n\n\n\n\n\nCustom: Optimal for defining a specific role.\nResponse Length: Response length is also selectable: Default, Longer, and Shorter."
   },
   {
     "objectID": "notebooklm-slides.html#creating-a-mind-map",
     "href": "notebooklm-slides.html#creating-a-mind-map",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating a Mind Map",
     "text": "Creating a Mind Map\n\n\n\n\n\n1 In the Chat area, select the mind map chip.\n2 The mind map appears in the Studio area."
   },
   {
     "objectID": "notebooklm-slides.html#interacting-with-a-mind-map",
     "href": "notebooklm-slides.html#interacting-with-a-mind-map",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Interacting with a Mind Map",
     "text": "Interacting with a Mind Map\n\n\n\n\n\nOpen the mind map in the Studio area.\nExpand or collapse branches with &gt;.\nChange view, download, or close (top right corner)."
   },
   {
     "objectID": "notebooklm-slides.html#select-nodes-to-ask-questions",
     "href": "notebooklm-slides.html#select-nodes-to-ask-questions",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Select Nodes to Ask Questions",
     "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about this specific topic."
   },
   {
     "objectID": "notebooklm-slides.html#choose-output-language",
     "href": "notebooklm-slides.html#choose-output-language",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Choose Output Language",
     "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings.\n2 Select the Output language.\n\nAudio overviews can be created in over 50 languages."
   },
   {
     "objectID": "notebooklm-slides.html#creating-an-audio-overview",
     "href": "notebooklm-slides.html#creating-an-audio-overview",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating an Audio Overview",
     "text": "Creating an Audio Overview\n\n\n\n\n\n1 In the Studio area, navigate to the “Audio overview” section.\n2 Under “Deep dive conversation,” select Generate."
   },
   {
     "objectID": "notebooklm-slides.html#interacting-with-an-audio-overview",
     "href": "notebooklm-slides.html#interacting-with-an-audio-overview",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Interacting with an Audio Overview",
     "text": "Interacting with an Audio Overview\n\n\n\n\n\nSelect Interactive mode (BETA).\nSelect Play audio.\nWhile listening, select Join and ask a question."
   },
   {
     "objectID": "notebooklm-slides.html#managing-the-audio-overview",
     "href": "notebooklm-slides.html#managing-the-audio-overview",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Managing the Audio Overview",
     "text": "Managing the Audio Overview\n\n\n\n\n\nChange speed, download audio, or delete.\nSelect “More” to:\n\n1 Change the playback speed.\n2 Download the audio as mp3.\n3 Delete the audio overview."
   },
   {
     "objectID": "notebooklm-slides.html#custom-audio-overviews",
     "href": "notebooklm-slides.html#custom-audio-overviews",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Custom Audio Overviews",
     "text": "Custom Audio Overviews\n\n\n\n\nIf an audio overview already exists, it must be deleted first.\n1 In the Studio area, navigate to the “Audio overview” section.\n2 Under “Deep dive conversation,” select Customize.\n\nEnter a custom prompt (max. 500 characters).\nExample prompt (adjust placeholders):\nCreate an audio overview for [TARGET_AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nCover key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET_AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
   },
   {
     "objectID": "notebooklm-slides.html#quiz-questions-and-glossary",
     "href": "notebooklm-slides.html#quiz-questions-and-glossary",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Quiz Questions and Glossary",
     "text": "Quiz Questions and Glossary\n\n\n\n\n\nStudio area:\nClick on Study Guide.\n\nCreates a quiz for self-assessment and a glossary with key terms."
   },
   {
     "objectID": "notebooklm-slides.html#opening-the-study-guide-note",
     "href": "notebooklm-slides.html#opening-the-study-guide-note",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Opening the Study Guide Note",
     "text": "Opening the Study Guide Note\n\n\n\n\n\nStudio area:\nOpen the newly created note.\nTake a look at the questions, answer key, and glossary."
   },
   {
     "objectID": "notebooklm-slides.html#creating-an-overview-of-key-topics",
     "href": "notebooklm-slides.html#creating-an-overview-of-key-topics",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating an Overview of Key Topics",
     "text": "Creating an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing doc."
   },
   {
     "objectID": "notebooklm-slides.html#opening-the-briefing-document",
     "href": "notebooklm-slides.html#opening-the-briefing-document",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Opening the Briefing Document",
     "text": "Opening the Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note.\nTake a look at the briefing document."
   },
   {
     "objectID": "notebooklm-slides.html#creating-faqs",
     "href": "notebooklm-slides.html#creating-faqs",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating FAQs",
     "text": "Creating FAQs\n\n\n\n\n\nStudio area:\nClick on FAQ.\n\nCreates a “question-answer” pair format."
   },
   {
     "objectID": "notebooklm-slides.html#opening-faq",
     "href": "notebooklm-slides.html#opening-faq",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Opening FAQ",
     "text": "Opening FAQ\n\n\n\n\n\nStudio area:\nOpen the newly created note.\nTake a look at the FAQ."
   },
   {
     "objectID": "notebooklm-slides.html#creating-a-timeline",
     "href": "notebooklm-slides.html#creating-a-timeline",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating a Timeline",
     "text": "Creating a Timeline\n\n\n\n\n\nStudio area:\nClick on Timeline.\n\nTimeline and person directory based on the provided sources."
   },
   {
     "objectID": "notebooklm-slides.html#opening-the-timeline",
     "href": "notebooklm-slides.html#opening-the-timeline",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Opening the Timeline",
     "text": "Opening the Timeline\n\n\n\n\n\nStudio area:\nOpen the newly created note.\nTake a look at the timeline."
   },
   {
     "objectID": "notebooklm-slides.html#discovering-new-sources",
     "href": "notebooklm-slides.html#discovering-new-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Discovering New Sources",
     "text": "Discovering New Sources\n\n\n\n\n\nSources area:\nClick on Discover.\nEnter any topic of interest (EU AI Act was entered here)."
   },
   {
     "objectID": "notebooklm-slides.html#selecting-and-adding-discovered-sources",
     "href": "notebooklm-slides.html#selecting-and-adding-discovered-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Selecting and Adding Discovered Sources",
     "text": "Selecting and Adding Discovered Sources\n\n\n\n\n\nSelect the discovered sources you want to keep."
   },
   {
     "objectID": "notebooklm-slides.html#using-new-sources",
     "href": "notebooklm-slides.html#using-new-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Using New Sources",
     "text": "Using New Sources\n\n\n\n\n\nSelect the sources to work with and create new content (like mind maps, etc.)."
   },
   {
     "objectID": "notebooklm-slides.html#creating-adding-notes",
     "href": "notebooklm-slides.html#creating-adding-notes",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Creating & Adding Notes",
     "text": "Creating & Adding Notes\n\n\n\n\n\nStudio area:\nIn the Notes section select Add note.\nText can be written or pasted into this note.\n\nUp to 1,000 notes can be created per notebook."
   },
   {
     "objectID": "notebooklm-slides.html#converting-notes-to-sources",
     "href": "notebooklm-slides.html#converting-notes-to-sources",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Converting Notes to Sources",
     "text": "Converting Notes to Sources\n\n\n\n\n\nStudio area:\nOpen the note.\nSelect Convert to source.\n\nTo convert all notes to sources: Click More in the Notes section in the Studio area.\nSelect Convert all notes to sources.\n\n\n\nYour own notes can be added to the sources."
   },
   {
     "objectID": "notebooklm-slides.html#meeting-preparation",
     "href": "notebooklm-slides.html#meeting-preparation",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Meeting Preparation",
-    "text": "Meeting Preparation\n\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk the following question in chat:\n\n\nCreate a summary of the key insights I need to know.\nMake it conversational, as if a colleague were briefing me over coffee.\n\n\nSave result as note\nCreate an audio summary and check the result\nCreate a mind map and check the result\n\n\n\n\n\n\n\n\n\n\n\n\nHaving difficulties? Simply raise your hand or ask in chat. Problems will be solved together!"
+    "text": "Meeting Preparation\n\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk the following question in chat:\n\n\nCreate a summary of the key insights I need to know.\nMake it conversational, as if a colleague were briefing me over coffee.\n\n\nSave result as note\nCreate an audio summary and check the result\nCreate a mind map and check the result\n\n\n\n\n\n\n\n\n\n\n\n\nHaving difficulties? Simply raise your hand or ask in chat. Problems will be solved together!"
   },
   {
     "objectID": "notebooklm-slides.html#meeting-preparation-2",
     "href": "notebooklm-slides.html#meeting-preparation-2",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Meeting Preparation 2",
     "text": "Meeting Preparation 2\n\n\n\n\n\n\nUse the same notebook\nClick Refresh in the Chat area\nAsk the following question in chat (replace the placeholder “Finance” with your own area):\n\n\nExtract the 5 most important decisions \nor recommendations from this document. \nExplain for each the rationale \nand potential impacts on [AREA].\n\n[AREA] = \"Finance\"\n\n\nSave the result as Note\nReview the result"
   },
   {
     "objectID": "notebooklm-slides.html#invitation-to-share-experiences",
     "href": "notebooklm-slides.html#invitation-to-share-experiences",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Invitation to Share Experiences",
     "text": "Invitation to Share Experiences\n\n\n\n\n\nA discussion in chat about:\n\nThe most important insights or “aha moments”."
   },
   {
     "objectID": "notebooklm-slides.html#email-action-items",
     "href": "notebooklm-slides.html#email-action-items",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Email Action Items",
-    "text": "Email Action Items\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nCopy your email thread (print as PDF) and add to sources\nUse the following prompt in chat:\n\n\nSummarize this email thread as  \n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\nSave the response as Note for future reference\nReview the results: Is the summary helpful?"
+    "text": "Email Action Items\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nCopy your email thread (print as PDF) and add to sources\nUse the following prompt in chat:\n\n\nSummarize this email thread as  \n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\nSave the response as Note for future reference\nReview the results: Is the summary helpful?"
   },
   {
     "objectID": "notebooklm-slides.html#customized-audio-summary",
     "href": "notebooklm-slides.html#customized-audio-summary",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Customized Audio Summary",
-    "text": "Customized Audio Summary\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload a (complex) document of your choice\nNavigate to the “Audio overview” section in the Studio area\nUnder “Deep dive conversation” select Customize\nEnter this customized prompt (max. 500 characters):\n\n\nCreate an audio overview that covers    \n- Key insights to be drawn from this document  \n- Important decisions or required actions  \n- Critical information for the next meeting  \n- Main points that can be shared with colleagues  \nMake it conversational, as if a colleague were briefing over coffee. \nFocus on what's actionable and immediately useful.\n\n\nSelect Length (use Default), create the audio overview and listen to the first two minutes."
+    "text": "Customized Audio Summary\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nUpload a (complex) document of your choice\nNavigate to the “Audio overview” section in the Studio area\nUnder “Deep dive conversation” select Customize\nEnter this customized prompt (max. 500 characters):\n\n\nCreate an audio overview that covers    \n- Key insights to be drawn from this document  \n- Important decisions or required actions  \n- Critical information for the next meeting  \n- Main points that can be shared with colleagues  \nMake it conversational, as if a colleague were briefing over coffee. \nFocus on what's actionable and immediately useful.\n\n\nSelect Length (use Default), create the audio overview and listen to the first two minutes."
   },
   {
     "objectID": "notebooklm-slides.html#extracting-insights-from-videos",
     "href": "notebooklm-slides.html#extracting-insights-from-videos",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Extracting Insights from Videos",
     "text": "Extracting Insights from Videos\n\n\n\n\n\nStart a new notebook (click the black icon in the top left)\nClick + Create new to start a new notebook.\nTo add the video, click YouTube and enter a link. For example:\n\n\nhttps://www.youtube.com/watch?v=3gWb3LNfX28\n\n\nUse the Mind map function to get an overview of the video’s structure and main messages.\nUse prompts to extract useful information, e.g.:\n\n\nProvide step-by-step instructions for using the Kärcher window vacuum for streak-free window cleaning, from assembly to maintenance."
   },
   {
     "objectID": "notebooklm-slides.html#select-use-case",
     "href": "notebooklm-slides.html#select-use-case",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Select Use Case",
-    "text": "Select Use Case\n\n\nA. Presentation Preparation: Convert reports into presentation outlines\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Communication Clarity: Precise communication\nE. Domain-Specific Use Case: Use a domain-specific use case"
+    "text": "Select Use Case\n\n\nA. Presentation Preparation: Convert reports into presentation outlines\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Domain-Specific Use Case: Use a domain-specific use case"
   },
   {
     "objectID": "notebooklm-slides.html#a-presentation-preparation",
     "href": "notebooklm-slides.html#a-presentation-preparation",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "A: Presentation Preparation",
-    "text": "A: Presentation Preparation\nChallenge: Board presentation due Friday\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload the report or data documents\nUse the following prompt in chat (adjust target audience and length):\n\n\nExample prompt (adjust target audience and length):\nCreate a presentation outline with  \n- 5 compelling talking points\n- Supporting data for each point  \n- 3 key insights for executives\n- 10 potential Q&A scenarios\n\nTarget audience: \"Board of Directors\"\nPresentation length: \"30 minutes\"\n\n\nSave the result as Note\nCreate an Audio summary to practice the presentation\nCreate a Mind map for a visual overview"
+    "text": "A: Presentation Preparation\nChallenge: Board presentation due Friday\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nUpload the report or data documents\nUse the following prompt in chat (adjust target audience and length):\n\n\nExample prompt (adjust target audience and length):\nCreate a presentation outline with  \n- 5 compelling talking points\n- Supporting data for each point  \n- 3 key insights for executives\n- 10 potential Q&A scenarios\n\nTarget audience: \"Board of Directors\"\nPresentation length: \"30 minutes\"\n\n\nSave the result as Note\nCreate an Audio summary to practice the presentation\nCreate a Mind map for a visual overview"
   },
   {
     "objectID": "notebooklm-slides.html#b-competitive-analysis",
     "href": "notebooklm-slides.html#b-competitive-analysis",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "B: Competitive Analysis",
-    "text": "B: Competitive Analysis\nChallenge: Understanding the competitive landscape\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse the following prompt in chat:\n\n\nExample prompt:\nCompare these competitor documents and \nidentify:\n- Their main advantages\n- Gaps in their offerings  \n- Opportunities for Kärcher\n- Price/positioning differences\nCreate a strategic summary.\n\n\nSave the result as Note\nAsk follow-up questions about specific competitors\nCreate a Mind map to visualize the competitive landscape"
+    "text": "B: Competitive Analysis\nChallenge: Understanding the competitive landscape\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nUpload multiple competitor materials\nUse the following prompt in chat:\n\n\nExample prompt:\nCompare these competitor documents and \nidentify:\n- Their main advantages\n- Gaps in their offerings  \n- Opportunities for Kärcher\n- Price/positioning differences\nCreate a strategic summary.\n\n\nSave the result as Note\nAsk follow-up questions about specific competitors\nCreate a Mind map to visualize the competitive landscape"
   },
   {
     "objectID": "notebooklm-slides.html#c-training-accelerator",
     "href": "notebooklm-slides.html#c-training-accelerator",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "C: Training Accelerator",
-    "text": "C: Training Accelerator\nChallenge: Making technical content engaging\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload the technical training materials\nUse the following prompt in chat (adjust placeholders):\n\n\nExample prompt (adjust placeholders):\nTransform this technical manual into  \n- 10 practical use cases/examples\n- Interactive Q&A for self-assessment\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET_AUDIENCE].\n\n[TARGET_AUDIENCE] = \"Kärcher Project Managers\"\n\n\nSave the result as Note\nCreate an Audio summary for auditory learners"
+    "text": "C: Training Accelerator\nChallenge: Making technical content engaging\n\n\n\n\n\nOpen Gemini Notebook\nSelect Create new\nUpload the technical training materials\nUse the following prompt in chat (adjust placeholders):\n\n\nExample prompt (adjust placeholders):\nTransform this technical manual into  \n- 10 practical use cases/examples\n- Interactive Q&A for self-assessment\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET_AUDIENCE].\n\n[TARGET_AUDIENCE] = \"Kärcher Project Managers\"\n\n\nSave the result as Note\nCreate an Audio summary for auditory learners"
   },
   {
-    "objectID": "notebooklm-slides.html#d-communication-clarity",
-    "href": "notebooklm-slides.html#d-communication-clarity",
-    "title": "NotebookLM Workshop",
-    "section": "D: Communication Clarity",
-    "text": "D: Communication Clarity\nChallenge: Precise communication\n\n\n\n\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse the following prompt in chat (adjust placeholders):\n\n\nExample prompt:\nBased on these documents, write a \n[TEXT] that:\n- Clearly presents the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and timeline\nThe tone should be [TONE]  \nPLACEHOLDERS:\n[TEXT] = \"email\"\n[TONE] = \"friendly\"\nPlaceholder examples:\n[TEXT] = “email” or “update” or “proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\nSave the result as Note"
-  },
-  {
-    "objectID": "notebooklm-slides.html#e-department-specific",
-    "href": "notebooklm-slides.html#e-department-specific",
-    "title": "NotebookLM Workshop",
-    "section": "E: Department-Specific",
-    "text": "E: Department-Specific\n\nOverview of department-specific use cases (e.g., Marketing, Sales, Operations & Manufacturing, Quality Assurance, HR, Finance, Technical Documentation)"
+    "objectID": "notebooklm-slides.html#d-department-specific",
+    "href": "notebooklm-slides.html#d-department-specific",
+    "title": "Gemini Notebook Workshop",
+    "section": "D: Department-Specific",
+    "text": "D: Department-Specific\n\nOverview of department-specific use cases (e.g., Marketing, Sales, Operations & Manufacturing, Quality Assurance, HR, Finance, Technical Documentation)"
   },
   {
     "objectID": "notebooklm-slides.html#sharing-tips",
     "href": "notebooklm-slides.html#sharing-tips",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Sharing Tips",
     "text": "Sharing Tips\n\n\n\n\n\nInvitation to share:\nInsights?\nRecommended prompt?"
   },
   {
     "objectID": "notebooklm-slides.html#review",
     "href": "notebooklm-slides.html#review",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Review",
-    "text": "Review\n\n\n\n\n\n✅ Learned NotebookLM features\n✅ Worked on some use cases\n✅ Ready for continued use!"
+    "text": "Review\n\n\n\n\n\n✅ Learned Gemini Notebook features\n✅ Worked on some use cases\n✅ Ready for continued use!"
   },
   {
     "objectID": "use-cases.html",
     "href": "use-cases.html",
     "title": "Use Cases",
     "section": "",
-    "text": "Choose one of the following use cases to practice:\n\n\n\n\n\n\nTipExample Use Cases\n\n\n\n\n\n\nA. Presentation Preparation: Transform reports into compelling presentation content.\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Precise Communication: Communicate precisely – clearly, understandably, and effectively.\nE. Department-Specific Use Case: Explore specialized applications for your department\n\n\n\n\n\n\n\nChallenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview\n\n\n\n\n\nChallenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape\n\n\n\n\n\nChallenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies\n\n\n\n\n\nChallenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note\n\n\n\n\n\nChallenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
+    "text": "Choose one of the following use cases to practice:\n\n\n\n\n\n\nTipExample Use Cases\n\n\n\n\n\n\nA. Presentation Preparation: Transform reports into compelling presentation content.\nB. Competitive Analysis: Analyze multiple competitor documents simultaneously\nC. Training Accelerator: Transform manuals into engaging content\nD. Department-Specific Use Case: Explore specialized applications for your department\n\n\n\n\n\n\n\nChallenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview\n\n\n\n\n\nChallenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape\n\n\n\n\n\nChallenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies\n\n\n\n\n\nChallenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
   },
   {
     "objectID": "use-cases.html#a-presentation-preparation",
     "href": "use-cases.html#a-presentation-preparation",
     "title": "Use Cases",
     "section": "",
-    "text": "Challenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview"
+    "text": "Challenge: Presentation due Friday\nGoal: Transform reports into compelling presentation content.\nWhat you need:\n\nReal data/reports from your work\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload your report or data documents\nUse this prompt in the chat (replace target audience and length):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a presentation outline with\n- 5 compelling discussion points\n- Supporting data for each point\n- 3 key insights for executives\n- 10 potential Q&A use cases\n\nTarget audience: \"Board of directors\"\nPresentation length: \"30 minutes\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary to practice your presentation\nCreate a Mindmap for a visual overview"
   },
   {
     "objectID": "use-cases.html#b-competitive-analysis",
     "href": "use-cases.html#b-competitive-analysis",
     "title": "Use Cases",
     "section": "",
-    "text": "Challenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape"
+    "text": "Challenge: Understanding the competitive landscape\nGoal: Analyze multiple competitor materials simultaneously.\nWhat you need:\n\nMultiple competitor documents (reports, brochures, presentations)\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload multiple competitor materials\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCompare these competitor documents and identify:\n- Their main advantages\n- Gaps in their offerings\n- Opportunities for our company\n- Price/positioning differences\nCreate a strategic summary.\n\n\n\n\nSave the result as a Note\nAsk follow-up questions about specific competitors\nCreate a Mindmap to visualize the competitive landscape"
   },
   {
     "objectID": "use-cases.html#c-training-accelerator",
     "href": "use-cases.html#c-training-accelerator",
     "title": "Use Cases",
     "section": "",
-    "text": "Challenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies"
+    "text": "Challenge: Making technical content engaging\nGoal: Transform technical manuals into engaging training content.\nWhat you need:\n\nTechnical manuals or training materials\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload your technical training materials\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nTransform this technical manual into\n- 10 practical use cases/examples\n- Interactive Q&A for self-review\n- Checklist with key points\n- Common mistakes to avoid\nMake it engaging for [TARGET AUDIENCE].\n\n[TARGET AUDIENCE] = \"Project managers\"\n\n\n\n\nSave the result as a Note\nCreate an Audio Summary for auditory learning\nAsk for specific scenarios or case studies"
   },
   {
-    "objectID": "use-cases.html#d-communication-clarity",
-    "href": "use-cases.html#d-communication-clarity",
+    "objectID": "use-cases.html#d-department-specific-use-cases",
+    "href": "use-cases.html#d-department-specific-use-cases",
     "title": "Use Cases",
     "section": "",
-    "text": "Challenge: Perfecting professional communication\nGoal: Communicate precisely – clearly, understandably, and effectively.\nWhat you need:\n\nDocuments related to your communication topic\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse this prompt in the chat (replace the placeholder):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nWrite a [TEXT] based on these documents that:\n- Clearly outlines the situation\n- Provides necessary context\n- Recommends specific actions\n- Includes next steps and a timeline\nThe tone should be [TONE]\n\nPLACEHOLDERS:\n[TEXT] = \"Email\"\n[TONE] = \"friendly\"\nExamples for placeholders:\n[TEXT] = “Email” or “Update” or “Proposal”, …\n[TONE] = “professional” or “casual” or “urgent”, …\n\n\n\n\nSave the result as a Note"
-  },
-  {
-    "objectID": "use-cases.html#e-department-specific-use-cases",
-    "href": "use-cases.html#e-department-specific-use-cases",
-    "title": "Use Cases",
-    "section": "",
-    "text": "Challenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
+    "text": "Challenge: Department-specific usage\nGoal: Explore specialized applications for your department.\n\nOverview of department-specific use cases\n\nWhat you need:\n\nDepartment-specific documents\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload relevant documents for context\nUse a specific prompt in the chat"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "",
     "text": "Typical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence."
   },
   {
     "objectID": "index.html#workshop-objectives",
     "href": "index.html#workshop-objectives",
-    "title": "NotebookLM Workshop",
+    "title": "Gemini Notebook Workshop",
     "section": "Workshop Objectives",
-    "text": "Workshop Objectives\n\n\n\n⚡\n\n\nGetting Started with NotebookLM\nThe workshop demonstrates how to use helpful NotebookLM features, which saves valuable time in daily work.\n\n\n\n\n🎯\n\n\nReal-World Use Cases\nTypical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.\n\n\n\n\n🚀\n\n\nDepartment-Specific\nNotebookLM supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation."
+    "text": "Workshop Objectives\n\n\n\n⚡\n\n\nGetting Started with Gemini Notebook\nThe workshop demonstrates how to use helpful Gemini Notebook features, which saves valuable time in daily work.\n\n\n\n\n🎯\n\n\nReal-World Use Cases\nTypical tasks in professional daily life can be solved more efficiently – e.g., when preparing meetings, creating presentations, or handling email correspondence.\n\n\n\n\n🚀\n\n\nDepartment-Specific\nGemini Notebook supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation."
   },
   {
     "objectID": "notebooklm-intro.html#notes-on-slide-structure",
     "href": "notebooklm-intro.html#notes-on-slide-structure",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Notes on Slide Structure",
     "text": "Notes on Slide Structure\nMost slides follow the structure shown in this slide\n\n\n\n\n\nHere you see your instructions.\nFollow the steps shown here.\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThis part gives you only additional context or tips"
   },
   {
-    "objectID": "notebooklm-intro.html#open-notebooklm",
-    "href": "notebooklm-intro.html#open-notebooklm",
-    "title": "NotebookLM",
-    "section": "Open NotebookLM",
-    "text": "Open NotebookLM\n\n\n\n\n\nOn your device:\n🔗 Open NotebookLM\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nNotebookLM cannot delete or edit your original files in Google Drive"
+    "objectID": "notebooklm-intro.html#open-gemini-notebook",
+    "href": "notebooklm-intro.html#open-gemini-notebook",
+    "title": "Gemini Notebook",
+    "section": "Open Gemini Notebook",
+    "text": "Open Gemini Notebook\n\n\n\n\n\nOn your device:\n🔗 Open Gemini Notebook\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nGemini Notebook cannot delete or edit your original files in Google Drive"
   },
   {
     "objectID": "notebooklm-intro.html#create-a-new-notebook",
     "href": "notebooklm-intro.html#create-a-new-notebook",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create a New Notebook",
     "text": "Create a New Notebook\n\n\n\n\n\nTo create a new notebook, select:\n+ New"
   },
   {
     "objectID": "notebooklm-intro.html#add-your-sources",
     "href": "notebooklm-intro.html#add-your-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Add Your Sources",
     "text": "Add Your Sources\n\n\n\n\n\nSelect a document you want to explore\n\nI’m using the EU AI Act as an example\n\nAdd the document\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add up to 300 sources: (1) PDF, PPT, Excel, Audio, Images (2) Google Docs or Google Slides (3) Website or YouTube (4) Copied text (5) Search the web"
   },
   {
     "objectID": "notebooklm-intro.html#three-core-areas",
     "href": "notebooklm-intro.html#three-core-areas",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Three Core Areas",
     "text": "Three Core Areas\n\n\n\n\n\n\n\n\n\nSources Section: Upload and manage documents.\n\nChat Section: Ask questions and get answers based on your documents.\n\nStudio Section: Generate and save outputs like summaries, study guides, and notes."
   },
   {
     "objectID": "notebooklm-intro.html#automatically-generated-summary",
     "href": "notebooklm-intro.html#automatically-generated-summary",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Automatically Generated Summary",
     "text": "Automatically Generated Summary\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe summary is automatically generated"
   },
   {
     "objectID": "notebooklm-intro.html#save-summary-as-note",
     "href": "notebooklm-intro.html#save-summary-as-note",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Save Summary as Note",
     "text": "Save Summary as Note\n\n\n\n\n\n1 In the Chat Section:\nSelect Save to note\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n2 The note appears in the “Notebook” within the Studio Section"
   },
   {
     "objectID": "notebooklm-intro.html#open-the-note",
     "href": "notebooklm-intro.html#open-the-note",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Open the Note",
     "text": "Open the Note\n\n\n\n\n\nClick on the note in the Studio Section\n(it will open in a new window)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nSaved answer notes are not editable"
   },
   {
     "objectID": "notebooklm-study-guide.html#quiz-questions-and-glossary",
     "href": "notebooklm-study-guide.html#quiz-questions-and-glossary",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Quiz Questions and Glossary",
     "text": "Quiz Questions and Glossary\n\n\n\n\n\nStudio area:\nClick on Study Guide\n\nCreates a self-review quiz and glossary with key terms"
   },
   {
     "objectID": "notebooklm-study-guide.html#open-the-study-guide-note",
     "href": "notebooklm-study-guide.html#open-the-study-guide-note",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Open the Study Guide Note",
     "text": "Open the Study Guide Note\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the questions, answer key, and glossary"
   },
   {
     "objectID": "notebooklm-video.html#youtube-video-window-cleaner",
     "href": "notebooklm-video.html#youtube-video-window-cleaner",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Youtube Video: Window Cleaner",
     "text": "Youtube Video: Window Cleaner\n\n\nSource: YouTube"
   },
   {
     "objectID": "notebooklm-video.html#create-a-new-notebook",
     "href": "notebooklm-video.html#create-a-new-notebook",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create a New Notebook",
-    "text": "Create a New Notebook\n\n\n\n\n\n🔗 Open NotebookLM\nTo create a new notebook, select:\n+ Create new"
+    "text": "Create a New Notebook\n\n\n\n\n\n🔗 Open Gemini Notebook\nTo create a new notebook, select:\n+ Create new"
   },
   {
     "objectID": "notebooklm-video.html#add-your-youtube-video",
     "href": "notebooklm-video.html#add-your-youtube-video",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Add Your YouTube Video",
     "text": "Add Your YouTube Video\n\n\n\n\n\nTo add a video:\n3 Click on YouTube\nEnter a link to a video.\n\nExample Kärcher video:\n[https://www.youtube.com/watch?v=3gWb3LNfX28]"
   },
@@ -788,19 +774,19 @@
     "href": "agenda.html",
     "title": "Agenda",
     "section": "",
-    "text": "Module\nSection\nContent\n\n\n\n\n1\nIntroduction\nNotebookLM and its features\n\n\n2\nExercises\nNotebookLM exercises\n\n\n3\nUse Cases\nGeneral use cases and department-specific examples\n\n\n4\nConclusion\nConcrete plan in Docs for sustainable integration\n\n\n\nShort survey\n\n\n\n\n\n\nFollow-up survey in a couple of weeks: I look forward to feedback on experiences and success stories"
+    "text": "Module\nSection\nContent\n\n\n\n\n1\nIntroduction\nGemini Notebook and its features\n\n\n2\nExercises\nGemini Notebook exercises\n\n\n3\nUse Cases\nGeneral use cases and department-specific examples\n\n\n4\nConclusion\nConcrete plan in Docs for sustainable integration\n\n\n\nShort survey\n\n\n\n\n\n\nFollow-up survey in a couple of weeks: I look forward to feedback on experiences and success stories"
   },
   {
     "objectID": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
     "href": "notebooklm-briefing-document.html#create-an-overview-of-key-topics",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create an Overview of Key Topics",
     "text": "Create an Overview of Key Topics\n\n\n\n\n\nStudio area:\nClick on Briefing Doc."
   },
   {
     "objectID": "notebooklm-briefing-document.html#open-briefing-document",
     "href": "notebooklm-briefing-document.html#open-briefing-document",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Open Briefing Document",
     "text": "Open Briefing Document\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the briefing document"
   },
@@ -809,14 +795,14 @@
     "href": "exercises.html",
     "title": "Exercises",
     "section": "",
-    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
+    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
   },
   {
     "objectID": "exercises.html#meeting-preparation",
     "href": "exercises.html#meeting-preparation",
     "title": "Exercises",
     "section": "",
-    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
+    "text": "Scenario:\nYou need to quickly review some documents before a meeting.\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload a presentation (optional: add related documents)\nAsk this question in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate a summary of the key insights I need to know. Make it conversational, as if a colleague were informing me over coffee.\n\n\n\n\nSave the result as a note\nCreate an Audio Overview and review the result\nCreate a Mind Map and review the result"
   },
   {
     "objectID": "exercises.html#meeting-preparation-2",
@@ -830,14 +816,14 @@
     "href": "exercises.html#email-action-items",
     "title": "Exercises",
     "section": "Email Action Items",
-    "text": "Email Action Items\nGoal: Transform your email history into action items.\nWhat you need:\n\nA complex email thread with multiple participants and topics\nA new NotebookLM notebook\n\nSteps:\n\nOpen NotebookLM\nSelect Create new\nCopy your email thread (print as PDF) and add it to the sources\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nSummarize this email thread as:\n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\n\n\nSave the response as a Note for later reference\nReview the results: Is this summary helpful?"
+    "text": "Email Action Items\nGoal: Transform your email history into action items.\nWhat you need:\n\nA complex email thread with multiple participants and topics\nA new Gemini Notebook\n\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nCopy your email thread (print as PDF) and add it to the sources\nUse this prompt in the chat:\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nSummarize this email thread as:\n1. Decisions made\n2. Action items (who/what/when)\n3. Open questions\n4. Next required steps\n\n\n\n\nSave the response as a Note for later reference\nReview the results: Is this summary helpful?"
   },
   {
     "objectID": "exercises.html#custom-audio-overview",
     "href": "exercises.html#custom-audio-overview",
     "title": "Exercises",
     "section": "Custom Audio Overview",
-    "text": "Custom Audio Overview\nGoal: Create your first custom audio overview.\nSteps:\n\nOpen NotebookLM\nSelect Create new\nUpload some documents of your choice\nNavigate to the “Audio Overview” section in the Studio Panel\nSelect Customize (pencil)\nEnter this custom prompt (max. 500 characters):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate an audio overview with the following content:\n- Key insights from this document that I need to know\n- Important decisions or required actions\n- Critical information for my next meeting\n- Key findings I can share with colleagues\nMake it conversational, as if a colleague were informing me over coffee.\nFocus on what is actionable and immediately useful.\n\n\n\n\nSelect Length (use Standard), create the audio overview and listen to the first two minutes."
+    "text": "Custom Audio Overview\nGoal: Create your first custom audio overview.\nSteps:\n\nOpen Gemini Notebook\nSelect Create new\nUpload some documents of your choice\nNavigate to the “Audio Overview” section in the Studio Panel\nSelect Customize (pencil)\nEnter this custom prompt (max. 500 characters):\n\n\n\n\n\n\n\nImportantPrompt\n\n\n\n\n\nCreate an audio overview with the following content:\n- Key insights from this document that I need to know\n- Important decisions or required actions\n- Critical information for my next meeting\n- Key findings I can share with colleagues\nMake it conversational, as if a colleague were informing me over coffee.\nFocus on what is actionable and immediately useful.\n\n\n\n\nSelect Length (use Standard), create the audio overview and listen to the first two minutes."
   },
   {
     "objectID": "exercises.html#extracting-insights-from-videos",
@@ -849,112 +835,112 @@
   {
     "objectID": "notebooklm-faq.html#create-faqs",
     "href": "notebooklm-faq.html#create-faqs",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create FAQs",
     "text": "Create FAQs\n\n\n\n\n\nStudio area:\nClick on FAQ\n\nCreates a “question-answer” pair format"
   },
   {
     "objectID": "notebooklm-faq.html#open-faq",
     "href": "notebooklm-faq.html#open-faq",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Open FAQ",
     "text": "Open FAQ\n\n\n\n\n\nStudio area:\nOpen the newly created note\nTake a look at the FAQ"
   },
   {
     "objectID": "notebooklm-audio-overview.html#choose-output-language",
     "href": "notebooklm-audio-overview.html#choose-output-language",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Choose Output Language",
     "text": "Choose Output Language\n\n\n\n\n\n1 Navigate to Settings 2 Select the Output Language\n\nYou can create audio overviews in over 50 languages"
   },
   {
     "objectID": "notebooklm-audio-overview.html#create-an-audio-overview",
     "href": "notebooklm-audio-overview.html#create-an-audio-overview",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create an Audio Overview",
     "text": "Create an Audio Overview\n\n\n\n\n\n1 Navigate to the “Studio Panel”\n2 Click on “Audio Overview” to generate the audio file"
   },
   {
     "objectID": "notebooklm-audio-overview.html#customise-audio-overviews",
     "href": "notebooklm-audio-overview.html#customise-audio-overviews",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Customise Audio Overviews",
     "text": "Customise Audio Overviews\n\n\n\n\n1 Navigate to the “Audio Overview” section in the Studio area\n2 In the top right corner of “Audio Overview” select the pencil symbol\n3 Choose the format, language and length\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources"
   },
   {
     "objectID": "notebooklm-audio-overview.html#customise-audio-overviews-with-prompts",
     "href": "notebooklm-audio-overview.html#customise-audio-overviews-with-prompts",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Customise Audio Overviews with Prompts",
     "text": "Customise Audio Overviews with Prompts\n\n\n\n\n\nExample prompt (adapt the placeholders)\nCreate an audio overview for [TARGET AUDIENCE] \nwith a [TONE] tone. \nFocus on [FOCUS] and aim for [DURATION]. \nAddress key insights with concrete examples.\n\nPLACEHOLDERS\n\n[TARGET AUDIENCE] = Kärcher management\n[TONE] = professional\n[FOCUS] = practical insights  \n[DURATION] = 8-10 min."
   },
   {
     "objectID": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
     "href": "notebooklm-audio-overview.html#interact-with-an-audio-overview",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Interact with an Audio Overview",
     "text": "Interact with an Audio Overview\n\n\n\n\n\nSelect Interactive Mode (BETA)\nSelect Play Audio\nWhile listening, select Join and ask a question"
   },
   {
     "objectID": "notebooklm-audio-overview.html#manage-your-audio-overview",
     "href": "notebooklm-audio-overview.html#manage-your-audio-overview",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Manage Your Audio Overview",
     "text": "Manage Your Audio Overview\n\n\n\n\n\nChange speed, download your audio, or delete it\nSelect “More” to:\n1 Change the playback speed\n2 Download the audio as mp3\n3 Delete the audio overview"
   },
   {
     "objectID": "notebooklm-chat.html#select-sources",
     "href": "notebooklm-chat.html#select-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Select Sources",
     "text": "Select Sources\n\n\n\n\n\nUse the checkbox next to each source to include or exclude specific sources that the model should use to answer your question\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can add or remove sources by selecting + Add or deselecting individual sources in the Sources panel"
   },
   {
     "objectID": "notebooklm-chat.html#ask-the-model-questions",
     "href": "notebooklm-chat.html#ask-the-model-questions",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Ask the Model Questions",
     "text": "Ask the Model Questions\n\n\n\n\n\nEnter a question in the chat window\n\nFor example:\nWhat are the key insights  \nfrom this document?"
   },
   {
     "objectID": "notebooklm-chat.html#citations",
     "href": "notebooklm-chat.html#citations",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Citations",
     "text": "Citations\n\n\n\n\n\nSelect a citation to navigate to the location of the citation\n\n\n\n\n\n\n\n\n\n\nNote\n\n\nYou can hover over any citation to get the full quoted text"
   },
   {
     "objectID": "notebooklm-chat.html#clear-chat",
     "href": "notebooklm-chat.html#clear-chat",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Clear Chat",
     "text": "Clear Chat\n\n\n\n\n\nTo delete the chat history, select Refresh (on the top)"
   },
   {
     "objectID": "notebooklm-chat.html#customize-chat",
     "href": "notebooklm-chat.html#customize-chat",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Customize Chat",
     "text": "Customize Chat\n\n\n\n\n\nNavigate to Configure notebook in the chat area\n\nYou can change the conversation style and response length"
   },
   {
     "objectID": "notebooklm-chat.html#conversation-styles",
     "href": "notebooklm-chat.html#conversation-styles",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Conversation Styles",
     "text": "Conversation Styles\n\nDefault: Best for general research and brainstorming tasks.\nAnalyst: Best for business-oriented strategy and decision making.\nGuide: Use your notebook as a knowledge base or help center\nCustom: Best for choosing a specific role\nResponse Length: You can also choose the response length: Default, Longer and Shorter"
   },
   {
     "objectID": "notebooklm-video-overview.html#report",
     "href": "notebooklm-video-overview.html#report",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Report",
     "text": "Report\n\n\n\n\n\nStudio area:\nClick on Report\n\nThis Opens a new window with more options"
   },
   {
     "objectID": "notebooklm-video-overview.html#check-the-report-options",
     "href": "notebooklm-video-overview.html#check-the-report-options",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Check the Report Options",
     "text": "Check the Report Options\n\n\n\n\n\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nBlog post: Insightful takeaways distilled into a highly readable article\nSuggested formats: More options to choose from"
   },
@@ -963,14 +949,14 @@
     "href": "features-old.html",
     "title": "Features",
     "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nAudio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources\n\n\n\n\n\nYou can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents.\n\n\n\n\n\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nFAQ: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.\nTimeline: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people\n\n\n\n\n\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides"
+    "text": "Master the fundamentals of Gemini Notebook and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to Gemini Notebook\n\n\n\n\n\n\n\nAsk questions about your documents in natural language and receive instant, precise, source-backed answers.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nTransform complex documents into visual mindmaps that show key topics and connections at a glance.\n\n\n\n\n\n\nSlides\n\n\n\n\n\n\n\nAudio Overviews help you understand your material on the go.\n\n\nFormat options:\nDeep dive: A lively conversation between two hosts, unpacking and connecting topics in your sources\nBrief: A bite-sized overview to help you grasp the core ideas from your sources quickly\nCritique: An expert review of your sources, offering constructive feedback to help you improve your material\nDebate: A thoughtful debate between two hosts, illuminating different perspectives on your sources\n\n\n\n\n\nYou can think of these as a visual alternative to Audio Overviews: the AI host creates new visuals to help illustrate points while also pulling in images, diagrams, quotes and numbers from your documents.\n\n\n\n\n\n\n\nFormats:\n\nCreate your own: Craft reports your way by specifying structure, style, tone and more\nBriefing doc: Overview of your sources featuring key insights and quotes\nStudy guide: Short-answer quiz, suggested essay questions and glossary of key terms\nFAQ: Frequently Asked Questions (FAQ) generates a list of common questions and their answers, providing quick information on a specific topic.\nTimeline: Timeline: Create a detailed timeline of the main events covered in these sources, followed by a cast of characters listing the principle people\n\n\n\n\n\n\n\n\n\n\nFind and import relevant web sources directly into your notebook to expand your knowledge base.\n\n\n\n\n\n\n\nSlides"
   },
   {
     "objectID": "features-old.html#getting-started",
     "href": "features-old.html#getting-started",
     "title": "Features",
     "section": "",
-    "text": "Master the fundamentals of NotebookLM and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to NotebookLM"
+    "text": "Master the fundamentals of Gemini Notebook and see how it transforms your daily workflow.\n\n\n\n\n\n\nIntroduction to Gemini Notebook"
   },
   {
     "objectID": "features-old.html#chat",
@@ -1017,35 +1003,35 @@
   {
     "objectID": "notebooklm-notes.html#create-add-notes",
     "href": "notebooklm-notes.html#create-add-notes",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create & Add Notes",
     "text": "Create & Add Notes\n\n\n\n\n\nStudio area:\nSelect Add Note in the Notes section\nYou can write or paste text into this note\n\nYou can create up to 1,000 notes per notebook"
   },
   {
     "objectID": "notebooklm-notes.html#convert-notes-to-sources",
     "href": "notebooklm-notes.html#convert-notes-to-sources",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Convert Notes to Sources",
     "text": "Convert Notes to Sources\n\n\n\n\n\nStudio area:\nOpen the note\nSelect Convert to Source\n\n\nTo convert all notes to sources: Click on More in the Notes section in the Studio area.\nSelect Convert All Notes to Sources\n\n\n\nYou can add your notes to your sources"
   },
   {
     "objectID": "notebooklm-mind-map.html#create-a-mindmap",
     "href": "notebooklm-mind-map.html#create-a-mindmap",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Create a Mindmap",
     "text": "Create a Mindmap\n\n\n\n\n\n1 Select the mindmap chip in the Chat area\n2 The mindmap appears in the Studio area"
   },
   {
     "objectID": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
     "href": "notebooklm-mind-map.html#how-to-interact-with-a-mindmap",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "How to Interact with a Mindmap",
     "text": "How to Interact with a Mindmap\n\n\n\n\n\nOpen the mindmap in the Studio area\nExpand or collapse branches with &gt;\nChange view, download, or exit (top right corner)"
   },
   {
     "objectID": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
     "href": "notebooklm-mind-map.html#select-nodes-to-ask-questions",
-    "title": "NotebookLM",
+    "title": "Gemini Notebook",
     "section": "Select Nodes to Ask Questions",
     "text": "Select Nodes to Ask Questions\n\n\n\n\n\nSelect a node to ask questions and chat about that specific topic"
   }
