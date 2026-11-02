@@ -5,7 +5,7 @@ Below you will find use case examples for different departments.
 Regardless of your specific area, the general process remains the same:
 
 1.  Identify documents relevant to your department
-2.  Create a new notebook in NotebookLM
+2.  Create a new notebook in Gemini Notebook
 3.  Upload the selected materials
 4.  Formulate prompts tailored to your team's needs
 5.  Practice with real scenarios from your daily work
@@ -13,11 +13,11 @@ Regardless of your specific area, the general process remains the same:
 
 ## Marketing
 
-NotebookLM can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you'll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.
+Gemini Notebook can support marketing professionals with campaign planning, brand positioning, and content analysis. Below you'll find practical examples of how various marketing functions can benefit from public documents and strategic prompts.
 
 :::{.callout-tip title="Brand Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze your brand's language and tone of voice
 - Compare your positioning with that of competitors
@@ -41,7 +41,7 @@ How is the brand positioned in terms of innovation and user-friendliness?
 
 :::{.callout-tip title="Campaign Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Summarize industry reports and identify campaign-relevant trends
 - Generate messaging ideas based on audience insights
@@ -49,7 +49,7 @@ How is the brand positioned in terms of innovation and user-friendliness?
 
 **Suggested Approach:**
 
-Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 
 **Example Prompts:**
@@ -66,11 +66,11 @@ Which KPIs will become more important in 2025?
 
 ## Sales
 
-NotebookLM can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore NotebookLM for real sales tasks.
+Gemini Notebook can help sales teams quickly grasp product materials, handle objections, and align their approach with customer needs. Use the following examples to explore Gemini Notebook for real sales tasks.
 
 :::{.callout-tip title="Direct Sales" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Extract key selling points from product brochures or websites
 - Prepare objection-handling arguments
@@ -96,7 +96,7 @@ What are the strongest arguments for professional buyers?
 
 :::{.callout-tip title="Key Account Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Summarize long strategy reports to tailor presentations
 - Understand trends in the customer's industry
@@ -104,7 +104,7 @@ What are the strongest arguments for professional buyers?
 
 **Suggested Documents:**
 
-Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 
 **Example Prompts:**
@@ -121,11 +121,11 @@ Summarize the barriers to B2B purchasing decisions mentioned in the article.
 
 ## Product Development
 
-NotebookLM can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.
+Gemini Notebook can accelerate product development by synthesizing market research, competitive analysis, and technical specifications into actionable insights for innovation teams.
 
 :::{.callout-tip title="Market Research & Innovation" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze competitor product specifications and features
 - Extract customer needs from market research reports
@@ -133,7 +133,7 @@ NotebookLM can accelerate product development by synthesizing market research, c
 
 **Suggested Documents:**
 
-Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 
 **Example Prompts:**
@@ -150,7 +150,7 @@ Which technological innovations are driving market growth?
 
 :::{.callout-tip title="Technical Specifications" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Compare technical standards across different markets
 - Extract compliance requirements from regulatory documents
@@ -158,7 +158,7 @@ Which technological innovations are driving market growth?
 
 **Suggested Documents:**
 
-Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 
 **Example Prompts:**
@@ -175,11 +175,11 @@ Which technical specifications differ between the EU and US markets?
 
 ## Customer Service
 
-NotebookLM can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.
+Gemini Notebook can transform customer service by creating comprehensive knowledge bases, training materials, and troubleshooting guides from technical documentation and customer feedback.
 
 :::{.callout-tip title="Technical Support" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Create troubleshooting guides from technical manuals
 - Generate customer-friendly explanations for complex procedures
@@ -188,7 +188,7 @@ NotebookLM can transform customer service by creating comprehensive knowledge ba
 **Suggested Documents:**
 
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 - Customer service case logs (internal)
 
@@ -206,7 +206,7 @@ Generate customer-friendly explanations for technical error codes.
 
 :::{.callout-tip title="Customer Training" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Transform technical manuals into engaging training content
 - Create role-specific user guides
@@ -232,11 +232,11 @@ What are the 5 most important safety aspects customers should know?
 
 ## Operations & Manufacturing
 
-NotebookLM can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.
+Gemini Notebook can streamline operations by analyzing production data, quality reports, and supply chain documentation to identify optimization opportunities.
 
 :::{.callout-tip title="Process Optimization" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze production efficiency reports
 - Extract best practices from operational manuals
@@ -244,7 +244,7 @@ NotebookLM can streamline operations by analyzing production data, quality repor
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 - Internal documents
 
@@ -262,7 +262,7 @@ Which lean principles could be most relevant for our production line?
 
 :::{.callout-tip title="Supply Chain Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze supplier performance reports
 - Extract risk factors from supply chain studies
@@ -270,7 +270,7 @@ Which lean principles could be most relevant for our production line?
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 - Internal documents
 
@@ -288,11 +288,11 @@ Which strategies could improve our supplier relationship management?
 
 ## Quality Assurance
 
-NotebookLM can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.
+Gemini Notebook can enhance quality management by analyzing compliance documents, test protocols, and industry standards to ensure consistent product quality.
 
 :::{.callout-tip title="Compliance Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Extract requirements from regulatory standards
 - Compare quality protocols across different markets
@@ -300,7 +300,7 @@ NotebookLM can enhance quality management by analyzing compliance documents, tes
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 
 - Internal documents
 
@@ -318,7 +318,7 @@ Create a compliance checklist for CE marking.
 
 :::{.callout-tip title="Testing & Validation" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze test protocols and procedures
 - Extract quality metrics from industry benchmarks
@@ -344,11 +344,11 @@ Which quality metrics should we prioritize for our product line?
 
 ## Human Resources
 
-NotebookLM can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.
+Gemini Notebook can support HR functions by analyzing employment trends, creating training materials, and developing policies based on best practice documentation.
 
 :::{.callout-tip title="Talent Acquisition" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze job market trends and salary benchmarks
 - Extract skill requirements from industry reports
@@ -356,7 +356,7 @@ NotebookLM can support HR functions by analyzing employment trends, creating tra
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 - Internal documents
 - [LinkedIn Global Talent Trends Report](https://business.linkedin.com/talent-solutions/global-talent-trends)
 - [Deloitte Human Capital Trends](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends.html)
@@ -375,7 +375,7 @@ Which benefits and compensation trends should we consider?
 
 :::{.callout-tip title="Learning & Development" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Transform technical content into training programs
 - Create competency frameworks from industry standards
@@ -401,11 +401,11 @@ Which core competencies should our leaders develop?
 
 ## Finance
 
-NotebookLM can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.
+Gemini Notebook can support finance teams by analyzing market reports, regulatory documents, and financial benchmarks to inform strategic decisions.
 
 :::{.callout-tip title="Financial Analysis" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Extract key financial metrics from industry reports
 - Analyze market trends affecting profitability
@@ -413,7 +413,7 @@ NotebookLM can support finance teams by analyzing market reports, regulatory doc
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 - Internal documents
 
 
@@ -431,7 +431,7 @@ Which financial metrics should we track for competitive analysis?
 
 :::{.callout-tip title="Risk Management" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Analyze regulatory compliance requirements
 - Extract risk factors from market analysis
@@ -439,7 +439,7 @@ Which financial metrics should we track for competitive analysis?
 
 **Suggested Documents:**
 
-- Use Gemini Deep Research to create a report. Upload this report to NotebookLM.
+- Use Gemini Deep Research to create a report. Upload this report to Gemini Notebook.
 - Regulatory compliance documentation
 - Insurance industry reports
 
@@ -457,11 +457,11 @@ Which compliance requirements could impact our financial planning?
 
 ## Technical Documentation
 
-NotebookLM can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.
+Gemini Notebook can revolutionize technical documentation by transforming complex technical specifications into user-friendly guides and multilingual content.
 
 :::{.callout-tip title="User Manual Creation" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Transform technical specifications into user-friendly guides
 - Create templates for multilingual documentation
@@ -488,7 +488,7 @@ Create a visual troubleshooting flowchart based on this documentation.
 
 :::{.callout-tip title="Regulatory Documentation" collapse="true"}
 
-**Use NotebookLM to:**
+**Use Gemini Notebook to:**
 
 - Extract requirements from regulatory standards
 - Create templates for compliance documentation

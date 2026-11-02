@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM Workshop"
+title: "Gemini Notebook Workshop"
 subtitle: "Conclusion"
 author: "Jan Kirenz" 
 execute:

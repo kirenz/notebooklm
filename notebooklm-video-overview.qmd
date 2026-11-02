@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM"
+title: "Gemini Notebook"
 subtitle: "Report"
 author: "Jan Kirenz"
 execute:
@@ -26,7 +26,7 @@ format:
     chalkboard:
       buttons: false
     logo: images/logo.png # Optional: Add path to your logo
-    footer: "Jan Kirenz | NotebookLM Workshop" 
+    footer: "Jan Kirenz | Gemini Notebook Workshop" 
     template-partials:
       - title-slide.html
 ---

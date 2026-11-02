@@ -10,10 +10,10 @@ Typical tasks in professional daily life can be solved more efficiently – e.g.
 
 ::: {.hero .text-center}
 
-# NotebookLM Workshop
+# Gemini Notebook Workshop
 
 <p style="color: black;"> 
-Welcome to our NotebookLM Workshop 👋
+Welcome to our Gemini Notebook Workshop 👋
 </p>
 
 [Agenda](/agenda.qmd){.btn .btn-primary} [Features](/features.qmd){.btn .btn-primary}
@@ -28,9 +28,9 @@ Welcome to our NotebookLM Workshop 👋
 ⚡
 :::
 
-### Getting Started with NotebookLM
+### Getting Started with Gemini Notebook
 
-The workshop demonstrates how to use helpful NotebookLM features, which saves valuable time in daily work.
+The workshop demonstrates how to use helpful Gemini Notebook features, which saves valuable time in daily work.
 
 :::
 
@@ -52,7 +52,7 @@ Typical tasks in professional daily life can be solved more efficiently – e.g.
 
 ### Department-Specific
 
-NotebookLM supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation.
+Gemini Notebook supports diverse tasks – for example in competitive analysis, customer intelligence, project management, or training creation.
 
 :::
 

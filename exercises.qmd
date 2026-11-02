@@ -12,7 +12,7 @@ You need to quickly review some documents before a meeting.
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload a presentation (optional: add related documents)
 4. Ask this question in the chat:
@@ -63,11 +63,11 @@ Explain the reasoning and possible impacts on [AREA] for each.
 **What you need:**
 
 - A complex email thread with multiple participants and topics
-- A new NotebookLM notebook
+- A new Gemini Notebook
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Copy your email thread (print as PDF) and add it to the sources
 4. Use this prompt in the chat:
@@ -97,7 +97,7 @@ Summarize this email thread as:
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload some documents of your choice
 4. Navigate to the "Audio Overview" section in the **Studio Panel**

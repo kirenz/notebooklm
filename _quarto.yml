@@ -6,8 +6,8 @@ execute:
 
 website:
   page-navigation: true
-  title: "NotebookLM"
-  description: "NotebookLM Workshop"
+  title: "Gemini Notebook"
+  description: "Gemini Notebook Workshop"
   image: "/images/logo.png"
   favicon: "/images/logo.png"
   search:

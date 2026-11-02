@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM"
+title: "Gemini Notebook"
 subtitle: "Introduction"
 author: "Jan Kirenz"
 execute:
@@ -26,7 +26,7 @@ format:
     chalkboard:
       buttons: false
     logo: images/logo.png # Optional: Add path to your logo
-    footer: "Jan Kirenz | NotebookLM Workshop" 
+    footer: "Jan Kirenz | Gemini Notebook Workshop" 
     template-partials:
       - title-slide.html
 ---
@@ -83,7 +83,7 @@ This part gives you only additional context or tips
 
 
 
-## Open NotebookLM
+## Open Gemini Notebook
 
 
 :::: {.columns}
@@ -98,7 +98,7 @@ This part gives you only additional context or tips
 
 On your device: 
 
-[🔗 Open NotebookLM](https://notebooklm.google/)
+[🔗 Open Gemini Notebook](https://notebooklm.google/)
 
 
 
@@ -117,7 +117,7 @@ On your device:
 
 :::{.callout-note .fragment .fade-up}
 
-NotebookLM cannot delete or edit your original files in Google Drive
+Gemini Notebook cannot delete or edit your original files in Google Drive
 
 :::
 

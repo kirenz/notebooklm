@@ -11,9 +11,7 @@ Choose one of the following use cases to practice:
 
 - **C. Training Accelerator**: Transform manuals into engaging content
 
-- **D. Precise Communication**: Communicate precisely – clearly, understandably, and effectively.
-
-- **E. Department-Specific Use Case**: Explore specialized applications for your department
+- **D. Department-Specific Use Case**: Explore specialized applications for your department
 
 :::
 
@@ -28,11 +26,11 @@ Choose one of the following use cases to practice:
 **What you need:** 
 
 - Real data/reports from your work
-- A new NotebookLM notebook
+- A new Gemini Notebook
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com) 
+1. Open [Gemini Notebook](https://notebooklm.google.com) 
 2. Select **Create new**
 3. Upload your report or data documents
 4. Use this prompt in the chat (replace target audience and length):
@@ -65,11 +63,11 @@ Presentation length: "30 minutes"
 **What you need:**
 
 - Multiple competitor documents (reports, brochures, presentations)
-- A new NotebookLM notebook
+- A new Gemini Notebook
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com) 
+1. Open [Gemini Notebook](https://notebooklm.google.com) 
 2. Select **Create new**
 3. Upload multiple competitor materials
 4. Use this prompt in the chat:
@@ -100,11 +98,11 @@ Create a strategic summary.
 **What you need:**
 
 - Technical manuals or training materials
-- A new NotebookLM notebook
+- A new Gemini Notebook
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com) 
+1. Open [Gemini Notebook](https://notebooklm.google.com) 
 2. Select **Create new**
 3. Upload your technical training materials
 4. Use this prompt in the chat (replace the placeholder):
@@ -128,51 +126,7 @@ Make it engaging for [TARGET AUDIENCE].
 
 ---
 
-## D: Communication Clarity
-
-**Challenge:** Perfecting professional communication
-
-**Goal:** Communicate precisely – clearly, understandably, and effectively.
-
-**What you need:**
-
-- Documents related to your communication topic
-- A new NotebookLM notebook
-
-**Steps:**
-
-1. Open [NotebookLM](https://notebooklm.google.com) 
-2. Select **Create new**
-3. Upload relevant documents for context
-4. Use this prompt in the chat (replace the placeholder):
-
-::: {.callout-important title="Prompt" collapse="true"}
-```markdown
-Write a [TEXT] based on these documents that:
-- Clearly outlines the situation
-- Provides necessary context
-- Recommends specific actions
-- Includes next steps and a timeline
-The tone should be [TONE]
-
-PLACEHOLDERS:
-[TEXT] = "Email"
-[TONE] = "friendly"
-```
-Examples for placeholders:
-
-[TEXT] = "Email" or "Update" or "Proposal", ...   
-[TONE] = "professional" or "casual" or "urgent", ...
-
-
-:::
-
-5. Save the result as a **Note**
-
-
----
-
-## E: Department-Specific Use Cases
+## D: Department-Specific Use Cases
 
 **Challenge:** Department-specific usage
 
@@ -183,11 +137,11 @@ Examples for placeholders:
 **What you need:**
 
 - Department-specific documents
-- A new NotebookLM notebook
+- A new Gemini Notebook
 
 **Steps:**
 
-1. Open [NotebookLM](https://notebooklm.google.com) 
+1. Open [Gemini Notebook](https://notebooklm.google.com) 
 2. Select **Create new**
 3. Upload relevant documents for context
 4. Use a specific prompt in the chat

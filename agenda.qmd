@@ -7,8 +7,8 @@ number-sections: false
 
 | Module | Section |  Content |
 |-------|--------------|-------------------|
-| 1 | [Introduction](/features.qmd) | NotebookLM and its features |
-| 2 | [Exercises](/exercises.qmd) | NotebookLM exercises |
+| 1 | [Introduction](/features.qmd) | Gemini Notebook and its features |
+| 2 | [Exercises](/exercises.qmd) | Gemini Notebook exercises |
 | 3 | [Use Cases](/use-cases.qmd) | General use cases and [department-specific examples](/use-cases-domains.qmd) |
 | 4 | [Conclusion](/conclusion.qmd) | [Concrete plan in Docs](https://docs.google.com/document/d/1GSjr45Vh1WCf4CChuKMB1SokMw_cDluUJqVm9jmDzN0/edit?usp=sharing) for sustainable integration |
 

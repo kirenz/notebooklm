@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM"
+title: "Gemini Notebook"
 subtitle: "Video Extraction"
 author: "Jan Kirenz"
 execute:
@@ -26,7 +26,7 @@ format:
     chalkboard:
       buttons: false
     logo: images/logo.png # Optional: Add path to your logo
-    footer: "Jan Kirenz | NotebookLM Workshop" 
+    footer: "Jan Kirenz | Gemini Notebook Workshop" 
     template-partials:
       - title-slide.html 
 ---
@@ -34,7 +34,7 @@ format:
 # Video Extraction {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
 You can also use a video as a source. 
-NotebookLM imports the transcript.
+Gemini Notebook imports the transcript.
 
 
 ## Youtube Video: Window Cleaner
@@ -58,7 +58,7 @@ Source: [YouTube](https://www.youtube.com/watch?v=3gWb3LNfX28)
 ::: {.column width="40%" .fragment .fade-left}
 <br>
 
-[🔗 Open NotebookLM](https://notebooklm.google/)
+[🔗 Open Gemini Notebook](https://notebooklm.google/)
 
 To create a new notebook, select: 
 

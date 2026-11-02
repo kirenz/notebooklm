@@ -3,11 +3,11 @@
 
 ## Getting Started
 
-Master the fundamentals of NotebookLM and see how it transforms your daily workflow.
+Master the fundamentals of Gemini Notebook and see how it transforms your daily workflow.
 
 ::: {.callout-note}
 
-[Introduction to NotebookLM](https://kirenz.github.io/notebooklm/notebooklm-intro#/title-slide) 
+[Introduction to Gemini Notebook](https://kirenz.github.io/notebooklm/notebooklm-intro#/title-slide) 
 
 :::
 
@@ -117,7 +117,7 @@ Memorize key terms, important dates and core concepts from your sources.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EZ6MM_orQTw?si=TQAbBqfyb1rPBnp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Flashcards give you the option to dig deeper; just click “explain” and NotebookLM will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.
+Flashcards give you the option to dig deeper; just click “explain” and Gemini Notebook will generate a detailed overview, helping you understand a flashcard definition, with citations pointing back to the original source material.
 
  ::: {.callout-note}
 
@@ -136,7 +136,7 @@ Test your comprehension and challenge yourself with custom questions based on yo
 
 You can customize the topic, set the difficulty and share your study sets with colleagues with a simple link.
 
-Just click “explain” and NotebookLM will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.
+Just click “explain” and Gemini Notebook will generate a detailed overview, explaining why you got a quiz question wrong, with citations pointing back to the original source material.
  
 
 <!-- ::: {.callout-note}

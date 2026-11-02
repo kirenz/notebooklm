@@ -1,5 +1,5 @@
 ---
-title: "NotebookLM Workshop"
+title: "Gemini Notebook Workshop"
 subtitle: ""
 author: "Jan Kirenz" 
 execute:
@@ -24,7 +24,7 @@ format:
     slide-number: c 
     preview-links: auto
     logo: images/logo.png # Replace this with your logo
-    footer: "Jan Kirenz | NotebookLM Workshop" 
+    footer: "Jan Kirenz | Gemini Notebook Workshop" 
     template-partials:
       - title-slide.html # Assuming this partial file exists
 ---
@@ -190,7 +190,7 @@ The link is in the chat.
 
 <br>
 
-NotebookLM as (Junior) Assistant
+Gemini Notebook as (Junior) Assistant
 
 
 **Clear Instructions** → Better Results
@@ -199,7 +199,7 @@ NotebookLM as (Junior) Assistant
 ::::
 
 
-## How to "Talk" to NotebookLM?
+## How to "Talk" to Gemini Notebook?
 
 
 <div style="text-align: center;">
@@ -233,7 +233,7 @@ flowchart LR
 
     subgraph Model[" "]
         direction TB
-        B["NotebookLM"]
+        B["Gemini Notebook"]
         style B fill:#ffffff,color:#374151,stroke:#e5e7eb,padding:30px
     end
 
@@ -262,7 +262,7 @@ flowchart LR
 |----------------|---------------------------------------------------------|
 | **Sources** | The documents that have been added to the notebook |
 | **Prompt** | The question or instruction                               |
-| **NotebookLM** | Uses Google's Gemini to understand and respond   |
+| **Gemini Notebook** | Uses Google's Gemini to understand and respond   |
 | **Output** | Text, mind map, or audio response                        |
 
 :::
@@ -297,7 +297,7 @@ Gleicher Prompt ≈ unterschiedliche Ausgaben
 :::: -->
 
 
-## Limitations of NotebookLM
+## Limitations of Gemini Notebook
 
 :::: {.columns}
 
@@ -510,7 +510,7 @@ This section provides additional context or tips.
 
 
 
-## Opening NotebookLM
+## Opening Gemini Notebook
 
 
 :::: {.columns}
@@ -525,7 +525,7 @@ This section provides additional context or tips.
 
 On your own device: 
 
-[🔗 Open NotebookLM](https://notebooklm.google/)
+[🔗 Open Gemini Notebook](https://notebooklm.google/)
 
 
 
@@ -544,7 +544,7 @@ On your own device:
 
 :::{.callout-note .fragment .fade-up}
 
-NotebookLM cannot delete or edit original files in Google Drive.
+Gemini Notebook cannot delete or edit original files in Google Drive.
 
 :::
 
@@ -1540,7 +1540,7 @@ Your own notes can be added to the sources.
 
 # 2. Exercises - Quick Wins {background-gradient="linear-gradient(to bottom, #FFDE00, #FFDE00)"}
 
-**Goal:** Become familiar with NotebookLM.
+**Goal:** Become familiar with Gemini Notebook.
 
 ## Meeting Preparation 
 
@@ -1554,7 +1554,7 @@ Your own notes can be added to the sources.
 
 <br>
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload a presentation (optional: add related documents)
 4. Ask the following question in chat:
@@ -1671,7 +1671,7 @@ and potential impacts on [AREA].
 
 ::: {.column width="40%" .fragment .fade-left }
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Copy your email thread (print as PDF) and add to sources
 4. Use the following prompt in chat:
@@ -1708,7 +1708,7 @@ Summarize this email thread as
 
 ::: {.column width="40%" .fragment .fade-left }
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload a (complex) document of your choice
 4. Navigate to the "Audio overview" section in the Studio area
@@ -1795,9 +1795,7 @@ Provide step-by-step instructions for using the Kärcher window vacuum for strea
 
 - C. **Training Accelerator**: *Transform manuals into engaging content*
 
-- D. **Communication Clarity**: *Precise communication*
-
-- E. **Domain-Specific Use Case**: *Use a domain-specific use case*
+- D. **Domain-Specific Use Case**: *Use a domain-specific use case*
 
 :::
 
@@ -1815,7 +1813,7 @@ Provide step-by-step instructions for using the Kärcher window vacuum for strea
 
 ::: {.column width="40%" .fragment .fade-left }
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload the report or data documents
 4. Use the following prompt in chat (adjust target audience and length):
@@ -1859,7 +1857,7 @@ Presentation length: "30 minutes"
 
 ::: {.column width="40%" .fragment .fade-left }
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload multiple competitor materials
 4. Use the following prompt in chat:
@@ -1899,7 +1897,7 @@ Create a strategic summary.
 
 ::: {.column width="40%" .fragment .fade-left }
 
-1. Open [NotebookLM](https://notebooklm.google.com)
+1. Open [Gemini Notebook](https://notebooklm.google.com)
 2. Select **Create new**
 3. Upload the technical training materials
 4. Use the following prompt in chat (adjust placeholders):
@@ -1929,50 +1927,7 @@ Make it engaging for [TARGET_AUDIENCE].
 
 ::::
 
-## D: Communication Clarity
-
-**Challenge:** Precise communication
-
-:::: {.columns}
-
-::: {.column width="60%" .fragment .fade-up}
-![](images/notebooklm/nlm-00.png)
-:::
-
-::: {.column width="40%" .fragment .fade-left }
-1. Open [NotebookLM](https://notebooklm.google.com)
-2. Select **Create new**
-3. Upload relevant documents for context
-4. Use the following prompt in chat (adjust placeholders):
-
-::: {.tiny-text .fragment .fade-up}
-Example prompt:
-```markdown
-Based on these documents, write a 
-[TEXT] that:
-- Clearly presents the situation
-- Provides necessary context
-- Recommends specific actions
-- Includes next steps and timeline
-The tone should be [TONE]  
-PLACEHOLDERS:
-[TEXT] = "email"
-[TONE] = "friendly"
-```
-Placeholder examples:
-
-[TEXT] = "email" or "update" or "proposal", ...   
-[TONE] = "professional" or "casual" or "urgent", ...
-:::
-
-5. Save the result as **Note**
-
-:::
-
-::::
-
-
-## E: Department-Specific 
+## D: Department-Specific 
 
 - Overview of [department-specific use cases](/use-cases-domains.qmd) (e.g., Marketing, Sales, Operations & Manufacturing, Quality Assurance, HR, Finance, Technical Documentation)
 
@@ -2036,7 +1991,7 @@ Recommended prompt?
 
 <br>
 
-✅ Learned NotebookLM features
+✅ Learned Gemini Notebook features
 
 ✅ Worked on some use cases 
 
